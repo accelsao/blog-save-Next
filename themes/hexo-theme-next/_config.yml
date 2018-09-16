@@ -45,8 +45,8 @@ cache:
 # For example, you put your favicons into `hexo-site/source/images` directory.
 # Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
 favicon:
-  small: https://lh3.googleusercontent.com/wLMS5-0VUfg141u6AnzNggUWLPBl7alljM-otgEV3lwc2A02HMaWygQr1yQCH_5uYnJAmxzuwrcZmfn0mL2bZ5g_PVKtoWw5gFf3fVSllTzOSfWp3GqxZVC8nTCGnNd-JhP3QLHBwZagy1hD5qta9e6DI3ClOAk-Vhv0xaIu4n699O9TBXDJ-WJCgj25ge6T5ylsSjWoiDZ4tU5qnhww97VjQRhqPtVNLbExeVKv_t3WjrpCyYqI91cWOwmVCrG4uGfIZJ-v6jpA0s2qJ_pXxnvBd04hqbWGja3HOsElfl-zShXIUbsP1DKadjYd0nyLXsGAGLUDu2P2J6_hHu0bTjnjR5HCKAWvTHVLPnXeLewJ1GF3Y32gLej0aCOhorX9CRR99syJZWVAor95-F-evfjZZQiLUB975fhdrbw9WrC1MwrEN0t_tKcu_j5ljK3E32cfhdWpizAakRXUkq6PCiGkX9OzTnOHa6yuw8lF7C856HpnYaJt2LJ1DnZ3-jrHq-0Sx2BCmXpTXKmYnzpqCyaSDwW_q1VAiXwXf1-JrcVCJNvW__AQnPAEyzLfj_8epsaWGY60kWZc-K9-K0DASU7IAWVZzMnV8rzRDKPv_WqwV3fYF9dwIGq7JLUaCGI=w150-h220-no
-  #medium: /images/favicon-32x32-next.png
+  #small: https://i.imgur.com/aKRHHmA.jpg
+  medium: https://i.imgur.com/aKRHHmA.jpg
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
@@ -192,7 +192,11 @@ links:
   【艦これボーカル】 帝國交響楽団 - 燃え落ちる誇り -Counter raid Another D- 【Subbed】: https://www.youtube.com/watch?v=sGYLIlCQWtw
   少女前線2.0v強力人形推薦: http://bbs.nga.cn/read.php?tid=13653039&rand=782
   handong1587's blog(Object Detection): https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
-
+  如何能在本科三年级就发表论文？: https://www.zhihu.com/question/21427261/answer/21102951?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button
+  少女前线0-10图后勤收益表: https://bbs.nga.cn/read.php?tid=13170579
+  在国内CS本科教育环境下，对CS大一新生有什么建议？: https://www.zhihu.com/question/32194463/answer/55061498
+  
+  
 # Sidebar Avatar
 avatar:
   # in theme directory(source/images): /images/avatar.gif

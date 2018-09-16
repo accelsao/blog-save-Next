@@ -8,6 +8,8 @@ date: 2018-08-12 13:03:50
 ---
 Paper Notes (To be continued)
 
+<!--more-->
+
 # Introduction
 Active contour model, also called snakes, is a framework in computer vision introduced by Michael Kass, Andrew Witkin and Demetri Terzopoulos for delineating an object outline from a possibly noisy 2D image
 應用於object tracking, shape recognition, segmentation, edge detection and stereo matching.

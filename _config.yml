@@ -1,14 +1,14 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
 title: Jiburiru's Blog
-subtitle: Accelsao's home
+subtitle: accelsao's home
 description: Never Give Up
 keywords:
 author: Jiburiru
-language: en
+language: zh-TW
 timezone: 
 
 # URL

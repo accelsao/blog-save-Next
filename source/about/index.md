@@ -141,6 +141,8 @@ date: 2018-09-15 21:06:57
 			* KARATE
 		* 帝國交響楽団 
 			* 燃え落ちる誇り -Counter raid Another D
+		* Roselia
+			* Neo-Aspect
 	* 歌手
 		* LiSA
 			* The end of my world
@@ -161,6 +163,7 @@ date: 2018-09-15 21:06:57
 		* 中島美嘉
 			* 僕が死のうと思ったのは
 			* Glamorous Sky 
+			* KISS OF DEATH
 		* 山崎まさよし
 			* One more time,One more chance
 		* 秦基博
@@ -209,6 +212,6 @@ date: 2018-09-15 21:06:57
 			* βios Vocal:小林未郁
 			* Bauklötze Vocal:小林未郁
 		* 梶浦由記
-			* Kalafina - Magia
+			* [Kalafina - Magia](https://www.youtube.com/watch?v=QwquipMpsiQ)
 		* 高梨康治
 			* 追憶 めざめる たましい
