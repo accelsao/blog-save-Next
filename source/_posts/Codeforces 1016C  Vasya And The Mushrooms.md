@@ -1,18 +1,21 @@
 ﻿---
-title: CF 1016C - Vasya And The Mushrooms
+title: Codeforces 1016C  Vasya And The Mushrooms
 tags:
 - DP
+- Codeforces
 categories:
-- ACM
+- Competitive Programming
 date: 2018-08-11 19:42:33
 ---
 未醒...
-<!--more-->
+
 # Problem
 給你兩行數字代表蘑菇的重量
 行走各個位置**剛好一次**
 每次只能行進相鄰一格,剛好一次且不能走出去,也不能停下來
 從0開始 找出能夠獲得最大權重的走法
+
+<!--more-->
 
 # Input
 * length of the glade \\(1 \le n \le 3 \cdot 10^5\\)

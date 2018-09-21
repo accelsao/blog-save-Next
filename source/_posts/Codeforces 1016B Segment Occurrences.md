@@ -1,17 +1,21 @@
 ﻿---
-title: CF 1016B - Segment Occurrences
+title: Codeforces 1016B Segment Occurrences
 tags:
   - Brute Force
+  - Codeforces
 categories:
-  - ACM
+  - Competitive Programming
 date: 2018-08-11 14:54:59
 ---
 太久沒寫了 廢掉了QQ
-<!--more-->
+
 # Problem
 給你n,m,q分別代表String a,b長度和區間詢問數
 求每筆區間詢問有幾個string a的substring等於string b
 substring的l,r包含於詢問的l,r
+
+
+<!--more-->
 
 # Input
 * \\(1 \le n, m \le 10^3\\)

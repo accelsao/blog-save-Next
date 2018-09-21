@@ -1,10 +1,10 @@
 ﻿---
-title: AT - + Graph
+title: AtCoder SoundHound Inc. Programming Contest 2018 -Masters Tournament- E + Graph
 tags:
   - AtCoder
   - Graphs
 categories:
-  - ACM
+  - Competitive Programming
 date: 2018-07-09 20:39:42
 ---
 
@@ -15,6 +15,8 @@ Kenkoooo 發現一個simple connected graph.1~n的點給你邊u,v然後還有s
 他要在每個點上寫一個正數
 任一邊滿足`u+v=s`
 問你有幾種可能
+
+<!--more-->
 
 # Constraints
 * \\(2\leq n\leq 10^{5}\\)

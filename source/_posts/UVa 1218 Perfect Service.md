@@ -1,11 +1,11 @@
 ﻿---
-title: UVa 1218 - Perfect Service
+title: UVa 1218 Perfect Service
 tags:
   - UVa
   - DP
   - Trees
 categories:
-  - ACM
+  - Competitive Programming
 date: 2018-07-06 14:16:09
 ---
 

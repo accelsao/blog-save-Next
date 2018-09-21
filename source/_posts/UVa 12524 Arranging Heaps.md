@@ -1,9 +1,10 @@
 ﻿---
-title: UVa 12524 - Arranging Heaps
+title: UVa 12524 Arranging Heaps
 layout: post
 date: 2018-06-24 10:29:14
 comment: true
-categories: ACM
+categories:
+- Competitive Programming
 tags:
 - DP
 - Slope Optimization

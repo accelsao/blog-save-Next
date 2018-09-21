@@ -188,8 +188,6 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  一首好聽的日語歌——《カルデラ》黒木渚: https://www.youtube.com/watch?v=cXeo2yn22z0
-  【艦これボーカル】 帝國交響楽団 - 燃え落ちる誇り -Counter raid Another D- 【Subbed】: https://www.youtube.com/watch?v=sGYLIlCQWtw
   少女前線2.0v強力人形推薦: http://bbs.nga.cn/read.php?tid=13653039&rand=782
   handong1587's blog(Object Detection): https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
   如何能在本科三年级就发表论文？: https://www.zhihu.com/question/21427261/answer/21102951?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button
@@ -202,7 +200,7 @@ avatar:
   # in theme directory(source/images): /images/avatar.gif
   # in site  directory(source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: https://lh3.googleusercontent.com/San6zTNEoz5q6vDJDtwXjIqveFbFBqhkZM5NVwSRMKnmPrfolxCiny1cGZtupKZA72MTnRKKNvIn5UutdJ3Cgs4Y-J5RAO_IajhdzLHqA7WFj_xm4V-dEFTtV96rQ-tnWOifgqlZKFDdphsxm_tdn0dlbin9x9NOV5JEjUnd6CRhsL4lBeDln4JHFCsWXeydcyYXmoZXjUOL1o6kzdT6esoUM7KGwVUvSgIF0iGiuM57D-uT-_lKlH19r9Bs0HUeUmU6fZSU40CAniMkVHCYhD4k-UDlCwXpKjnKkwvlGt8H07eK0aXNTWshO8HaMQQTeOWlUeJydA0mOrY7RH6Ih90G585fjJC4Zg3MFn88dQEUdKdN624zryPa8kIUw4uagVfxRi9xmqFqXOv5MyRKB4W5apwv-LVfw613ecfZX0ZtiorgZ0uyFop_amKbp72XIj9H0yaPlyRaddTu1J70dh35E7tl49EDKQB9VKv7kPBKrSJVOKC-JosI1rmja-1X8_jaDHRF79OA6t7S6BnLVjfHdHN2tKy-5sn2zN1pWJ3VeC_vy8xPIh-iobTJ6e20B58CSM5D6YcBGePcFpOEqD4bfGygJNWaWGctyH5qnAwUUnTsHBWe-u8ip3A763k=s317-no  # If true, the avatar would be dispalyed in circle.
+  url: https://i.imgur.com/r1ouiFo.jpg
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
   opacity: 1

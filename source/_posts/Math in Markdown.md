@@ -3,7 +3,8 @@ title: Math in Markdown
 date: 2018-06-24 23:56:49
 comment: true
 categories:
-- Syntax
+- Markup language
+- Lightweight Markup Language
 tags:
 - Markdown
 - MathJax

@@ -1,13 +1,18 @@
 ﻿
 ---
-title: SVM vs. Softmax
+title: Linear classification Support Vector Machine and Softmax
 tags:
+  - Linear Classifier
   - CS231n
-  - Loss function
 categories:
-  - Computer Vision
+  - CS231n Convolutional Neural Networks for Visual Recognition
+  - Neural Networks
 date: 2018-06-28 20:38:41
+mathjax: true
 ---
+
+CS231n Course Notes 
+<!--more-->
 
 A picture might help clarify the distinction between the Softmax and SVM classifiers:
 

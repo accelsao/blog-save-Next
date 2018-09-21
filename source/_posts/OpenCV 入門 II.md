@@ -1,15 +1,15 @@
 ﻿---
-title: OpenCV 入門 - II
+title: OpenCV 入門 II
 tags:
   - OpenCV C++
 
 categories:
-  - Computer Vision
+  - Programming language
 
 date: 2018-07-11 08:47:23
 ---
 OpenCV 續篇 II
-
+<!--more-->
 # Mask operations on matrices
 
 

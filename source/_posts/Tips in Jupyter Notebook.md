@@ -1,9 +1,9 @@
 ﻿---
 title: Tips in Jupyter Notebook
 tags:
-  - Jupyter Notebook
+- Jupyter Notebook
 categories:
-  - Syntax
+- Programming language
 date: 2018-07-04 15:55:16
 ---
 Some tips about Jupyter Notebook record in this page

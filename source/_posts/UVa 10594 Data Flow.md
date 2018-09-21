@@ -1,16 +1,19 @@
 ﻿---
-title: UVa 10594 - Data Flow
+title: UVa 10594 Data Flow
 date: 2018-06-25 17:25:15
 comment: true
 categories:
-- ACM
+- Competitive Programming
 tags:
 - UVa
 - Flow
+mathjax: true
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 ## Problem and Solution
 Find the min cost max flow the network
+<!--more-->
+
 ## Input
 * \\(2\leq N \leq 100\\), N nodes
 * \\(1\leq M \leq 5000\\), M edges

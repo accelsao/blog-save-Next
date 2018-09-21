@@ -1,14 +1,15 @@
 ﻿---
-title: OpenCV 入門 - I
+title: OpenCV 入門 I
 tags:
   - OpenCV C++
 categories:
-  - Computer Vision
+  - Programming language
+  
 date: 2018-07-10 19:15:17
 ---
 簡單紀錄OpenCV C++的入門過程
 一如既往的被各種環境搞瘋 重點是我以前才做過 結果還是...乾
-
+<!--more-->
 特別紀錄一下
 [[圖文] OpenCV 3.4.1 安裝配置在 Visual Studio 2017](https://charlottehong.blogspot.com/2017/06/opencv-320-vc14-visual-studio-2017.html)
 首先這篇是沒什麼問題 之前做也成功過

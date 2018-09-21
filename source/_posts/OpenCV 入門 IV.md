@@ -1,16 +1,16 @@
 ﻿---
-title: OpenCV 入門 - IV
+title: OpenCV 入門 IV
 tags:
   - OpenCV C++
 
 categories:
-  - Computer Vision
+  - Programming language
 
 date: 2018-07-21 19:43:56
 ---
 
 OpenCV 續篇 IV
-
+<!--more-->
 # Sobel Derivatives
 
 是一種獲得影像一階的方法 常用於邊緣檢測

@@ -4,10 +4,9 @@ date: 2018-06-25 20:54:00
 comment: true
 categories:
 - Environment Setup
-- Talks
 tags:
 - Hexo
-- Mathjax
+- MathJax
 - Git
 ---
 ## 前言

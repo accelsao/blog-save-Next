@@ -3,7 +3,8 @@ title: 淺談PCA和t-SNE
 tags:
   - PCA
 categories:
-  - Machine learning
+- Artificial Intelligence
+- Machine Learning
 date: 2018-07-09 10:07:06
 ---
 
@@ -13,6 +14,9 @@ date: 2018-07-09 10:07:06
 3. 超過3維不好視覺化
 
 所以我們需要一些降維方法
+
+
+<!--more-->
 
 # PCA(Principal components analysis)
 

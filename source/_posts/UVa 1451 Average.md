@@ -1,7 +1,8 @@
 ﻿---
-title: UVa 1451 - Average
+title: UVa 1451 Average
 date: 2018-06-25 10:14:00
-categories: ACM
+categories:
+- Competitive Programming
 tags:
 - Slope Optimization
 - DP

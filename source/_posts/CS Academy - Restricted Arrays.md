@@ -1,36 +1,37 @@
-﻿---
-title: CSA - City Break
-date: 2018-06-26 14:55:35
-categories:
-- ACM
-tags:
-- CS Academy 
-- Two Pointer
 ---
-
+title: CS Academy - Restricted Arrays
+date: 2018-06-26 16:17:16
+categories:
+- Competitive Programming
+tags:
+- CS Academy
+- Combinatorial
+---
 ## Problem
-There are N cities on a circle,you know the distance between any two consecutive cities.  
-You start in the city with index S, at every step you move to the closest city that was not previously visited  
-(in case there is more than one closest city you choose the one with minimum index).  
-What’s the distance you cover until you visit all the N cities?  
+You are given an array *A* of size *N* and an integer *K*. How many arrays *B*  can you build such that:
+* \\(max(B_i)\\) is minmum
+* \\(B_i\\)>0
+* for any two indices *i* and *j*,\\(|i-j|<K:B_i=B_j\: if A_i=A_j\: else B_i\neq B_j\\)
 
 <!--more-->
 
-## Input
-* \\(1\leq N \leq 10^{5}\\)
-* \\(1\leq S \leq N\\)
-* The distance between any 2 consecutive cities is an integer between 1 and \\(10^{​7}\\)
-* The sum of distances is \\(\leq 10^{8}\\)
+## Input 
+* \\(1\leq K\leq N\leq 10^{5}\\)
+* \\(1\leq A_i\leq N\\)
 
-## Output
-The minmum distance to visit N cities
+## Output 
+the numbers of arrays *B* that satisfy the problem, and an modulo \\(10^{9}+7\\)
 
 
 
 ## Solution
-Every step you have to find an unvisited city.  
-To find the min distance, there is no point to go pass the unvisited city.  
-So maintain the possible left and right city  until you find all cities  
+the constraint meet only for every k consecutive indices  *i-k+1~i*
+We count the unique numbers from *i-k+1~i*, define it *c[i]*  
+Then find the maximum,define it Mx, and Mx is the max number for *B* arrays  
+Now we can count the possible \\(B_i\\)  
+Maintain segement with length *K*  
+We count only if it is the **first occurence number** in the segment ,because others must be the same as the first one  
+Then , the possible ways is Mx-c[i]+1 or Mx-(c[i]-1)  
 
 ## Code
 ```cpp
@@ -72,48 +73,37 @@ const double PI(acos(-1.0));
 //int dw[8][2]={{0,1},{1,0},{0,-1},{-1,0},{1,1},{1,-1},{-1,1},{-1,-1}};
 //cout<<fixed<<setprecision(12)<<ans<<endl;
 //__builtin_popcount(mask)
-int n,s;
-int d[N];
+int n,k;
+int c[N];
 int a[N];
-int get(int u,int v){
-	int dis=0;
-	if(u>v)swap(u,v);
-
-	dis=a[v]-a[u];
-	dis=min(dis,a[n]-dis);
-	return dis;
+int d[N][2];//the different number in i-k+1~i,and whether the first occurance or not
+int s;
+void add(int x,int v){
+	if(!c[x])s++;
+	c[x]+=v;
+	if(!c[x])s--;
 }
 int main(){Accel
-	cin>>n>>s;
-	s--;
-	REP(i,n){
-		cin>>d[i];
-		a[i+1]=a[i]+d[i];		
-	}
-	int l=(s-1+n)%n;
-	int r=(s+1)%n;
-	LL tot=0;
-	REP(tm,n-1){
-		int d1=get(s,l);
-		int d2=get(s,r);
-		if(d1<d2||d1==d2&&l<r){
-			tot+=d1;
-			s=l;
-			l=(l-1+n)%n;
-		}
-		else{
-			tot+=d2;
-			s=r;
-			r++;r%=n;
+	cin>>n>>k;
+	int x;
+	int t=0;
+	FOR(i,1,n){
+		cin>>a[i];
+		add(a[i],1);
+		d[i][0]=s;
+		d[i][1]=(c[a[i]]==1);
+		t=max(t,s);
+		if(i>=k){
+			add(a[i-k+1],-1);
 		}
 	}
-	cout<<tot<<endl;
 	
-
-		
+	LL ans=1;
+	FOR(i,1,n){
+		if(d[i][1])
+			ans=ans*(t-d[i][0]+1)%M;
+	}
+	cout<<ans<<endl;
+	
 }
-/*
-4 1
-1 10 1 1
-*/
 ```

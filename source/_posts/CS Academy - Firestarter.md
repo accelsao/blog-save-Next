@@ -1,11 +1,11 @@
 ﻿---
-title: CSA - Firestarter
+title: CS Academy - Firestarter
 tags:
   - CS Academy
   - Graphs
   - Shortest Path
 categories:
-  - ACM
+  - Competitive Programming
 date: 2018-07-06 10:30:28
 ---
 

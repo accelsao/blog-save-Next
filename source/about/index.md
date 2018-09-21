@@ -140,7 +140,7 @@ date: 2018-09-15 21:06:57
 		* BABYMETAL
 			* KARATE
 		* 帝國交響楽団 
-			* 燃え落ちる誇り -Counter raid Another D
+			* [燃え落ちる誇り -Counter raid Another D](https://www.youtube.com/watch?v=sGYLIlCQWtw)
 		* Roselia
 			* Neo-Aspect
 	* 歌手
@@ -176,7 +176,7 @@ date: 2018-09-15 21:06:57
 			* ギミアブレスタッナウ
 		* 芝麻Mochi (歌聲似Aimer)
 		* 黒木渚
-			 *カルデラ
+			 *[カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata Original Soundtrack - Complete Full Soundtrack
 		* Made in Abyss

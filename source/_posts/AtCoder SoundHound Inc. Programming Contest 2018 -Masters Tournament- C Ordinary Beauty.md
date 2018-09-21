@@ -1,10 +1,10 @@
 ﻿---
-title: AT - Ordinary Beauty
+title: AtCoder SoundHound Inc. Programming Contest 2018 -Masters Tournament- C Ordinary Beauty
 tags:
   - Probabilities
   - AtCoder
 categories:
-  - ACM
+  - Competitive Programming
 date: 2018-07-09 17:22:08
 ---
 
@@ -21,10 +21,15 @@ Example,d=1時 (3,2,3,10,9) 是3
 
 簡單說 ans=\\(\frac{\sum beauty}{n^{m}}\\)
 
+<!--more-->
+
 # Contraints
 * \\(0\leq d<n \leq 10^{9}\\)
 * \\(2 \leq m \leq 10^{9}\\)
 * 都是整數
+
+
+
 
 # Solution
 考慮兩個相鄰的數

@@ -1,21 +1,23 @@
 ﻿
 ---
-title: CF 993A - Two Squares
+title: Codeforces 993A Two Squares
 tags:
   - Codeforces
   - Geometry
 categories:
-  - ACM
+  - Competitive Programming
 date: 2018-06-27 15:28:51
 ---
 ## Problem
 You are given two squares, one with sides parallel to the coordinate axes, and another one with sides at 45 degrees to the coordinate axes. Find whether the two squares intersect.
 
+<!--more-->
+
 ## Input
 Two lines each containg 4 coordinates are either in clockwise or counterclockwise order
 All values are integer between -100~100
 
-<!--more-->
+
 
 ##  Solution
 **Since the value are between -100~100**

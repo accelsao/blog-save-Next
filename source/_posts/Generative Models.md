@@ -9,6 +9,7 @@ date: 2018-07-09 08:28:09
 
 Talk about Generative Models from cs231n 2018 lecture 12
 
+<!--more-->
 # Generative Models
 
 

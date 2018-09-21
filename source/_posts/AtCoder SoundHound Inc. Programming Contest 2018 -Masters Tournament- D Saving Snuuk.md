@@ -1,11 +1,11 @@
 ﻿---
-title: AT - Saving Snuuk
+title: AtCoder SoundHound Inc. Programming Contest 2018 -Masters Tournament- D Saving Snuuk
 tags:
   - Shortest Path
   - AtCoder
   - Graphs
 categories:
-  - ACM
+  - Competitive Programming
 date: 2018-07-10 10:58:26
 ---
 
@@ -26,6 +26,8 @@ a代表第一種貨幣的花費 ,b是另外一種
 所以當你0year出發 點1~n都可以交換
 但當你n-1year出發 只有點n可以交換 
 總共有n個答案
+
+<!--more-->
 
 # Constraints
 * \\(2\leq n \leq 10^{5}\\)

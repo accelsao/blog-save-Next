@@ -1,15 +1,15 @@
 ﻿---
-title: OpenCV 入門 - III
+title: OpenCV 入門 III
 tags:
   - OpenCV C++
 
 categories:
-  - Computer Vision
+  - Programming language
 
 date: 2018-07-11 11:49:29
 ---
 OpenCV 續篇 III
-
+<!--more-->
 # Smoothing Images
 
 *	**smoothing**有時叫做**blurring**,簡單常見的影像處理方法

@@ -7,7 +7,7 @@ categories:
 date: 2018-08-11 11:09:26
 ---
 Image Segmentation Algorithms Overview 論文筆記(待補)
-
+<!--more-->
 # Introdution
 Image Segmentation 可以把圖像中我們有興趣的部分"分割"出來
 這篇提出5個算法來簡單分析
