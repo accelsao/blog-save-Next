@@ -1,7 +1,7 @@
 ---
 title: AtCoder Grand Contest 027 C - ABland Yard
 tags:
-  - Graph
+  - Graphs
   - AtCoder
 categories:
   - Competitive Programming

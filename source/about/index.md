@@ -75,17 +75,15 @@ date: 2018-09-15 21:06:57
 		* 東京殘響 
 
 * Music列表
-	因為Youtube會被刪 因此只留下名子
-
 	* 樂團
 		* 凛として時雨 (Ling Tosite Sigure)
 			* 24REVERSE
-			* AM3:45
+			* [AM3:45](https://www.youtube.com/watch?v=LWmvOuX0g-U)
 			* High Energy Vacuum
 			* EneME
 			* Ten to ten
 			* CRAZY感情STYLE
-			* Sergio Echigo
+			* [Sergio Echigo](https://www.youtube.com/watch?v=t46DPoRtzFY)
 			* Sadistic Summer
 		* Cö Shu Nie
 			* Asphyxia
@@ -112,6 +110,7 @@ date: 2018-09-15 21:06:57
 			* Escape
 		* MYTH & ROID
 			* HYDRA
+			* [VORACITY](https://www.youtube.com/watch?v=D-LXfVLL5Tc)
 		* Hello Sleepwalkers
 			* 天地創造
 			* 月面歩行
@@ -129,8 +128,9 @@ date: 2018-09-15 21:06:57
 			* Memento mori(feat.Aimer)
 		* w-inds.
 			* Be As One
-		* みうめ・メイリア・217
-			* Love Swing
+		* [みうめ・メイリア・217]
+			* [Love Swing](https://www.youtube.com/watch?v=Wwyj6d5DGiA)
+			* [響喜乱舞](https://www.youtube.com/watch?v=SOTVTJNHa3w)
 		* GARNiDELiA
 			* Speed Star
 		* Vast & Hazy
@@ -143,7 +143,17 @@ date: 2018-09-15 21:06:57
 			* [燃え落ちる誇り -Counter raid Another D](https://www.youtube.com/watch?v=sGYLIlCQWtw)
 		* Roselia
 			* Neo-Aspect
+		* fox capture pla
+			* [Butterfly Effect](https://www.youtube.com/watch?v=8cMhQ_teEoY)
+			* [疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
+		* Linked Horizon
+			* [暁の鎮魂歌](https://www.youtube.com/watch?v=NOn5eESkhQ8)
+			
 	* 歌手
+		* Miwa
+			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
+		* YURiKA
+			* 鏡面の波
 		* LiSA
 			* The end of my world
 			* Catch the Moment
@@ -152,8 +162,10 @@ date: 2018-09-15 21:06:57
 			* 花の唄
 			* Ninelie
 			* Last Stardust
+			* [Black Bird](https://www.youtube.com/watch?v=Svg5LG6VQV0)
+			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 		* Sayuri
-			* 光と闇
+			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)
 		* 鈴木KONOMI
 			* Blow out
 		* Shakira
@@ -161,7 +173,8 @@ date: 2018-09-15 21:06:57
 		* Tia 
 			* Deal with the Devil 
 		* 中島美嘉
-			* 僕が死のうと思ったのは
+			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
+			* [僕が死のうと思ったのは](https://www.youtube.com/watch?v=QL3T2Nzcqcs)
 			* Glamorous Sky 
 			* KISS OF DEATH
 		* 山崎まさよし
@@ -176,9 +189,13 @@ date: 2018-09-15 21:06:57
 			* ギミアブレスタッナウ
 		* 芝麻Mochi (歌聲似Aimer)
 		* 黒木渚
-			 *[カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
+			* [カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
+		* まじ娘(Majiko)
+			* [ひび割れた世界](https://www.youtube.com/watch?v=6rHySk9Kcuo)
+			* [君に最後の口づけを](https://www.youtube.com/watch?v=ojG9C6L61oA)
 	* 遊戲/動畫 OST/BGM
-		* NieR: Automata Original Soundtrack - Complete Full Soundtrack
+		* NieR: Automata OST
+			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
 		* Made in Abyss
 			* Hanezeve Caradhina 
 			* Underground River
@@ -205,13 +222,19 @@ date: 2018-09-15 21:06:57
 			* ウソとホント
 			* 友人A君を私の伴奏者に任命します
 			* 私の嘘
+		* 誓血龍騎士3
+			* [The Last Song](https://www.youtube.com/watch?v=Cgy7IbVRvek)
 	* 作曲家
 		* 澤野弘之
 			* Aesthetic
 			* aLIEz
 			* βios Vocal:小林未郁
 			* Bauklötze Vocal:小林未郁
+			* This is a fight to change the world Vocal:小林未郁
+			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
 		* 梶浦由記
 			* [Kalafina - Magia](https://www.youtube.com/watch?v=QwquipMpsiQ)
 		* 高梨康治
 			* 追憶 めざめる たましい
+		* 木村弓
+			* [いのちの名前](https://www.youtube.com/watch?v=LCbLK2fG2eM)

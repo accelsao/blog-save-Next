@@ -1,7 +1,7 @@
 ---
 title: Codeforces 346D Robot Control
 tags:
-- Shortest Paths
+- Shortest Path
 - Codeforces
 categories:
 - Competitive Programming

@@ -1,5 +1,5 @@
 ---
-title: Deep Learning (IYA) Chapter 9 - Convolutional Networks
+title: Deep Learning IYA Chapter 9 Convolutional Networks
 date: 2018-09-17 09:54:04
 tags:
 - Convolutional Neural Network

@@ -2,9 +2,12 @@
 title: {{ title }}
 date: {{ date }}
 tags:
-- 果然我的青春戀愛喜劇搞錯了
+- Z Algorithm
+- DP
+- Strings
+- Codeforces
 categories:
-- Novel
+- Competitive Programming
 mathjax: true
 ---
 

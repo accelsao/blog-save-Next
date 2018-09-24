@@ -5,7 +5,8 @@ categories:
 - Competitive Programming
 tags:
 - CS Academy
-- Combinatorial
+- Combinatorics
+mathjax: true
 ---
 ## Problem
 You are given an array *A* of size *N* and an integer *K*. How many arrays *B*  can you build such that:

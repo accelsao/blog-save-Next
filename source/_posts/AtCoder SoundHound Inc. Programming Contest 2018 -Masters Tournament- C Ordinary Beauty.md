@@ -1,11 +1,12 @@
 ﻿---
 title: AtCoder SoundHound Inc. Programming Contest 2018 -Masters Tournament- C Ordinary Beauty
 tags:
-  - Probabilities
+  - Probability
   - AtCoder
 categories:
   - Competitive Programming
 date: 2018-07-09 17:22:08
+mathjax: true
 ---
 
 一個簡單的題目但我卡很久因為我超廢
