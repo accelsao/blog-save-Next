@@ -188,16 +188,19 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  少女前線2.0v強力人形推薦: http://bbs.nga.cn/read.php?tid=13653039&rand=782
+  OpenCV C++经典书籍和实战项目: https://zhuanlan.zhihu.com/p/35316731
   handong1587's blog(Object Detection): https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
   如何能在本科三年级就发表论文？: https://www.zhihu.com/question/21427261/answer/21102951?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button
-  少女前线0-10图后勤收益表: https://bbs.nga.cn/read.php?tid=13170579
   在国内CS本科教育环境下，对CS大一新生有什么建议？: https://www.zhihu.com/question/32194463/answer/55061498
   Stanford Explore Courses: https://explorecourses.stanford.edu/search?view=catalog&academicYear=&page=0&q=CS&filter-departmentcode-CS=on&filter-coursestatus-Active=on&filter-term-Autumn=on
   学习了哪些知识，计算机视觉才算入门？: https://www.zhihu.com/question/26836846
   成功的背後，你看到什麼？: https://www.youtube.com/watch?v=gAbYAqq9jhc&t=2215s
   Annotated Computer Vision Bibliography: http://www.visionbib.com/bibliography/contents.html
   CMU CS Courses: http://coursecatalog.web.cmu.edu/schoolofcomputerscience/courses/
+  CMU Intro to Computer Systems, Fall 2018: http://www.cs.cmu.edu/~213/schedule.html
+  作为计算机专业学生，最应该学习的课程前五位是什么？: https://www.zhihu.com/question/19628851
+  如何阅读《深入理解计算机系统》这本书？: https://www.zhihu.com/question/20402534
+  Probabilistic Graphical Models 10708: https://www.cs.cmu.edu/~epxing/Class/10708/lecture.html
   
 # Sidebar Avatar
 avatar:

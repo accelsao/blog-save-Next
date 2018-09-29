@@ -1,11 +1,11 @@
 ﻿---
 title: OpenCV 入門 IV
 tags:
-  - OpenCV C++
-
+- OpenCV
 categories:
-  - Programming language
-
+- Computer Vision
+- OpenCV
+mathjax: true
 date: 2018-07-21 19:43:56
 ---
 

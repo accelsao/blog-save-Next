@@ -101,7 +101,7 @@ date: 2018-09-15 21:06:57
 		* 嘘とカメレオン
 			* されど奇術師は賽を振る
 		* ポルカドットスティングレイ
-			* リスミー
+			* [リスミー](https://www.youtube.com/watch?v=1z4RosaB-UQ)
 		* Supercell
 			* My Dearest
 		* Hyakkei 百景
@@ -193,6 +193,9 @@ date: 2018-09-15 21:06:57
 		* まじ娘(Majiko)
 			* [ひび割れた世界](https://www.youtube.com/watch?v=6rHySk9Kcuo)
 			* [君に最後の口づけを](https://www.youtube.com/watch?v=ojG9C6L61oA)
+		* DAOKO 
+			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
+			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
@@ -224,6 +227,8 @@ date: 2018-09-15 21:06:57
 			* 私の嘘
 		* 誓血龍騎士3
 			* [The Last Song](https://www.youtube.com/watch?v=Cgy7IbVRvek)
+			* [This Silence is Mine](https://www.youtube.com/watch?v=pQrQEmClpWc)
+			
 	* 作曲家
 		* 澤野弘之
 			* Aesthetic

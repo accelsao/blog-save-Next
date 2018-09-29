@@ -1,11 +1,11 @@
 ﻿---
 title: OpenCV 入門 III
 tags:
-  - OpenCV C++
-
+- OpenCV
 categories:
-  - Programming language
-
+- Computer Vision
+- OpenCV
+mathjax: true
 date: 2018-07-11 11:49:29
 ---
 OpenCV 續篇 III
