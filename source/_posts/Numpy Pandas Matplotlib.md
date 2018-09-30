@@ -1,12 +1,15 @@
 ﻿---
-title: Tips in Jupyter Notebook
+title: Numpy Pandas Matplotlib
 tags:
-- Jupyter Notebook
+- Numpy
+- Matplotlib	
 categories:
-- Programming language
+- Python Library
 date: 2018-07-04 15:55:16
 ---
-Some tips about Jupyter Notebook record in this page
+
+Some functions for Numpy Pandas Matplotlib
+
 <!--more-->
 # Numpy
 
@@ -230,4 +233,70 @@ print(a)
 
 # 將圖片在jupyter notebook裡顯示
 
+```
+
+
+# Pandas
+
+## pandas.DataFrame.iloc
+Purely integer-location based indexing for selection by position.
+簡單說是用來選取範圍
+
+```py
+Input
+df = pd.DataFrame({'A':[1,2,3],
+                   'B':[4,5,6],
+                   'C':[7,8,9],
+                   'D':[1,3,5],
+                   'E':[5,3,6],
+                   'F':[7,4,3]})
+				   
+print(df.iloc[:, :-1]) 沒有F col
+Output:
+   A  B  C  D  E
+0  1  4  7  1  5
+1  2  5  8  3  3
+2  3  6  9  5  6
+
+print(df.iloc[:,-1:]) 只有F
+Output:
+   F
+0  7
+1  4
+2  3
+
+print(df.iloc[:,1:3])
+Output:
+   B  C
+0  4  7
+1  5  8
+2  6  9
+
+print(df.iloc[0:1,1:3])
+Output:
+   B  C
+0  4  7
+
+print(df.iloc[0:1,3:3]) 當你index輸入錯誤的時候
+Output:
+Empty DataFrame
+Columns: []
+Index: [0]
+
+print(df.iloc[0:1,3:8]) 不過這種居然不會出錯
+Output:
+   D  E  F
+0  1  5  7
+
+print(df.iloc[2:-1,:5])
+Output:
+Empty DataFrame
+Columns: [A, B, C, D, E]
+Index: []
+
+print(df.iloc[0:2,6:8])
+Output:
+Empty DataFrame
+Columns: []
+Index: [0, 1]
 ```
