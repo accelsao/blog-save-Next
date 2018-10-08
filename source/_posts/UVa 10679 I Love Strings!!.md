@@ -100,7 +100,7 @@ int main(){
 [模板來源](https://blog.csdn.net/a1325136367/article/details/78888673)
 
 ## Code
-```
+```cpp
 #include<bits/stdc++.h>
 #define Re(a,b) memset(a,b,sizeof a)
 using namespace std;

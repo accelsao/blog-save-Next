@@ -1,5 +1,5 @@
 ---
-title: Hackerrank Playing With Characters
+title: Hackerrank - Playing With Characters
 tags:
 - C
 - Hackerrank

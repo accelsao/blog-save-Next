@@ -148,6 +148,11 @@ date: 2018-09-15 21:06:57
 			* [疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
 		* Linked Horizon
 			* [暁の鎮魂歌](https://www.youtube.com/watch?v=NOn5eESkhQ8)
+		* ずっと真夜中でいいのに。
+			* [秒針を噛む](https://www.youtube.com/watch?v=GJI4Gv7NbmE)
+		* 水曜日のカンパネラ
+			* [シャクシャイン](https://www.youtube.com/watch?v=A1oxh8Z-2ko)
+		
 			
 	* 歌手
 		* Miwa

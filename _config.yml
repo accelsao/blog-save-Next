@@ -4,8 +4,8 @@
 
 # Site
 title: Jiburiru's Blog
-subtitle: 隨筆小記
-description: Never Give Up
+subtitle: 心若沒有棲息的地方，到哪都是流浪
+description: Just Do It
 keywords:
 author: Jiburiru
 language: zh-TW
@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
