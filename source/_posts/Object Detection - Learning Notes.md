@@ -1,5 +1,5 @@
 ---
-title: Object Detection Learning Notes
+title: Object Detection - Learning Notes
 tags:
   - Object Detection
 categories:
@@ -8,6 +8,7 @@ mathjax: false
 date: 2018-10-05 07:39:00
 ---
 
+Object Detection 相關算法List
 
 <!--more-->
 

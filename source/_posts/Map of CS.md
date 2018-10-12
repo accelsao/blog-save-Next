@@ -8,7 +8,7 @@ mathjax: false
 date: 2018-10-08 09:52:34
 ---
 
-CS相關技能樹和List
+CS相關技能樹
 傾向我的興趣
 
 <!--more-->
@@ -70,6 +70,10 @@ CS相關技能樹和List
 * Operating system
 * Computer network
 * Compilers
+* AI
+
+
+
 ![](https://pic3.zhimg.com/5f4c4556d6db361eb2e0219bbdb65d5a_r.jpg)
 
 # Computer Vision

@@ -3,11 +3,9 @@ title: Hexo note
 date: 2018-06-25 20:54:00
 comment: true
 categories:
-- Environment Setup
+- Hexo
 tags:
 - Hexo
-- MathJax
-- Git
 ---
 ## 前言
 
@@ -88,7 +86,7 @@ try again and again吧
 注: 後來發現[Hexo 博客备份]的方法 themes/config 不會上傳github...要手動喔
 
 
-## Hexo新增ipynb方法
+## Hexo新增ipynb方法(嘗試失敗 18/10/08)
 [hexo 新增ipynb](http://huanyouchen.github.io/2018/05/30/hexo-support-jupyter-notebook-in-blog/)
 
 在hexo目錄下
@@ -110,7 +108,9 @@ hexo _config.yml 改 `post_asset_folder: true `
 <script src="http://code.jquery.com/jquery-2.0.0.js"></script>
 {% asset_jupyter /usr/bin/python3.5 ../jupyter-demo/baidu_songlist_fenxi.ipynb %}
 ```
+
+以下嘗試失敗 不知道是不是pip install nbconvert路徑不對
 ```
 <script text='text/javascript' src='/lib/jquery/index.js'></script>
-{% asset_jupyter ../Anaconda3/Lib/site-packages/parso/python test.ipynb %}
+{% asset_jupyter ../Anaconda3/python test.ipynb %}
 ```

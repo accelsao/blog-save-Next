@@ -1,5 +1,5 @@
 ---
-title: Learning OpenCV I
+title: Learning OpenCV3
 tags:
 - OpenCV
 categories:
@@ -9,15 +9,13 @@ mathjax: true
 date: 2018-09-27 21:46:22
 ---
 
-進入書囉~
 
-待補(也太多待補文了吧orz)
+進入書囉~
+書的相關內容散落的紀錄在此 ^O^
 
 <!--more-->
 
-
-# Introduction to OpenCV
-
+# Video
 ## 讀入影片
 既然會了讀入圖片那影片呢?
 
@@ -98,10 +96,9 @@ int main() {
 }
 ```
 
-## Split&Merge通道+混合
+# Split&Merge通道+混合
 
 
-### Split&Merge
 基本上split就是把三通道分成單通道 merge相反
 
 
@@ -112,7 +109,7 @@ at函數是引用 所以修改的時候兩者會一起變動
 坑點:
 **addWeighted**不只要求**同SIZE**還要求**同channel數**
 
-### Code
+## Code
 ```cpp
 #include<opencv2/opencv.hpp>
 using namespace std;
@@ -213,3 +210,53 @@ int main() {
 
 }
 ```
+
+
+# Tracking
+## Dense Optical Flow
+## Horn-Schunck algorithm
+## Kalman filter
+## Polynomial Expansion
+## The Dual TV-L1 algorithm.
+## Farneback’s algorithm.
+Computes a dense optical flow using the Gunnar Farneback’s algorithm.
+[cv::calcOpticalFlowFarneback()](https://docs.opencv.org/2.4/modules/video/doc/motion_analysis_and_object_tracking.html#calcopticalflowfarneback)
+參考Blog [Farneback 光流算法详解与 calcOpticalFlowFarneback 源码分析](https://blog.csdn.net/ironyoung/article/details/60884929)
+
+
+### Code
+```cpp
+#include<opencv2/opencv.hpp>
+using namespace std;
+using namespace cv;
+int main() {
+
+	Mat img1, img2;
+	Mat flow;
+	img1 = imread("../images/img1.jpg",0);
+	img2 = imread("../images/img2.jpg",0);
+	namedWindow("Img1", WINDOW_AUTOSIZE);
+	namedWindow("Img2", WINDOW_AUTOSIZE);
+	namedWindow("Flow", WINDOW_AUTOSIZE);
+	
+	resize(img1,img1,Size(480, 250));
+	resize(img2, img2, Size(480, 250));
+
+	imshow("Img1", img1);
+	imshow("Img2", img2);
+
+
+	calcOpticalFlowFarneback(img1, img2, flow, 0.4, 1, 12, 2, 8, 1.2, 0);
+	for(int i=0;i<img1.rows;i+=5)
+		for (int j = 0;j < img1.cols;j+=5) {
+			Point2f flow_p = flow.at<Point2f>(i, j) * 10;
+			line(img1,Point(j,i), Point(cvRound(j + flow_p.x), cvRound(i + flow_p.y)), Scalar(255, 0, 0));
+			circle(img1, Point(j, i), 1, Scalar(0, 0, 0), -1);
+		}
+
+	imshow("Flow", img1);
+	waitKey(0);
+}
+
+```
+

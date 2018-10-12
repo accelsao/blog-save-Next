@@ -1,5 +1,5 @@
 ﻿---
-title: Asphyxia - Cö shu Nie
+title: Cö Shu Nie
 tags:
   - Cö shu Nie
   - 東京喰種:re
@@ -10,10 +10,15 @@ mathjax: true
 date: 2018-09-24 23:01:34
 ---
 
-作詞/作曲：Miku Nakamura
+[Cö shu Nie / コシュニエ](http://coshunie.com/about/)
+
+中村未来 - Vo,Gt,Key,Manipulator
+超強女神 一次控四位
+
 <!--more-->
 
-
+# Asphyxia
+## 歌詞
 夜に閉じこめられた子は 無表情に息を止めた
 だってどうしようもないことばかりじゃない
 変えられない世界で溺れている
@@ -36,4 +41,6 @@ Discord に耽美して
 Elegy に少しもかおを変えず
 夜の中息をはじめる
 
+## 相關
 
+東京喰種:re OP

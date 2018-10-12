@@ -9,6 +9,11 @@ date: 2018-09-15 21:06:57
 
 <a href="https://imgur.com/xOd1uKM"><img src="https://i.imgur.com/xOd1uKM.jpg" title="source: imgur.com" /></a>
 
+* Core Course to Learn
+	* CS131 - CV
+	* CS231n
+	* Machine Learning
+	* DeepLearning
 
 
 
@@ -152,8 +157,6 @@ date: 2018-09-15 21:06:57
 			* [秒針を噛む](https://www.youtube.com/watch?v=GJI4Gv7NbmE)
 		* 水曜日のカンパネラ
 			* [シャクシャイン](https://www.youtube.com/watch?v=A1oxh8Z-2ko)
-		
-			
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -201,6 +204,11 @@ date: 2018-09-15 21:06:57
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
+		* 美波
+			* [ETERNAL BLUE](https://www.youtube.com/watch?v=tCGiR45p-pA)
+			* [ライラック](https://www.youtube.com/watch?v=GQ3V50XoLOM)
+			* [ホロネス](https://www.youtube.com/watch?v=HIRiduzNLzQ)
+			
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
@@ -248,3 +256,7 @@ date: 2018-09-15 21:06:57
 			* 追憶 めざめる たましい
 		* 木村弓
 			* [いのちの名前](https://www.youtube.com/watch?v=LCbLK2fG2eM)
+			
+			
+			
+	
