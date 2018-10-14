@@ -2,13 +2,15 @@
 title: Normalized Cuts and Image Segmentation
 tags:
   - Image Segmentation
+  - Graph Partition
+  - Grouping
 categories:
   - Computer Vision
 date: 2018-08-04 21:41:38
 ---
 
-Normalized Cuts and Image Segmentation 論文筆記(待補)
-
+論文筆記(待補)
+[Normalized Cuts and Image Segmentation](http://www.cis.upenn.edu/~jshi/papers/pami_ncut.pdf)
 <!--more-->
 
 從**圖像**轉成**圖**

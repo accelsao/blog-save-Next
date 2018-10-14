@@ -5,10 +5,14 @@ tags:
 categories:
   - Computer Vision
 
+mathjax: true
 date: 2018-08-04 14:34:00
 ---
 
 論文筆記(待補)
+[SIFT - The Scale Invariant Feature Transform](https://pdfs.semanticscholar.org/presentation/e903/196678c93315f2bf6f0235b3bab59c157b04.pdf)
+[SIFT算法詳解](https://blog.csdn.net/zddblog/article/details/7521424)
+[Distinctive Image Features from Scale-Invariant Keypoints](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
 <!--more-->
 
 # Introduction
@@ -62,15 +66,22 @@ D(x, y, \sigma)&=(G(x, y, k\sigma)-G(x, y, \sigma))*I(x,y) \\
 &=L(x, y, k\sigma)-L(x, y, \sigma)
 \end{split}
 
+Mikolajczyk (2002) 發現最大和最小的 \\(\sigma^2 \nabla ^{2}G\\) produce 最穩定的影像特徵 跟其他如gradient,Hessian,Harris corner function比較的話
+
+D 和 \\(\sigma^2 \nabla ^{2}G\\) 的關係可以用heat diffusion equation來表示(這裡的\\(t=\sigma\\))
+
+
 挑選這個函數有一些原因
 1. 計算有效**D**只要相減即可**L**只是平滑
 2. DoG函數提供接近scale-normalized Laplacian的高斯,\\(\sigma^2\nabla^2G\\)
 	這個函數的極值相較其他點更為平穩
-	D和上式的關係從這來\\(\frac {\partial G}{\partial \sigma}=\sigma \nabla ^{2}G\\)
+	D和上式的關係用heat diffusion equation \\(\frac {\partial G}{\partial \sigma}=\sigma \nabla ^{2}G\\) 再用微分近似
 	\\(\sigma \nabla ^{2}G=\frac {\partial G}{\partial \sigma}\approx\frac{G(x,y,k\sigma)-G(x,y,\sigma)}{k\sigma-\sigma}\\)
 	因此\\(G(x,y,k\sigma)-G(x,y,\sigma)\approx(k-1)\sigma^2 \nabla ^{2}G\\)
 	由此發現當k接近1的時候 誤差趨近於0 然而實作上發現k並沒有影響
 3. LoG(Laplacian of Gaussian)提取的特徵穩定性最高 但計算效率不高
+
+
 
 ## Local extrema detection
 為了檢測\\(D(x, y, \sigma)\\)極值每個點和他3D相鄰點(26點)比較,當他大於26個點或小於才會被選上,因為前幾次的比較所以後面的計算量會大幅降低
@@ -78,9 +89,21 @@ D(x, y, \sigma)&=(G(x, y, k\sigma)-G(x, y, \sigma))*I(x,y) \\
 
 #  Accurate keypoint localization
 找到這些key point後把低對比和鄰近邊緣的點去除
-用Tayor展開\\(
-D(x) = D +\frac{\partial D^T}{\partial x}x+\frac{1}{2}x^T\frac{\partial^2 D}{\partial x^2}x\\)
-\\(x = (x, y, \sigma)^T\\)是差值中心,\\(\hat x =-\frac{\partial^2 D^{-1}}{\partial x^2}\frac{\partial D}{\partial x}\\)
+用Tayor展開
+$$
+\begin{align}
+D(x) = D +\frac{\partial D^T}{\partial x}x+\frac{1}{2}x^T\frac{\partial^2 D}{\partial x^2}x \\
+\hat x =-\frac{\partial^2 D^{-1}}{\partial x^2}\frac{\partial D}{\partial x}
+\end{align}
+$$
+
+\\(x = (x, y, \sigma)^T\\)是差值中心 offset of this point
+
+the location of extremum , \\(\hat x\\) 用上示對\\(x\\)求導=0得到 (2)
+
+(2)到回去(1)可以得到
+\\(D(\hat x)=D+\frac{1}{2}\frac{\partial D^T}{\partial x}\hat x\\)
+
 
 ## Eliminating edge responses
 有些極值點在邊緣位置,難定位又易受**noise**干擾,視為不穩定點,要去除
@@ -94,6 +117,7 @@ $$
 $$Tr(H) = D_{xx} + D_{yy}= \alpha + \beta$$
 $$Det(H) = D_{xx}D_{yy}-(D_{xy})^2= \alpha\beta$$
 當determinant是負的時候,因為它非極值,去除
+令\\(\alpha =\gamma \beta\\)
 $$\frac{Tr(H)^2}{Det(H)} = \frac{(\gamma\beta+\beta)^2}{\gamma\beta^2} = \frac{(\gamma+1)^2}{\gamma}$$
 如此只和ratio有關
 只需用以下式子判斷主曲率是否低於threshold,r

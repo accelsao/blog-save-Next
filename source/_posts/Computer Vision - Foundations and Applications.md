@@ -2,6 +2,9 @@
 title: Computer Vision - Foundations and Applications
 tags:
   - Stanford Vision and Learning Lab
+  - Paper
+  - Feature Extraction
+  - Image Segmentation
 categories:
   - Computer Vision
   
@@ -21,12 +24,18 @@ CS131的課程Notes 包含最新的[2018](http://vision.stanford.edu/teaching/cs
 <!--more-->
 # Feature Extraction
 
-## [Distinctive Image Features from Scale-Invariant Keypoints](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf)
-### 4步分解
-
-1. Scale-space extrema detection
-利用difference-of-Gaussian function(DoG) 識別潛在對於尺度旋轉不變的interest point
-2. Keypoint localization
-根據穩定性來決定key point的位置和尺度
+## [Distinctive Image Features from Scale-Invariant Keypoints](https://accelsao.github.io/2018/08/04/Distinctive%20Image%20Features%20from%20Scale-Invariant%20Keypoints/)
+## [PCA-SIFT: A More Distinctive Representation for Local Image Descriptors](http://www.cs.cmu.edu/~rahuls/pub/cvpr2004-keypoint-rahuls.pdf)
 
 
+# Image Segmentation
+
+
+# Object Detection
+## [Histograms of Oriented Gradients for Human Detection](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
+
+
+
+# Ch.20 Looking at people
+安全
+## Optical Flow
