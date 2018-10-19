@@ -10,11 +10,18 @@ date: 2018-09-15 21:06:57
 <a href="https://imgur.com/xOd1uKM"><img src="https://i.imgur.com/xOd1uKM.jpg" title="source: imgur.com" /></a>
 
 * Core Course to Learn
-	* CS131 - CV
-	* CS231n
+	* CS131 - Computer Vision
+	* CS231n - Neural Network
 	* Machine Learning
 	* DeepLearning
+	* Linear Algebra
+	* Probability Graph Model
+	* Probability
+	* Tensorflow
 
+* List of problem to Solve on OJ	
+	* CSA - Cookie Clicker
+	
 
 
 * 動畫/輕小說/漫畫/小說 食完列表
