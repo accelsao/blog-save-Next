@@ -12,13 +12,15 @@ date: 2018-09-15 21:06:57
 * Core Course to Learn
 	* CS131 - Computer Vision
 	* CS231n - Neural Network
-	* Machine Learning
-	* DeepLearning
+	* Machine Learning - CS229,10-401
+	* IYA book - DeepLearning
 	* Linear Algebra
-	* Probability Graph Model
-	* Probability
-	* Tensorflow
+	* coursera - Probability Graph Model
+	* CS109: Probability for Computer Scientistss
+	* Tensorflow-Tutorial
+	* CS 205A
 
+	
 * List of problem to Solve on OJ	
 	* CSA - Cookie Clicker
 	

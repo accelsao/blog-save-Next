@@ -45,6 +45,10 @@ date: 2018-10-09 21:41:55
 ## restricted Boltzmann machines  RBMs
 ## deep Boltzmann machines (DBMs)
 
+# Style2Points
+[ganhacks](https://github.com/soumith/ganhacks)
+[PaintsChainer](https://github.com/pfnet/PaintsChainer)
+
 
 
 
