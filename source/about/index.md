@@ -22,7 +22,7 @@ date: 2018-09-15 21:06:57
 
 	
 * List of problem to Solve on OJ	
-	* CSA - Cookie Clicker
+	* CSA - Subarray Medians
 	
 
 
@@ -166,6 +166,10 @@ date: 2018-09-15 21:06:57
 			* [秒針を噛む](https://www.youtube.com/watch?v=GJI4Gv7NbmE)
 		* 水曜日のカンパネラ
 			* [シャクシャイン](https://www.youtube.com/watch?v=A1oxh8Z-2ko)
+		* Toe
+			* [Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k)
+		* 甜約翰 Sweet John
+			* [留給你的我從未 Those Things I Kept](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
