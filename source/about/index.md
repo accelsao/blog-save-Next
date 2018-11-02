@@ -19,6 +19,8 @@ date: 2018-09-15 21:06:57
 	* CS109: Probability for Computer Scientistss
 	* Tensorflow-Tutorial
 	* CS 205A
+	* [CS236](https://deepgenerativemodels.github.io/)
+	* CS231A
 
 	
 * List of problem to Solve on OJ	
@@ -36,6 +38,8 @@ date: 2018-09-15 21:06:57
 	基本上我覺得動畫要神作基本上要兩季 20集左右劇情量才夠(只有宇宙是唯一的例外) 所以小說相對比較容易
 	
 	* 神作
+		* 進擊的巨人 
+			* 六星神作
 		* 比宇宙更遠的地方
 		* Re:從零開始的異世界生活 (小說+動畫)
 			* 動畫15,18神回
@@ -57,7 +61,6 @@ date: 2018-09-15 21:06:57
 		* OVERLORD(小說)
 			* 蜥蜴人分水嶺 蜥蜴人前(良) 蜥蜴人(糞) 蜥蜴人後(神)
 			* 小說=神作 動畫=垃圾
-		* 進擊的巨人
 		* 来自新世界 (小說)
 		* 為美好的世界獻上祝福！ (小說+動畫)
 			* 搞笑神作 少有合電波的搞笑作品
@@ -136,7 +139,7 @@ date: 2018-09-15 21:06:57
 		* OxT
 			* Silent Solitude
 		* 康士坦的變化球
-			* 美好的事可不可以發生在我身上
+			* [美好的事可不可以發生在我身上](https://www.youtube.com/watch?v=UKmUMx2-ToQ)
 			* 擱淺的人
 		* Androp
 			* Memento mori(feat.Aimer)
@@ -170,6 +173,15 @@ date: 2018-09-15 21:06:57
 			* [Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k)
 		* 甜約翰 Sweet John
 			* [留給你的我從未 Those Things I Kept](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+		* Broken By The Scream
+			* [サヨナラバースデー](https://www.youtube.com/watch?v=Q8qOH-f6doM)
+			* [恋は乙女の泣きどころ](https://www.youtube.com/watch?v=4Eum9rFdFQc)
+		* BiSH
+			* [My landscape](https://www.youtube.com/watch?v=--ombqA70cI)
+		* 顯然樂隊
+			* [低賤的人](https://www.youtube.com/watch?v=lFpS1gcJRgc)
+		* amazarashi
+			* [穴を掘っている](https://www.youtube.com/watch?v=B2HsdgVQ-cc)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -187,6 +199,8 @@ date: 2018-09-15 21:06:57
 			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 		* Sayuri
 			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)
+			* [Reimei](https://www.youtube.com/watch?v=7InW3lZmQDY)
+				* Sayuri x MY FIRST STORY
 		* 鈴木KONOMI
 			* Blow out
 		* Shakira
@@ -194,7 +208,6 @@ date: 2018-09-15 21:06:57
 		* Tia 
 			* Deal with the Devil 
 		* 中島美嘉
-			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
 			* [僕が死のうと思ったのは](https://www.youtube.com/watch?v=QL3T2Nzcqcs)
 			* Glamorous Sky 
 			* KISS OF DEATH
@@ -208,7 +221,8 @@ date: 2018-09-15 21:06:57
 			* サイサキ
 			* 宵々古今
 			* ギミアブレスタッナウ
-		* 芝麻Mochi (歌聲似Aimer)
+		* 芝麻Mochi (翻唱歌手 歌聲似Aimer)
+			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
 		* 黒木渚
 			* [カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
 		* まじ娘(Majiko)
@@ -254,7 +268,9 @@ date: 2018-09-15 21:06:57
 		* 誓血龍騎士3
 			* [The Last Song](https://www.youtube.com/watch?v=Cgy7IbVRvek)
 			* [This Silence is Mine](https://www.youtube.com/watch?v=pQrQEmClpWc)
-			
+		* Fate/Stay Night
+			* [騎士王の誇り](https://www.youtube.com/watch?v=OixZKhcq1fQ)
+		
 	* 作曲家
 		* 澤野弘之
 			* Aesthetic

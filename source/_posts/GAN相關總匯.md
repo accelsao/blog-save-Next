@@ -10,24 +10,37 @@ date: 2018-10-09 21:41:55
 ---
 
 相關paper,知識點,傳送門,筆記
-
+[2017年GAN 计算机视觉相关paper汇总](https://zhuanlan.zhihu.com/p/29882709)
 <!--more-->
 
-[2017年GAN 计算机视觉相关paper汇总](https://zhuanlan.zhihu.com/p/29882709)
 
+# Paper
 
-# [GAN](https://arxiv.org/pdf/1406.2661.pdf)
+## [GAN](https://arxiv.org/pdf/1406.2661.pdf)
 生成模型G,判別模型D
 
+## [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf)
 
-# Markov chain Monte Carlo
-## Hybrid Monte Carlo
-## Gibbs sampling
-## various Metropolis algorithms
+## [AttnGAN](https://arxiv.org/pdf/1711.10485.pdf)
+### Deep Recurrent Attention Writer (DRAW)
+### conditional PixelCNN
+### LAPGAN
+### Conditioning Augmentation
+### bi-directional LSTM
+### [StackGan](https://arxiv.org/pdf/1612.03242.pdf)
+### PixelRNN(https://arxiv.org/pdf/1601.06759.pdf)
 
 
-# Markov Random Filed
-## Deep belief networks (DBNs)
+# Others
+
+## Markov chain Monte Carlo
+### Hybrid Monte Carlo
+### Gibbs sampling
+### various Metropolis algorithms
+
+
+## Markov Random Filed
+### Deep belief networks (DBNs)
 
 ## AutoEncoder
 ### VAE(Variational Autoencoder)
