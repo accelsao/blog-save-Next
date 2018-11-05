@@ -9,6 +9,12 @@ date: 2018-09-15 21:06:57
 
 <a href="https://imgur.com/xOd1uKM"><img src="https://i.imgur.com/xOd1uKM.jpg" title="source: imgur.com" /></a>
 
+
+* 喜歡的二次元屬性
+	* 傲嬌
+	* 毒舌
+	* 抖SM
+
 * Core Course to Learn
 	* CS131 - Computer Vision
 	* CS231n - Neural Network
@@ -25,7 +31,7 @@ date: 2018-09-15 21:06:57
 	
 * List of problem to Solve on OJ	
 	* CSA - Subarray Medians
-	
+	* [D. Berland Fair](http://codeforces.com/contest/1073/problem/D)
 
 
 * 動畫/輕小說/漫畫/小說 食完列表
@@ -182,6 +188,10 @@ date: 2018-09-15 21:06:57
 			* [低賤的人](https://www.youtube.com/watch?v=lFpS1gcJRgc)
 		* amazarashi
 			* [穴を掘っている](https://www.youtube.com/watch?v=B2HsdgVQ-cc)
+		* 大象體操
+			* [Finger](https://www.youtube.com/watch?v=kqR4yNYWxx4)
+		* I Mean Us
+			* [Søulмaтe](https://www.youtube.com/watch?v=AgrfgqV1lAs)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
