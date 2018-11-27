@@ -1,5 +1,5 @@
 ---
-title: GAN相關總匯
+title: GAN 大雜匯
 tags:
   - GAN
 categories:
@@ -12,6 +12,9 @@ date: 2018-10-09 21:41:55
 相關paper,知識點,傳送門,筆記
 [2017年GAN 计算机视觉相关paper汇总](https://zhuanlan.zhihu.com/p/29882709)
 <!--more-->
+
+
+[gan zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 
 # Paper
@@ -63,5 +66,8 @@ date: 2018-10-09 21:41:55
 [PaintsChainer](https://github.com/pfnet/PaintsChainer)
 
 
+
+# DA-GAN
+# TP-GAN
 
 

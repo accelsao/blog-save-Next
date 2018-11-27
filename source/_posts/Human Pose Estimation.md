@@ -1,7 +1,7 @@
 ﻿---
-title: Pose Estimation
+title: Human Pose Estimation
 tags:
-  - Pose Estimation
+  - Human Pose Estimation
 categories:
   - Computer Science
   - Computer Vision and Pattern Recognition
@@ -9,7 +9,7 @@ mathjax: false
 date: 2018-11-02 19:29:58
 ---
 
-Pose Estimation 集中串
+Human Pose Estimation 集中串
 
 <!--more-->
 

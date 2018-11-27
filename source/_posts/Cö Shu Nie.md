@@ -1,4 +1,4 @@
-﻿---
+﻿	---
 title: Cö Shu Nie
 tags:
   - Cö shu Nie
@@ -44,3 +44,87 @@ Elegy に少しもかおを変えず
 ## 相關
 
 東京喰種:re OP
+
+
+
+#  Last Train
+## Lyrics
+いつの間に乗っていたかはわからない
+トランクひとつで席についてたの
+
+ねえ僕らはどこへ向かっているんだろうね？
+
+片道切符限定の列車は猛スピードで線路の終わりを目指してる
+たどり着く場所がどこかなんて誰にもわからないのです
+
+「「次は終点、終点」」
+
+白は静かに俯き座ってた
+黒は涙を流し窓を叩き祈った
+
+漠然とした不安は幻さ
+僕らにできることは限られてる
+
+知ってるのに拭えないのは実体が掴めないから
+
+ねえどうして僕らまだ未来が見えないの？
+
+生まれた時から決まってたなんて
+頭の中で何度もリフレインしてる
+
+止まらない列車は終点を越えて宙を舞う
+
+記憶よ　星のように走れ走れ
+僕の丁度真ん中を貫いて
+
+最期に握った手が過って
+サヨナラが言えなかったのを思い出して
+
+僕は、
+
+itsu no ma ni notteita ka wa wakaranai 
+toranku hitotsu de seki ni tsuiteta no 
+
+
+nee boku-ra wa doko e mukatteirun darou ne? 
+
+
+katamichi kippu gentei no ressha wa mou supiido de senro no owari wo mezashiteru 
+tadoritsuku basho ga dokoka nante dare ni mo wakaranai no desu 
+
+
+“tsugi wa shuuten, shuuten”
+
+
+shiro wa shizuka ni utsumuki suwatteta 
+kuro wa namida wo nagashi mado wo tataki inotta 
+
+
+bakuzen to shita fuan wa maboroshi sa 
+bokura ni dekiru koto wa kagirareteru 
+
+
+shitteru no ni nuguenai no wa jittai ga tsukamenai kara 
+
+
+nee dou shite bokura mada mirai ga mienai no? 
+
+
+umareta toki kara kimatteta nante 
+atama no naka de nando mo rifurein shiteru 
+
+
+tomaranai ressha wa shuuten wo koete chuu wo mau 
+
+
+kioku yo hoshi no you ni hashire hashire 
+boku no choudo mannaka wo tsuranuite 
+
+
+saigo ni nigitta te ga yogitte 
+sayonara ga ienakatta no wo omoidashite 
+
+
+boku wa,
+
+ソース・Source: https://www.lyrical-nonsense.com/lyrics/co-shu-nie/saishuu-ressha/

@@ -97,6 +97,16 @@ date: 2018-09-15 21:06:57
 		* 境界的彼方 
 		* 東京殘響 
 
+* JapanDrama
+	* 非獸性男女
+	* 醫龍
+	* 非獸性男女
+	* Legal High
+	* 逃避雖可恥但有用
+	* 派遣女醫X
+	* 寬鬆世代又怎樣
+
+
 * Music列表
 	* 樂團
 		* 凛として時雨 (Ling Tosite Sigure)
@@ -110,6 +120,7 @@ date: 2018-09-15 21:06:57
 			* Sadistic Summer
 		* Cö Shu Nie
 			* Asphyxia
+			* [PERSON](https://www.youtube.com/watch?v=-KUcydUw6kI)
 		* Fear, and Loathing in Las Vegas
 			* Treasure in Your Hands
 		* ONE OK ROCK
@@ -246,6 +257,9 @@ date: 2018-09-15 21:06:57
 			* [ライラック](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 			* [ホロネス](https://www.youtube.com/watch?v=HIRiduzNLzQ)
 			
+		* illion
+			* [BANKA](https://www.youtube.com/watch?v=uJViETJ4mKg)
+		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
@@ -280,6 +294,8 @@ date: 2018-09-15 21:06:57
 			* [This Silence is Mine](https://www.youtube.com/watch?v=pQrQEmClpWc)
 		* Fate/Stay Night
 			* [騎士王の誇り](https://www.youtube.com/watch?v=OixZKhcq1fQ)
+		* Tokyo Ghoul
+			* [Glassy Sky](https://www.youtube.com/watch?v=vvvvcpwFw5o)
 		
 	* 作曲家
 		* 澤野弘之

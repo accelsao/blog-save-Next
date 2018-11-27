@@ -10,6 +10,7 @@ date: 2018-11-04 10:47:15
 
 
 論文筆記
+[URL](https://arxiv.org/pdf/1406.2661.pdf)
 <!--more-->
 
 # Abstract
