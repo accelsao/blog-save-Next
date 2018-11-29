@@ -10,10 +10,9 @@ date: 2018-09-15 21:06:57
 <a href="https://imgur.com/xOd1uKM"><img src="https://i.imgur.com/xOd1uKM.jpg" title="source: imgur.com" /></a>
 
 
-* 喜歡的二次元屬性
-	* 傲嬌
-	* 毒舌
-	* 抖SM
+* 2D婆
+	* 雪之下雪乃
+	
 
 * Core Course to Learn
 	* CS131 - Computer Vision
@@ -98,7 +97,6 @@ date: 2018-09-15 21:06:57
 		* 東京殘響 
 
 * JapanDrama
-	* 非獸性男女
 	* 醫龍
 	* 非獸性男女
 	* Legal High
@@ -109,6 +107,8 @@ date: 2018-09-15 21:06:57
 
 * Music列表
 	* 樂團
+		* amazarashi
+			* [Speed To Masatsu](https://www.youtube.com/watch?v=8nmTs1p1tx4)
 		* 凛として時雨 (Ling Tosite Sigure)
 			* 24REVERSE
 			* [AM3:45](https://www.youtube.com/watch?v=LWmvOuX0g-U)
@@ -249,6 +249,7 @@ date: 2018-09-15 21:06:57
 		* まじ娘(Majiko)
 			* [ひび割れた世界](https://www.youtube.com/watch?v=6rHySk9Kcuo)
 			* [君に最後の口づけを](https://www.youtube.com/watch?v=ojG9C6L61oA)
+			* [心做し (Live)](https://www.youtube.com/watch?v=QJie7dTvbjQ)
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
