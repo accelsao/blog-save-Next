@@ -27,3 +27,6 @@ Human Pose Estimation 集中串
 # RMPE
 # CPN
 # PAF
+
+
+# [Simple Baselines for Human Pose Estimation and Tracking](https://arxiv.org/pdf/1804.06208.pdf)
