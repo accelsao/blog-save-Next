@@ -10,27 +10,12 @@ date: 2018-09-15 21:06:57
 <a href="https://imgur.com/xOd1uKM"><img src="https://i.imgur.com/xOd1uKM.jpg" title="source: imgur.com" /></a>
 
 
-* 2D婆
+* 老婆
+	* 新垣結衣
+	* 石原聰美
+	* 深田恭子
 	* 雪之下雪乃
 	
-
-* Core Course to Learn
-	* CS131 - Computer Vision
-	* CS231n - Neural Network
-	* Machine Learning - CS229,10-401
-	* IYA book - DeepLearning
-	* Linear Algebra
-	* coursera - Probability Graph Model
-	* CS109: Probability for Computer Scientistss
-	* Tensorflow-Tutorial
-	* CS 205A
-	* [CS236](https://deepgenerativemodels.github.io/)
-	* CS231A
-
-	
-* List of problem to Solve on OJ	
-	* CSA - Subarray Medians
-	* [D. Berland Fair](http://codeforces.com/contest/1073/problem/D)
 
 
 * 動畫/輕小說/漫畫/小說 食完列表
@@ -59,8 +44,8 @@ date: 2018-09-15 21:06:57
 		* 為美好的世界獻上祝福！
 		* 在地下城尋求邂逅是否搞錯了什麼
 		* 刀劍神域
-		
-	* 良作	
+	
+	* 良作
 		* Princess Principal 
 		* 七大罪 
 		* 吹響吧 上低音號 
@@ -68,11 +53,10 @@ date: 2018-09-15 21:06:57
 		* 全部成為F 
 		* 寶石之國 
 		* 來自深淵
-		* 刀劍神域外傳 Gun Gale Online (不算神但穩)
-		* 櫻子小姐的腳下埋著屍體 (結尾有點弱 但不算爛 想看小說但台灣沒授權QQ)
+		* 刀劍神域外傳 Gun Gale Online
+		* 櫻子小姐的腳下埋著屍體
 		* 四月は君の嘘
 	* 普作
-	
 		* ACCA13區監察課
 		* 只有我不存在的城市
 		* 境界的彼方 
@@ -85,6 +69,7 @@ date: 2018-09-15 21:06:57
 	* 逃避雖可恥但有用
 	* 派遣女醫X
 	* 寬鬆世代又怎樣
+	* Unnatural
 
 
 * Music列表
@@ -242,6 +227,8 @@ date: 2018-09-15 21:06:57
 			
 		* illion
 			* [BANKA](https://www.youtube.com/watch?v=uJViETJ4mKg)
+		* 米津玄師
+			* [Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
 		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
@@ -279,6 +266,8 @@ date: 2018-09-15 21:06:57
 			* [騎士王の誇り](https://www.youtube.com/watch?v=OixZKhcq1fQ)
 		* Tokyo Ghoul
 			* [Glassy Sky](https://www.youtube.com/watch?v=vvvvcpwFw5o)
+		* リズと青い鳥
+			* [[吹奏楽曲]リズと青い鳥 full](https://www.youtube.com/watch?v=brWiRDUgDYM)
 		
 	* 作曲家
 		* 澤野弘之
