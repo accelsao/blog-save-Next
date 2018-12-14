@@ -1,9 +1,9 @@
 ---
 title: SRGAN
 tags:
-  - null
+  - Image Super-Resolution
 categories:
-  - null
+  - GAN
 mathjax: true
 date: 2018-12-04 18:58:20
 ---

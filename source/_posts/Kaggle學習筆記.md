@@ -1,14 +1,17 @@
 ﻿---
-title: Numpy Pandas Matplotlib
+title: Kaggle學習筆記
 tags:
-- Numpy
-- Matplotlib	
+  - Numpy
+  - Matplotlib
+  - Pandas
 categories:
-- Python Library
+  - Notes
 date: 2018-07-04 15:55:16
 ---
 
-Some functions for Numpy Pandas Matplotlib
+寫Kaggle最開始遇到的問題就各種函數的神奇用法
+尤其是python 包含了 numpy,pandas 等等
+
 
 <!--more-->
 # Numpy
@@ -223,7 +226,28 @@ print(a)
 [   0   -1   25 4096]
 ```
 
-#Matplotlib.pyplot
+## numpy.where
+丟進去condition來判斷輸出什麼 True:x False:y
+```py
+input:
+condition=[[True, False], [True, False]]
+x=[[1, 2], [3, 4]]
+y=[[9, 8], [7, 6]]
+print(np.where(condition,x,y))
+output:
+[[1 8]
+ [3 6]]
+
+input: 
+x = np.arange(9.).reshape(3, 3)
+np.where( x > 5 )
+output:
+(array([2, 2, 2]), array([0, 1, 2]))
+ 
+```
+
+
+# Matplotlib.pyplot
 
 ## Inline
 ```py

@@ -4,9 +4,7 @@ tags:
   - CS231n
   - Gradient descent
 categories:
-- Applied mathematics
-- Optimization theory
-- Gradient descent
+  - Gradient descent
 date: 2018-07-04 19:40:24
 mathjax: true
 ---

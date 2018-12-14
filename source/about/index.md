@@ -229,6 +229,10 @@ date: 2018-09-15 21:06:57
 			* [BANKA](https://www.youtube.com/watch?v=uJViETJ4mKg)
 		* 米津玄師
 			* [Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+		* MISIA
+			* [逢いたくていま](https://www.youtube.com/watch?v=aiBPJwSRq58&list=RDMMbldyRH_XrOM&index=2)
+		* 高橋李依
+			* [Stay Alive](https://www.youtube.com/watch?v=QZK3st54Txg)
 		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
