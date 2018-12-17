@@ -170,6 +170,8 @@ date: 2018-09-15 21:06:57
 			* [Finger](https://www.youtube.com/watch?v=kqR4yNYWxx4)
 		* I Mean Us
 			* [Søulмaтe](https://www.youtube.com/watch?v=AgrfgqV1lAs)
+		* ONE OK ROCK
+			* [Pierce](https://www.youtube.com/watch?v=sgbvcfo59NA)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -233,7 +235,10 @@ date: 2018-09-15 21:06:57
 			* [逢いたくていま](https://www.youtube.com/watch?v=aiBPJwSRq58&list=RDMMbldyRH_XrOM&index=2)
 		* 高橋李依
 			* [Stay Alive](https://www.youtube.com/watch?v=QZK3st54Txg)
-		
+		* 西野カナ
+			* [if](https://www.youtube.com/watch?v=04VteCjggco)
+		* 千菅春香
+			* [Pray ／ レイチェル(殺戮的天使 ED)](https://www.youtube.com/watch?v=4124q8T8_aE)
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
