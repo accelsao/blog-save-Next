@@ -28,6 +28,7 @@ date: 2018-09-15 21:06:57
 	基本上我覺得動畫要神作基本上要兩季 20集左右劇情量才夠(只有宇宙是唯一的例外) 所以小說相對比較容易
 	
 	* 神作 (按當時心中排序)
+		* 我想吃掉你的胰臟
 		* 莉茲與青鳥
 		* 比宇宙更遠的地方
 		* 果然我的青春戀愛喜劇搞錯了
@@ -202,7 +203,7 @@ date: 2018-09-15 21:06:57
 			* Glamorous Sky 
 			* KISS OF DEATH
 		* 山崎まさよし
-			* One more time,One more chance
+			* [One more time,One more chance](https://www.youtube.com/watch?v=BqFftJDXii0)
 		* 秦基博
 			* Rain
 		* TRUE
