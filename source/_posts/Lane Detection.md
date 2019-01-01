@@ -10,6 +10,8 @@ date: 2018-07-09 11:37:31
 
 簡述Lane Detection
 
+<!--more-->
+
 # Canny Edge Detector
 
 利用Canny Edge Detector找edge

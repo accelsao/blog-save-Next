@@ -3,12 +3,9 @@ title: Hexo note
 date: 2018-06-25 20:54:00
 comment: true
 categories:
-- Environment Setup
-- Talks
+- Hexo
 tags:
 - Hexo
-- Mathjax
-- Git
 ---
 ## 前言
 
@@ -59,7 +56,7 @@ $ hexo g -d # 原來有這種縮寫 我還一直用 && ...
 
 最後又過了一天了..不過還好明天不用再用了
 
-### 紀錄
+## 紀錄
 不用.deploy那個爛方法 git push origin hexo 會瘋狂error
 但以上的方法又解決了我一堆圖片沒辦法部署的問題 但最後大砍後也不需要.deploy
 有需要還是得了解他到底幹了甚麼
@@ -87,3 +84,33 @@ try again and again吧
 早知道我一開始就全砍掉處理了..浪費一推時間還不知道到底為甚麼會卡住...
 
 注: 後來發現[Hexo 博客备份]的方法 themes/config 不會上傳github...要手動喔
+
+
+## Hexo新增ipynb方法(嘗試失敗 18/10/08)
+[hexo 新增ipynb](http://huanyouchen.github.io/2018/05/30/hexo-support-jupyter-notebook-in-blog/)
+
+在hexo目錄下
+`npm install hexo-jupyter-notebook --save`
+
+install Pandoc
+我直接下載包 然後環境變數新增檔位置
+
+因為我是用anaconda 所以開啟他的prompt
+`pip install nbconvert`
+
+hexo _config.yml 改 `post_asset_folder: true `
+到_posts 建立jupyter-demo資料夾
+`mkdir jupyter-demo`
+
+將ipynb檔放到jupyter-demo裡面
+需要展示的地方插入
+```
+<script src="http://code.jquery.com/jquery-2.0.0.js"></script>
+{% asset_jupyter /usr/bin/python3.5 ../jupyter-demo/baidu_songlist_fenxi.ipynb %}
+```
+
+以下嘗試失敗 不知道是不是pip install nbconvert路徑不對
+```
+<script text='text/javascript' src='/lib/jquery/index.js'></script>
+{% asset_jupyter ../Anaconda3/python test.ipynb %}
+```

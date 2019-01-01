@@ -4,8 +4,9 @@ tags:
   - CS231n
   - Neural Networks
 categories:
-  - Computer Vision
-  - Natural Language Processing
+- Artificial Intelligence
+- Machine Learning
+- Artificial Neural Network
 date: 2018-07-07 09:15:01
 ---
 

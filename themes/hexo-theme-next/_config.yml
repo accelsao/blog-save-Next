@@ -45,8 +45,8 @@ cache:
 # For example, you put your favicons into `hexo-site/source/images` directory.
 # Then need to rename & redefine they on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
 favicon:
-  small: https://lh3.googleusercontent.com/wLMS5-0VUfg141u6AnzNggUWLPBl7alljM-otgEV3lwc2A02HMaWygQr1yQCH_5uYnJAmxzuwrcZmfn0mL2bZ5g_PVKtoWw5gFf3fVSllTzOSfWp3GqxZVC8nTCGnNd-JhP3QLHBwZagy1hD5qta9e6DI3ClOAk-Vhv0xaIu4n699O9TBXDJ-WJCgj25ge6T5ylsSjWoiDZ4tU5qnhww97VjQRhqPtVNLbExeVKv_t3WjrpCyYqI91cWOwmVCrG4uGfIZJ-v6jpA0s2qJ_pXxnvBd04hqbWGja3HOsElfl-zShXIUbsP1DKadjYd0nyLXsGAGLUDu2P2J6_hHu0bTjnjR5HCKAWvTHVLPnXeLewJ1GF3Y32gLej0aCOhorX9CRR99syJZWVAor95-F-evfjZZQiLUB975fhdrbw9WrC1MwrEN0t_tKcu_j5ljK3E32cfhdWpizAakRXUkq6PCiGkX9OzTnOHa6yuw8lF7C856HpnYaJt2LJ1DnZ3-jrHq-0Sx2BCmXpTXKmYnzpqCyaSDwW_q1VAiXwXf1-JrcVCJNvW__AQnPAEyzLfj_8epsaWGY60kWZc-K9-K0DASU7IAWVZzMnV8rzRDKPv_WqwV3fYF9dwIGq7JLUaCGI=w150-h220-no
-  #medium: /images/favicon-32x32-next.png
+  #small: https://i.imgur.com/aKRHHmA.jpg
+  medium: https://i.imgur.com/aKRHHmA.jpg
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
@@ -170,7 +170,7 @@ social:
 social_icons:
   enable: true
   icons_only: true
-  transition: false
+  transition: true
   # Dependencies: exturl: true in Tags Settings section below.
   # To encrypt links above use https://www.base64encode.org
   # Example encoded link: `GitHub: aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQ= || github`
@@ -188,17 +188,31 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  一首好聽的日語歌——《カルデラ》黒木渚: https://www.youtube.com/watch?v=cXeo2yn22z0
-  【艦これボーカル】 帝國交響楽団 - 燃え落ちる誇り -Counter raid Another D- 【Subbed】: https://www.youtube.com/watch?v=sGYLIlCQWtw
-  少女前線2.0v強力人形推薦: http://bbs.nga.cn/read.php?tid=13653039&rand=782
+  OpenCV C++经典书籍和实战项目: https://zhuanlan.zhihu.com/p/35316731
   handong1587's blog(Object Detection): https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
-
+  如何能在本科三年级就发表论文？: https://www.zhihu.com/question/21427261/answer/21102951?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button
+  在国内CS本科教育环境下，对CS大一新生有什么建议？: https://www.zhihu.com/question/32194463/answer/55061498
+  Stanford  CS: https://exploredegrees.stanford.edu/schoolofengineering/computerscience/#bachelortext
+  学习了哪些知识，计算机视觉才算入门？: https://www.zhihu.com/question/26836846
+  成功的背後，你看到什麼？: https://www.youtube.com/watch?v=gAbYAqq9jhc&t=2215s
+  Annotated Computer Vision Bibliography: http://www.visionbib.com/bibliography/contents.html
+  CMU CS CS: http://coursecatalog.web.cmu.edu/schoolofcomputerscience/undergraduatecomputerscience/
+  CMU CS AI: http://coursecatalog.web.cmu.edu/schoolofcomputerscience/artificialintelligence/
+  CMU Intro to Computer Systems, Fall 2018: http://www.cs.cmu.edu/~213/schedule.html
+  作为计算机专业学生，最应该学习的课程前五位是什么？: https://www.zhihu.com/question/19628851
+  如何阅读《深入理解计算机系统》这本书？: https://www.zhihu.com/question/20402534
+  Probabilistic Graphical Models 10708: https://www.cs.cmu.edu/~epxing/Class/10708/lecture.html
+  是一个转型AI的励志故事，从非科班到拿下竞赛一等奖: https://blog.csdn.net/qq_40027052/article/details/78542679
+  计算机视觉科研入门: https://blog.csdn.net/witnessai1/article/details/79525526
+  Ross Girshick (rbg): http://www.rossgirshick.info/
+  Coursera 上有哪些课程值得推荐？: https://www.zhihu.com/question/22436320/answer/31318351
+  
 # Sidebar Avatar
 avatar:
   # in theme directory(source/images): /images/avatar.gif
   # in site  directory(source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: https://lh3.googleusercontent.com/San6zTNEoz5q6vDJDtwXjIqveFbFBqhkZM5NVwSRMKnmPrfolxCiny1cGZtupKZA72MTnRKKNvIn5UutdJ3Cgs4Y-J5RAO_IajhdzLHqA7WFj_xm4V-dEFTtV96rQ-tnWOifgqlZKFDdphsxm_tdn0dlbin9x9NOV5JEjUnd6CRhsL4lBeDln4JHFCsWXeydcyYXmoZXjUOL1o6kzdT6esoUM7KGwVUvSgIF0iGiuM57D-uT-_lKlH19r9Bs0HUeUmU6fZSU40CAniMkVHCYhD4k-UDlCwXpKjnKkwvlGt8H07eK0aXNTWshO8HaMQQTeOWlUeJydA0mOrY7RH6Ih90G585fjJC4Zg3MFn88dQEUdKdN624zryPa8kIUw4uagVfxRi9xmqFqXOv5MyRKB4W5apwv-LVfw613ecfZX0ZtiorgZ0uyFop_amKbp72XIj9H0yaPlyRaddTu1J70dh35E7tl49EDKQB9VKv7kPBKrSJVOKC-JosI1rmja-1X8_jaDHRF79OA6t7S6BnLVjfHdHN2tKy-5sn2zN1pWJ3VeC_vy8xPIh-iobTJ6e20B58CSM5D6YcBGePcFpOEqD4bfGygJNWaWGctyH5qnAwUUnTsHBWe-u8ip3A763k=s317-no  # If true, the avatar would be dispalyed in circle.
+  url: https://i.imgur.com/r1ouiFo.jpg
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
   opacity: 1
@@ -238,8 +252,8 @@ sidebar:
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
   #display: post
-  #display: always
-  display: hide
+  display: always
+  #display: hide
   #display: remove
 
   # Sidebar offset from top menubar in pixels (only for Pisces | Gemini).

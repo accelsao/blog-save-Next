@@ -10,6 +10,9 @@ date: 2018-08-13 15:26:29
 ---
 論文筆記(待續)
 
+<!--more-->
+
+
 # Introduction
 Standard image scaling is not sufficient since it is oblivious to the
 image content and typically can be applied only uniformly. Cropping

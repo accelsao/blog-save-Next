@@ -5,12 +5,12 @@ tags:
   - Convolutional Neural Network
   - Single Shot Detector
 categories:
-  - Computer Vision
+- Computer Vision
 date: 2018-09-01 14:03:17
 ---
 
 論文筆記(待續) 
-
+<!--more-->
 # Abstract
 Our approach, named SSD, discretizes the output space of
 bounding boxes into a set of default boxes over different aspect ratios and scales per feature map location
