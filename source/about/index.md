@@ -140,6 +140,8 @@ date: 2018-09-15 21:06:57
 			* [響喜乱舞](https://www.youtube.com/watch?v=SOTVTJNHa3w)
 		* GARNiDELiA
 			* Speed Star
+			* [Yakusoku](https://www.youtube.com/watch?v=VaUvLnruYzQ)
+			
 		* Vast & Hazy
 			* 歸屬 Eleanor
 		* Hyakkei 百景
@@ -180,6 +182,8 @@ date: 2018-09-15 21:06:57
 			* [Pierce](https://www.youtube.com/watch?v=sgbvcfo59NA)
 		* Angela
 			* [Angel](https://www.youtube.com/watch?v=-46yYx8_dAE)
+		* Mili	
+			* [Within](https://www.youtube.com/watch?v=3UJ_mERvw3A)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -249,6 +253,10 @@ date: 2018-09-15 21:06:57
 			* [Pray ／ レイチェル(殺戮的天使 ED)](https://www.youtube.com/watch?v=4124q8T8_aE)
 		* 家入レオ
 			* Silly
+		* Vickeblanka
+			* [Black Rover](https://www.youtube.com/watch?v=ElwWycMN8nw)
+		* そらる
+			* [銀の祈誓](https://www.youtube.com/watch?v=XvdWGVTDo34)
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
@@ -290,12 +298,17 @@ date: 2018-09-15 21:06:57
 		
 	* 作曲家
 		* 澤野弘之
+			* LiSA
+				* [Narrative](https://www.youtube.com/watch?v=9NUMZrxSAxM)
+			* 小林未郁
+				* βios
+				* [Bauklötze](https://www.youtube.com/watch?v=LXZOhU3YQnA)
+			* This is a fight to change the world
 			* Aesthetic
 			* aLIEz
-			* βios Vocal:小林未郁
-			* Bauklötze Vocal:小林未郁
-			* This is a fight to change the world Vocal:小林未郁
 			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
+			* [Before my body is dry](https://www.youtube.com/watch?v=uc7EcuqVhPE)
+			* [2V-ALK](https://www.youtube.com/watch?v=O0--A2RplIg)
 		* 梶浦由記
 			* [Kalafina - Magia](https://www.youtube.com/watch?v=QwquipMpsiQ)
 		* 高梨康治
