@@ -94,6 +94,7 @@ date: 2018-09-15 21:06:57
 		* Cö Shu Nie
 			* Asphyxia
 			* [PERSON](https://www.youtube.com/watch?v=-KUcydUw6kI)
+			* [ö=Simple Is!](https://www.youtube.com/watch?v=exIWXjTtuGY)
 		* Fear, and Loathing in Las Vegas
 			* Treasure in Your Hands
 		* ONE OK ROCK
@@ -199,6 +200,7 @@ date: 2018-09-15 21:06:57
 			* Last Stardust
 			* [Black Bird](https://www.youtube.com/watch?v=Svg5LG6VQV0)
 			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
+			* [I beg you](https://www.youtube.com/watch?v=Zf3xNj39Eio)
 		* Sayuri
 			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)
 			* [Reimei](https://www.youtube.com/watch?v=7InW3lZmQDY)
@@ -223,6 +225,7 @@ date: 2018-09-15 21:06:57
 			* サイサキ
 			* 宵々古今
 			* ギミアブレスタッナウ
+			* [ROXY](https://www.youtube.com/watch?v=cHNQFqKZm-g)
 		* 芝麻Mochi (翻唱歌手 歌聲似Aimer)
 			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
 		* 黒木渚
@@ -257,6 +260,10 @@ date: 2018-09-15 21:06:57
 			* [Black Rover](https://www.youtube.com/watch?v=ElwWycMN8nw)
 		* そらる
 			* [銀の祈誓](https://www.youtube.com/watch?v=XvdWGVTDo34)
+			
+		* JY
+			* [好きな人がいること](https://www.youtube.com/watch?v=NM_g3Ru83Ks)
+		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
@@ -295,7 +302,9 @@ date: 2018-09-15 21:06:57
 			* [Glassy Sky](https://www.youtube.com/watch?v=vvvvcpwFw5o)
 		* リズと青い鳥
 			* [[吹奏楽曲]リズと青い鳥 full](https://www.youtube.com/watch?v=brWiRDUgDYM)
-		
+		* Rakuen
+			* [The Keepers](https://www.youtube.com/watch?v=ghxSq2tBf8w)
+				
 	* 作曲家
 		* 澤野弘之
 			* LiSA
