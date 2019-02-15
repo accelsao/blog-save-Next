@@ -234,6 +234,7 @@ date: 2018-09-15 21:06:57
 			* [ひび割れた世界](https://www.youtube.com/watch?v=6rHySk9Kcuo)
 			* [君に最後の口づけを](https://www.youtube.com/watch?v=ojG9C6L61oA)
 			* [心做し (Live)](https://www.youtube.com/watch?v=QJie7dTvbjQ)
+			* [ノクチルカの夜](https://www.youtube.com/watch?v=-0Fv9H3h6Iw)
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
@@ -263,6 +264,7 @@ date: 2018-09-15 21:06:57
 			
 		* JY
 			* [好きな人がいること](https://www.youtube.com/watch?v=NM_g3Ru83Ks)
+
 		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
