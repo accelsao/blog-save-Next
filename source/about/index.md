@@ -185,6 +185,8 @@ date: 2018-09-15 21:06:57
 			* [Angel](https://www.youtube.com/watch?v=-46yYx8_dAE)
 		* Mili	
 			* [Within](https://www.youtube.com/watch?v=3UJ_mERvw3A)
+		* ウォルピスカーター
+			* [泥中に咲く](https://www.youtube.com/watch?v=40dJS_LC6S8)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -306,6 +308,8 @@ date: 2018-09-15 21:06:57
 			* [[吹奏楽曲]リズと青い鳥 full](https://www.youtube.com/watch?v=brWiRDUgDYM)
 		* Rakuen
 			* [The Keepers](https://www.youtube.com/watch?v=ghxSq2tBf8w)
+		* Gris
+			* [Gris OST](https://www.youtube.com/watch?v=DBToMwdYBME&t=393s)
 				
 	* 作曲家
 		* 澤野弘之

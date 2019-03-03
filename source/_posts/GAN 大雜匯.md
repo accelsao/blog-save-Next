@@ -9,6 +9,16 @@ mathjax: false
 date: 2018-10-09 21:41:55
 ---
 
+
+
+# Gan Understanding
+[Gan Dissection](https://arxiv.org/pdf/1811.10597.pdf)
+
+
+## Gan
+
+
+
 相關paper,知識點,傳送門,筆記
 [2017年GAN 计算机视觉相关paper汇总](https://zhuanlan.zhihu.com/p/29882709)
 <!--more-->
