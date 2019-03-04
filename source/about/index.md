@@ -267,7 +267,6 @@ date: 2018-09-15 21:06:57
 		* JY
 			* [好きな人がいること](https://www.youtube.com/watch?v=NM_g3Ru83Ks)
 
-		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
