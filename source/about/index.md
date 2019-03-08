@@ -145,6 +145,7 @@ date: 2018-09-15 21:06:57
 			
 		* Vast & Hazy
 			* 歸屬 Eleanor
+			* [求救訊號 I'm Not OK](https://www.youtube.com/watch?v=stQ_IfKJBCU)
 		* Hyakkei 百景
 			* おくりもの(ALBUM)
 		* BABYMETAL
@@ -187,6 +188,8 @@ date: 2018-09-15 21:06:57
 			* [Within](https://www.youtube.com/watch?v=3UJ_mERvw3A)
 		* ウォルピスカーター
 			* [泥中に咲く](https://www.youtube.com/watch?v=40dJS_LC6S8)
+		* te' 
+			* [音の中の『痙攣的』な美は、観念を超え肉体に訪れる野生の戦慄](https://www.youtube.com/watch?v=GFpmJpVPVe4)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -262,11 +265,14 @@ date: 2018-09-15 21:06:57
 		* Vickeblanka
 			* [Black Rover](https://www.youtube.com/watch?v=ElwWycMN8nw)
 		* そらる
-			* [銀の祈誓](https://www.youtube.com/watch?v=XvdWGVTDo34)
-			
+			* [銀の祈誓](https://www.youtube.com/watch?v=XvdWGVTDo34)	
 		* JY
 			* [好きな人がいること](https://www.youtube.com/watch?v=NM_g3Ru83Ks)
-
+		* ReoNa
+			* [虹の彼方に](https://www.youtube.com/watch?v=hTyDqz-mHgQ)
+		* 高橋優
+			* [aquarium](https://www.youtube.com/watch?v=qvd5QQMCfvM)
+		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
