@@ -75,7 +75,6 @@ date: 2018-09-15 21:06:57
 	* 逃避雖可恥但有用
 	* 寬鬆世代又怎樣
 	* 非獸性男女
-	
 
 
 * Music列表
@@ -95,6 +94,7 @@ date: 2018-09-15 21:06:57
 			* Asphyxia
 			* [PERSON](https://www.youtube.com/watch?v=-KUcydUw6kI)
 			* [ö=Simple Is!](https://www.youtube.com/watch?v=exIWXjTtuGY)
+			* [Lamp](https://www.youtube.com/watch?v=0Qe7Nqx6SNE)
 		* Fear, and Loathing in Las Vegas
 			* Treasure in Your Hands
 		* ONE OK ROCK
@@ -315,6 +315,8 @@ date: 2018-09-15 21:06:57
 			* [The Keepers](https://www.youtube.com/watch?v=ghxSq2tBf8w)
 		* Gris
 			* [Gris OST](https://www.youtube.com/watch?v=DBToMwdYBME&t=393s)
+		* CLANN
+			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
 				
 	* 作曲家
 		* 澤野弘之
