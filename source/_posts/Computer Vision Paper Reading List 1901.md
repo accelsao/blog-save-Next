@@ -6,8 +6,9 @@ tags:
   - 3D Shape Reconstructtion
   - Deep Generative Models
   - Deep Learning
-categories:
   - Computer Vision
+categories:
+  - Learning Notes
 mathjax: false
 date: 2019-01-17 15:13:36
 ---
