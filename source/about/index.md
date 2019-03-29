@@ -186,10 +186,15 @@ date: 2018-09-15 21:06:57
 			* [Angel](https://www.youtube.com/watch?v=-46yYx8_dAE)
 		* Mili	
 			* [Within](https://www.youtube.com/watch?v=3UJ_mERvw3A)
+			* [Camelia](https://www.youtube.com/watch?v=wOcCu31oi7Q)
 		* ウォルピスカーター
 			* [泥中に咲く](https://www.youtube.com/watch?v=40dJS_LC6S8)
 		* te' 
 			* [音の中の『痙攣的』な美は、観念を超え肉体に訪れる野生の戦慄](https://www.youtube.com/watch?v=GFpmJpVPVe4)
+		* FERN PLANET
+			* [ソルジャーガールズ](https://www.youtube.com/watch?v=EnZuLUHEpFs)
+		* The ROOTLESS
+			* [One day](https://www.youtube.com/watch?v=8QHmMwqY5Lc)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -337,6 +342,8 @@ date: 2018-09-15 21:06:57
 			* 追憶 めざめる たましい
 		* 木村弓
 			* [いのちの名前](https://www.youtube.com/watch?v=LCbLK2fG2eM)
+		* 大嶋啓之
+			* [why, or why not (feat.片霧烈火)](https://www.youtube.com/watch?v=_1Ty88J3JQU)
 			
 			
 			

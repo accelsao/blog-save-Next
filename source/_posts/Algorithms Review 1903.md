@@ -234,4 +234,118 @@ int main(){
 ```
 {% endfold %}
 
+## [1083B The Fair Nut and Strings](http://codeforces.com/contest/1083/problem/B)
+給你字串a,b(只有a or b)
+你可以選至多k個len=n的字串在[a,b]區間內
+這k個字串的所有prefixes最大 重複不計
+Example:
+2 4
+aa
+bb
+你可以選 aa,ab,ba,bb 共4個都在[aa,bb]區間內
+所有prefixes有 a,aa,ab,b,ba,bb 共6個
+### Tutorial
+想法居然超級簡單 ... 我真嫩
+對於len-1的所有可能的prefixes, 先假定後面接`a or b` 所以\\(num=num*2\\)
+```
+xxxa
+xxxb
+```
+但是如果他a字串是`b` 我們就不會有a的可能 num-1,同理b字串`a`的情況 num-1
+其中要以防num溢位 num=min(num,1<<61) //用1<<61 *2以後就爆了
+{%fold Code%}
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int n,k;
+const int N=57890;
+string a,b;
+int main(){
+	ios::sync_with_stdio(0);
+	cin.tie(0);
+	cin>>n>>k;
+	cin>>a>>b;
+	long long num=1,ans=0;
+	for(int i=0;i<n;i++){
+		num=num*2;
+		if(a[i]=='b')num--;
+		if(b[i]=='a')num--;
+		num=min(num,1LL<<61);
+		ans+=min(num,1LL*k);
+	}
+	cout<<ans<<endl;
+	
+	
+}
+```
+{%endfold%}
+
 # Atcoder
+## [AtCoder Grand Contest 032](https://atcoder.jp/contests/agc032/tasks)
+### A
+給你一個empty sequence a, 和N個操作
+第\\( i \\)次操作 選擇一個\\(j\\) \\(1\leq j \leq i\\), 從第\\( j \\)的position插入 \\(j\\)
+目標是變成b
+{%fold Example1%}
+3
+1 2 1
+依序丟入 1 1 2
+1: 1
+1: 1 1
+2: 1 2 1
+{%endfold%}
+
+{%fold Example2%}
+9
+1 1 1 2 2 1 2 3 2
+依序丟入 1 2 2 3 1 2 2 1 1
+1: 1
+2: 1 2
+2: 1 2 2
+3: 1 2 3 2
+1: 1 1 2 3 2
+2: 1 2 1 2 3 2
+2: 1 2 2 1 2 3 2
+1: 1 1 2 2 1 2 3 2
+1: 1 1 1 2 2 1 2 3 2
+{%endfold%}
+#### Tutorial
+這裡可以想到一個特性 當我插入j的時候 我會把原本j~end的數字都往後推
+換言之 我把推完的seq拿掉j就可以還原了
+所以我們每次找rightmost的pos[j]=j的數字
+這個order就和插入的相反
+{%fold Code%}
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+const int N=1e6+10;
+
+int main(){
+	int n;
+	cin>>n;
+	vector<int>a(n);
+	for(int i=0;i<n;i++)cin>>a[i];
+	vector<int>b(n);
+	for(int i=0;i<n;i++){
+		int k=1,rm=-1;
+		for(int j=0;j<n;j++){
+			if(a[j]==k)
+				rm=j;
+			if(a[j])k++;
+		}
+		if(rm==-1){
+			cout<<rm<<endl;return 0;
+		}
+		b[i]=a[rm];
+		a[rm]=0;
+		
+	}
+	reverse(b.begin(),b.end());
+	
+	for(auto x:b)
+		cout<<x<<endl;		
+}
+
+```
+{%endfold%}
