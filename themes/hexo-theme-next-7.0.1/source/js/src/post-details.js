@@ -1,3 +1,11 @@
+$(document).ready(function(){
+    $(document).on('click', '.fold_hider', function(){
+        $('>.fold', this.parentNode).slideToggle();
+        $('>:first', this).toggleClass('open');
+    });
+    //Àq?±¡?¤U§é?
+    $("div.fold").css("display","none");
+});
 /* global NexT, CONFIG */
 
 $(document).ready(function() {

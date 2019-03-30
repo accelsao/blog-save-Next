@@ -47,19 +47,21 @@ $$W^{k+n/2}_n=-W^{k}_n$$
 首先我們希望n是power of 2, 所以把不足的係數補0
 
 按照odd,even分
-$$
-\begin{equation} \label{eq1}
-A_{even}=a_0 + a_2 * x + ... + a_{n-2} * x^{n/2-1} \\
-A_{odd}=a_1 + a_3 * x + ... + a_{n-1} * x^{n/2-1} \\
-A(x)=A_{even}(x^2) + x * A_{odd}(x^2)
-\end{equation}
-$$
 
-我們知道\\(A_{even}(x^2) 和 A_{odd}(x^2)\\)需要\\((w_n^0)^2,(w_n^1)^2,...,(w_n^{n/2-1})^2\\)
-根據**Lemma 3**可以改為\\(w_{n/2}^0,w_{n/2}^1,...,w_{n/2}^{n/2-1}\\)
+$$\begin{equation}
+\begin{aligned}
+A_{even} &= a_0 + a_2 * x + ... + a_{n-2} * x^{n/2-1} \\
+A_{odd}  &= a_1 + a_3 * x + ... + a_{n-1} * x^{n/2-1} \\
+A(x) &= A_{even}(x^2) + x * A_{odd}(x^2)
+\end{aligned}
+\end{equation}\label{eq1}$$
 
-Now, \\( A(w^k_n) = A_{even}(w^{2k}_n) + w^{k}_{n} \ast A_{odd}(w^{2k}_n)\\), if \\(k < n/2\\)
-And if \\(k\geq n/2\\), then \\(A(w^k_n)=A^{even}(w^{k-n/2}_{n/2})-w^{k-n/2}_n\ast A^{odd}(w^{k-n/2}_{n/2})\\)
+
+我們知道 $ A\_{even}(x^{2}) $ 和 $ A\_{odd}(x^2) $ 需要 $ (w\_n^0)^2,(w\_n^1)^2,...,(w\_n^{n/2-1})^2 $
+根據**Lemma 3**可以改為 $ w\_{n/2}^0,w\_{n/2}^1,...,w\_{n/2}^{n/2-1} $
+
+Now, $ A(w^k\_n) = A\_{even}(w^{2k}\_n) + w^{k}\_{n} \ast A\_{odd}(w^{2k}\_n) $, if $ k < n/2 $
+And if $ k\geq n/2 $, then $ A(w^k\_n)=A^{even}(w^{k-n/2}\_{n/2})-w^{k-n/2}\_n\ast A^{odd}(w^{k-n/2}\_{n/2}) $
 
 **Proof:**
 $$
@@ -78,11 +80,12 @@ since \\(k' = k+n/2\\)
 
 RECURSIVE-FFT(a)
 n=a.length()
-If n=1 then return a #Base Case 
-\\(w_n=e^{2\pi i/n}\\)
-w=1
-\\(a^{even}=(a_0,a_2,,,a_{n-2})\\)
-\\(a^{odd}=(a_1,a_3,,,a_{n-1})\\)
+If n=1 then return a #Base Case
+$ w\_n = e^{2\pi i/n} $
+w = 1
+
+\\(a^{even}=(a\_0,a\_2,,,a\_{n-2})\\)
+\\(a^{odd}=(a\_1,a\_3,,,a\_{n-1})\\)
 \\(y^{even}=RECURSIVE-FFT(a^{even})\\)
 \\(y^{odd}=RECURSIVE-FFT(a^{odd})\\)
 for k=0 to n/2-1:
