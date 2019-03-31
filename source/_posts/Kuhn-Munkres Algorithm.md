@@ -1,9 +1,9 @@
 ---
-title: Kuhn-Munkres算法
+title: Kuhn-Munkres Algorithm
 tags:
-  - KM算法
+  - Kuhn-Munkres Algorithm
 categories:
-  - ACM
+  - Algorithms
 mathjax: true
 date: 2018-12-13 08:56:09
 ---

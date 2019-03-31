@@ -14,6 +14,20 @@ tags:
 
 <!--more-->
 
+## 19/03/31 補充心得
+兩個常用指令
+記得deploy前一定要clean 之前hexo next scheme因此錯誤
+$ hexo clean && hexo s
+$ hexo clean && hexo g -d
+push到github
+```
+$ git add .
+$ git commit -m "message"
+$ git push
+```
+因為我現在都用`hexo next 7.0.1`了 mathjax只要照著他的說明就好了
+
+# 正文
 我本來要更改圖片
 單純hexo g s d 沒有變化
 
@@ -25,8 +39,6 @@ $ cd .deploy/accelsao.github.io
 $ hexo g d
 ```
 為甚麼呢... 阿災
-
-
 
 ## Hexo with Mathjax
 
@@ -83,7 +95,7 @@ try again and again吧
 
 早知道我一開始就全砍掉處理了..浪費一推時間還不知道到底為甚麼會卡住...
 
-注: 後來發現[Hexo 博客备份]的方法 themes/config 不會上傳github...要手動喔
+注: 後來發現**Hexo 博客备份**的方法 themes/config 不會上傳github...要手動喔
 
 
 ## Hexo新增ipynb方法(嘗試失敗 18/10/08)
@@ -114,3 +126,5 @@ hexo _config.yml 改 `post_asset_folder: true `
 <script text='text/javascript' src='/lib/jquery/index.js'></script>
 {% asset_jupyter ../Anaconda3/python test.ipynb %}
 ```
+
+
