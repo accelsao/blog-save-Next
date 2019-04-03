@@ -1,17 +1,16 @@
 ﻿---
-title: Kaggle學習筆記
+title: Numpy, Pandas, Matplotlib
 tags:
   - Numpy
   - Matplotlib
   - Pandas
 categories:
-  - Notes
+  - Learning Notes
+mathjax: false
 date: 2018-07-04 15:55:16
 ---
 
-寫Kaggle最開始遇到的問題就各種函數的神奇用法
-尤其是python 包含了 numpy,pandas 等等
-
+Numpy, Pandas, Matplotlib cheatsheets
 
 <!--more-->
 # Numpy

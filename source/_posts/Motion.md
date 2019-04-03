@@ -4,15 +4,18 @@ tags:
   - CS131
 categories:
   - Computer Vision
+mathjax: true
 date: 2018-07-10 11:37:31
 ---
 
 簡述CS131的課程-Motion
 
-原本圖片的data是二維的\\(I(x,y)\\)
+原本圖片的data是二維的$I(x,y)$
 
 一堆圖片加上時間維度就成了影片
 變成 Image date=\\(I(x,y,t)\\)
+
+<!--more-->
 
 # Optical flow
 

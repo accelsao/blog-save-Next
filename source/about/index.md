@@ -62,7 +62,7 @@ date: 2018-09-15 21:06:57
 	* 来自新世界
 	* 刀劍神域(前部分)
 		```
-			Underworld前半不錯,後半狗屎 19/03/29 補
+			Underworld前半不錯,後半狗屎 19/03/29
 		```
 
 * JapanDrama
@@ -240,11 +240,12 @@ date: 2018-09-15 21:06:57
 			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
 		* 黒木渚
 			* [カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
-		* まじ娘(Majiko)
+		* majiko/まじ娘 - [twitter](https://twitter.com/majakoja)
 			* [ひび割れた世界](https://www.youtube.com/watch?v=6rHySk9Kcuo)
 			* [君に最後の口づけを](https://www.youtube.com/watch?v=ojG9C6L61oA)
 			* [心做し (Live)](https://www.youtube.com/watch?v=QJie7dTvbjQ)
 			* [ノクチルカの夜](https://www.youtube.com/watch?v=-0Fv9H3h6Iw)
+			* [パラノイア](https://www.youtube.com/watch?v=_cnHxTaGrYQ)
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
@@ -322,6 +323,10 @@ date: 2018-09-15 21:06:57
 			* [Gris OST](https://www.youtube.com/watch?v=DBToMwdYBME&t=393s)
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
+		* Fullmetal Alchemist
+			* [ALL OST](https://www.youtube.com/watch?v=CZPul4k9bUU)
+		* 約束のネバーランド
+			* [イザベラの唄](https://www.youtube.com/watch?v=rTJjtSP-ORc)
 				
 	* 作曲家
 		* 澤野弘之
