@@ -2,9 +2,10 @@
 title: 淺談PCA和t-SNE
 tags:
   - PCA
+  - t-SNE
 categories:
-- Artificial Intelligence
-- Machine Learning
+  - Machine Learning
+mathjax: true
 date: 2018-07-09 10:07:06
 ---
 

@@ -17,6 +17,7 @@ date: 2018-09-15 21:06:57
 	* 雪之下雪乃
 	* 橋本環奈
 	* 石原聰美
+	* 似鳥沙也加
 
 >決定把動畫小說分開
 >順序按照更新當時的印象排序
@@ -33,10 +34,10 @@ date: 2018-09-15 21:06:57
 	* 命運石之門
 	* 為美好的世界獻上祝福！
 	* 遊戲人生
-	* Princess Principal
-	* 七大罪
 	* 吹響吧!上低音號
+	* Princess Principal
 	* 狂賭之淵
+	* 七大罪
 	* 全部成為F 
 	* 寶石之國 
 	* 來自深淵
@@ -44,8 +45,10 @@ date: 2018-09-15 21:06:57
 	* 櫻子小姐的腳下埋著屍體
 	* 四月は君の嘘
 	* ACCA13區監察課
+	* 死亡遊行
+	* 東京殘響
 	* 只有我不存在的城市 
-	* 東京殘響 
+	
 	
 * 輕小說	
 	* Re:從零開始的異世界生活
@@ -119,6 +122,7 @@ date: 2018-09-15 21:06:57
 		* MYTH & ROID
 			* HYDRA
 			* [VORACITY](https://www.youtube.com/watch?v=D-LXfVLL5Tc)
+			* [Frozen Rain](https://www.youtube.com/watch?v=E3EXAIzagnc)
 		* Hello Sleepwalkers
 			* 天地創造
 			* 月面歩行
@@ -195,6 +199,8 @@ date: 2018-09-15 21:06:57
 			* [ソルジャーガールズ](https://www.youtube.com/watch?v=EnZuLUHEpFs)
 		* The ROOTLESS
 			* [One day](https://www.youtube.com/watch?v=8QHmMwqY5Lc)
+		* Kalafina
+			* [Magia](https://www.youtube.com/watch?v=QwquipMpsiQ&list=RDEMHa53mGjYcI7NdILO3j0kLg&index=6)
 	* 歌手
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
@@ -211,6 +217,7 @@ date: 2018-09-15 21:06:57
 			* [Black Bird](https://www.youtube.com/watch?v=Svg5LG6VQV0)
 			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 			* [I beg you](https://www.youtube.com/watch?v=Zf3xNj39Eio)
+			* [i-mage](https://www.youtube.com/watch?v=P_D6l48mWSs)
 		* Sayuri
 			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)
 			* [Reimei](https://www.youtube.com/watch?v=7InW3lZmQDY)
@@ -278,18 +285,20 @@ date: 2018-09-15 21:06:57
 			* [虹の彼方に](https://www.youtube.com/watch?v=hTyDqz-mHgQ)
 		* 高橋優
 			* [aquarium](https://www.youtube.com/watch?v=qvd5QQMCfvM)
+		* Eir Aoi
+			* [Kuroiuta](https://www.youtube.com/watch?v=nFyK-ajIAWU)
 		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
 		* Made in Abyss
-			* Hanezeve Caradhina 
+			* [Hanezeve Caradhina](https://www.youtube.com/watch?v=KPxSS1zHWwQ)
 			* Underground River
 			* Swings and Roundabouts
 		* Fairy Tail
 			* Salamander
 			* Mahou Taisen
-		* VIOLET EVERGARDEN: Automemories
+		* Violet Evergarden: Automemories
 			* The Voice in My Heart
 			* Adamantine Dreams
 			* The Ultimate Price
@@ -298,6 +307,7 @@ date: 2018-09-15 21:06:57
 			* The Storm
 			* In Remembrance
 			* Another Sunny Day
+			* Never Coming Back
 		* 進擊的巨人
 			* So ist es immer
 			* Call Your Name
@@ -307,14 +317,19 @@ date: 2018-09-15 21:06:57
 			* 挫けそうになる私を支えてください
 			* ウソとホント
 			* 友人A君を私の伴奏者に任命します
-			* 私の嘘
-		* 誓血龍騎士3
+			* [私の嘘 .Piano](https://www.youtube.com/watch?v=PXa5ehb7po0)
+			* [愛の悲しみ](https://www.youtube.com/watch?v=JcZ6cjKcZKc)
+		* Drakengard 3
 			* [The Last Song](https://www.youtube.com/watch?v=Cgy7IbVRvek)
 			* [This Silence is Mine](https://www.youtube.com/watch?v=pQrQEmClpWc)
+			* [The Final Song ~ Black Song, White Scales](https://www.youtube.com/watch?v=axT_RojfaRs)
 		* Fate/Stay Night
 			* [騎士王の誇り](https://www.youtube.com/watch?v=OixZKhcq1fQ)
 		* Tokyo Ghoul
 			* [Glassy Sky](https://www.youtube.com/watch?v=vvvvcpwFw5o)
+			* [On my Own](https://www.youtube.com/watch?v=dj4VoPO-2pE)
+			* [Wanderers](https://www.youtube.com/watch?v=qzkC-alTbeA)
+			* [White Silence](https://www.youtube.com/watch?v=eX-CZnIW4bo)
 		* リズと青い鳥
 			* [[吹奏楽曲]リズと青い鳥 full](https://www.youtube.com/watch?v=brWiRDUgDYM)
 		* Rakuen
@@ -341,8 +356,6 @@ date: 2018-09-15 21:06:57
 			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
 			* [Before my body is dry](https://www.youtube.com/watch?v=uc7EcuqVhPE)
 			* [2V-ALK](https://www.youtube.com/watch?v=O0--A2RplIg)
-		* 梶浦由記
-			* [Kalafina - Magia](https://www.youtube.com/watch?v=QwquipMpsiQ)
 		* 高梨康治
 			* 追憶 めざめる たましい
 		* 木村弓
