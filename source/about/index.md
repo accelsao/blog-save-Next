@@ -356,6 +356,8 @@ date: 2018-09-15 21:06:57
 			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
 			* [Before my body is dry](https://www.youtube.com/watch?v=uc7EcuqVhPE)
 			* [2V-ALK](https://www.youtube.com/watch?v=O0--A2RplIg)
+			* 瑞葵 mizuki
+				* [ ｢Keep on keeping on｣ & ｢aLIEz｣ ](https://www.youtube.com/watch?v=vL7nL8cr8jQ)
 		* 高梨康治
 			* 追憶 めざめる たましい
 		* 木村弓
