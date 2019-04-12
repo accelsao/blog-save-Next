@@ -348,7 +348,7 @@ date: 2018-09-15 21:06:57
 			* LiSA
 				* [Narrative](https://www.youtube.com/watch?v=9NUMZrxSAxM)
 			* 小林未郁
-				* βios
+				* [｢βios｣｢Before my body is dry｣](https://www.youtube.com/watch?v=yCgpL7wDDds)
 				* [Bauklötze](https://www.youtube.com/watch?v=LXZOhU3YQnA)
 			* This is a fight to change the world
 			* Aesthetic
