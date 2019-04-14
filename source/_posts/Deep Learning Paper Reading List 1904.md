@@ -23,9 +23,28 @@ Subjects | Machine Learning, Computer Vision and Pattern Recognition
 
 [ICLR 2019 Schedule](https://iclr.cc/Conferences/2019/Schedule)
 [Pytorch Doc](https://pytorch.org/docs/stable/index.html)
-[ajbrock/BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
 
 <!--more-->
+
+# Dynamic Few-Shot Visual Learning without Forgetting
+authors | arxiv | tag | comment | code
+--- |
+Spyros Gidaris, Nikos Komodakis | [https://arxiv.org/abs/1804.09458](https://arxiv.org/abs/1804.09458) | | CVPR 2018 | [FewShotWithoutForgetting](https://github.com/gidariss/FewShotWithoutForgetting)
+
+# Low-Shot Learning with Imprinted Weights
+authors | arxiv | tag | comment
+--- |
+Hang Qi, Matthew Brown, David G. Lowe | [https://arxiv.org/abs/1712.07136](https://arxiv.org/abs/1712.07136) | | CVPR 2018
+
+# Non-local Neural Networks
+authors | arxiv | tag | comment | code
+--- |
+Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He | [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971) | | CVPR 2018 | [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
+
+# Large-Scale Long-Tailed Recognition in an Open World
+authors | arxiv | tag | comment | project
+--- |
+Large-Scale Long-Tailed Recognition in an Open World | [https://arxiv.org/abs/1904.05160](https://arxiv.org/abs/1904.05160) | | CVPR 2019 oral | [project](https://liuziwei7.github.io/projects/LongTail.html)
 
 # Spectral Normalization for Generative Adversarial Networks
 authors | arxiv | tag | comment
@@ -33,9 +52,9 @@ authors | arxiv | tag | comment
 Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida | [https://arxiv.org/abs/1802.05957](https://arxiv.org/abs/1802.05957) | Generative Neural Network | ICLR 2018 oral
 
 # Large Scale GAN Training for High Fidelity Natural Image Synthesis
-authors | arxiv | tag | comment
+authors | arxiv | tag | comment | code
 --- |
-Andrew Brock, Jeff Donahue, Karen Simonyan | [https://arxiv.org/abs/1809.11096](https://arxiv.org/abs/1809.11096) | Generative Neural Network | ICLR 2019 oral
+Andrew Brock, Jeff Donahue, Karen Simonyan | [https://arxiv.org/abs/1809.11096](https://arxiv.org/abs/1809.11096) | Generative Neural Network | ICLR 2019 oral | [ajbrock/BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch)
 
 # Meta-Learning Update Rules for Unsupervised Representation Learning
 authors | arxiv | tag
