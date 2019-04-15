@@ -26,47 +26,24 @@ date: 2018-09-15 21:06:57
 	* 我想吃掉你的胰臟
 	* 莉茲與青鳥
 	* 比宇宙更遠的地方
-		```
-			催淚 + 勵志 19/04/14
-		```
-	* [Re:ゼロから始める異世界生活](http://re-zero-anime.jp/)
-		```
-			15神回, 18愛的告白 19/04/14
-		```
+	* Re:從零開始的異世界生活
 	* 約定的夢幻島
-		```
-			逃出農場, 平平收尾 19/04/14
-		```
 	* 言葉之庭
 	* 你的名子
 	* 進擊的巨人 
 	* 命運石之門
-		```
-			第三季看到棄 19/04/14
-		```
 	* 為美好的世界獻上祝福！
-		```
-			少數喜歡的搞笑番 19/04/14
-		```
 	* 遊戲人生
 	* 吹響吧!上低音號
 	* Princess Principal
 	* 狂賭之淵
-		```
-			顏藝之淵 19/04/14
-		```
 	* 七大罪
-	* 全部成為F
-	* 寶石之國
+	* 全部成為F 
+	* 寶石之國 
 	* 來自深淵
 	* 東京喰種
-		```
-			第三季看到棄 19/04/14
-		```
-	* 我的英雄學院
 	* 櫻子小姐的腳下埋著屍體
 	* 四月は君の嘘
-	* 文豪Stray Dogs
 	* ACCA13區監察課
 	* 死亡遊行
 	* 東京殘響
@@ -74,8 +51,7 @@ date: 2018-09-15 21:06:57
 	
 	
 * 輕小說	
-	* Re:ゼロから始める異世界生活 [小説を読もう！](https://ncode.syosetu.com/n2267be/)
-		* 作者: 鼠色猫/長月達平
+	* Re:從零開始的異世界生活
 		```
 			看了第11,12卷第4章後排名直接竄升第一 這邊的心境,情緒,情報量帶來的衝擊非一言可語 直接震撼腦隨阿 19/03/29
 		```
@@ -244,8 +220,8 @@ date: 2018-09-15 21:06:57
 			* [i-mage](https://www.youtube.com/watch?v=P_D6l48mWSs)
 		* Sayuri
 			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)
-			* [Reimei](https://www.youtube.com/watch?v=7InW3lZmQDY)
-				* Sayuri x MY FIRST STORY
+			* [Sayuri x My First Story - Dawn](https://www.youtube.com/watch?v=hpoibyitXIg)
+			* [ME & CREED ＜nZkv＞](https://www.youtube.com/watch?v=sWQSbTdVrg4)
 		* 鈴木KONOMI
 			* Blow out
 		* Shakira
@@ -311,6 +287,8 @@ date: 2018-09-15 21:06:57
 			* [aquarium](https://www.youtube.com/watch?v=qvd5QQMCfvM)
 		* Eir Aoi
 			* [Kuroiuta](https://www.youtube.com/watch?v=nFyK-ajIAWU)
+		* ASCA
+			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
 		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
@@ -366,29 +344,23 @@ date: 2018-09-15 21:06:57
 			* [ALL OST](https://www.youtube.com/watch?v=CZPul4k9bUU)
 		* 約束のネバーランド
 			* [イザベラの唄](https://www.youtube.com/watch?v=rTJjtSP-ORc)
-		* Maple Story
-			* Edelstein
-				* [Underground Place](https://www.youtube.com/watch?v=SNuR31g7gqI&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=8)
-			* Ariant
-				* [Hot Desert](https://www.youtube.com/watch?v=q9swmo6309U&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=142)
-			* Temple of Time
-				* [Forgetfulness](https://www.youtube.com/watch?v=mPdotLdAe7k&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=105)
-			* [Chryse Field](https://www.youtube.com/watch?v=axgX2QRdBII&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=2)
 				
 	* 作曲家
 		* 澤野弘之
 			* LiSA
 				* [Narrative](https://www.youtube.com/watch?v=9NUMZrxSAxM)
-			* 小林未郁 [Official Website](http://miccabose.com/) [Twitter](https://twitter.com/miccabose)
-				* [｢βios｣｢Before my body is dry｣](https://www.youtube.com/watch?v=yCgpL7wDDds)
+			* 小林未郁
+				* [βios & Before my body is dry](https://www.youtube.com/watch?v=yCgpL7wDDds)
 				* [Bauklötze](https://www.youtube.com/watch?v=LXZOhU3YQnA)
 			* This is a fight to change the world
 			* Aesthetic
+			* aLIEz
 			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
 			* [Before my body is dry](https://www.youtube.com/watch?v=uc7EcuqVhPE)
 			* [2V-ALK](https://www.youtube.com/watch?v=O0--A2RplIg)
-			* 瑞葵 mizuki [twitter](https://twitter.com/mizukizuiaoi)
-				* [ ｢Keep on keeping on｣ & ｢aLIEz｣ ](https://www.youtube.com/watch?v=vL7nL8cr8jQ)
+			* 瑞葵 mizuki
+				* [Keep on keeping on & aLIEz](https://www.youtube.com/watch?v=vL7nL8cr8jQ)
+				
 		* 高梨康治
 			* 追憶 めざめる たましい
 		* 木村弓

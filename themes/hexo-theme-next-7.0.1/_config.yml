@@ -180,6 +180,7 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
+
   GitHub: https://github.com/accelsao || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
@@ -217,6 +218,7 @@ links:
   Opass Blog: https://blog.opasschang.com/article-list/
   Cö shu Nie / コシュニエ: http://coshunie.com/about/
   從加州理工到高盛銀行-粟耀瑩: https://docs.google.com/document/u/0/d/1xqYCb1iGDO-BPK3FoOtAPLn9tQYBiCy7CKx7aLsX84o/pub
+  LilLog: https://lilianweng.github.io/lil-log/
 
 # Sidebar Avatar
 avatar:
