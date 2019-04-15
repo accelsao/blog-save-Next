@@ -51,6 +51,11 @@ authors | arxiv | tag | comment
 --- |
 Takeru Miyato, Toshiki Kataoka, Masanori Koyama, Yuichi Yoshida | [https://arxiv.org/abs/1802.05957](https://arxiv.org/abs/1802.05957) | Generative Neural Network | ICLR 2018 oral
 
+# Self-Attention Generative Adversarial Networks
+authors | arxiv | tag | code
+--- |
+Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena | [https://arxiv.org/abs/1805.08318](https://arxiv.org/abs/1805.08318) | Generative Neural Network | [heykeetae/Self-Attention-GAN](https://github.com/heykeetae/Self-Attention-GAN)
+
 # Large Scale GAN Training for High Fidelity Natural Image Synthesis
 authors | arxiv | tag | comment | code
 --- |

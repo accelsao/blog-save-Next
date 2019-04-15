@@ -243,9 +243,9 @@ date: 2018-09-15 21:06:57
 			* [I beg you](https://www.youtube.com/watch?v=Zf3xNj39Eio)
 			* [i-mage](https://www.youtube.com/watch?v=P_D6l48mWSs)
 		* Sayuri
-			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)
-			* [Reimei](https://www.youtube.com/watch?v=7InW3lZmQDY)
-				* Sayuri x MY FIRST STORY
+			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)	
+			* [Sayuri x My First Story - Dawn](https://www.youtube.com/watch?v=hpoibyitXIg)
+			* [ME & CREED ＜nZkv＞](https://www.youtube.com/watch?v=sWQSbTdVrg4)
 		* 鈴木KONOMI
 			* Blow out
 		* Shakira
@@ -311,6 +311,8 @@ date: 2018-09-15 21:06:57
 			* [aquarium](https://www.youtube.com/watch?v=qvd5QQMCfvM)
 		* Eir Aoi
 			* [Kuroiuta](https://www.youtube.com/watch?v=nFyK-ajIAWU)
+		* ASCA
+			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
 		
 	* 遊戲/動畫 OST/BGM
 		* NieR: Automata OST
