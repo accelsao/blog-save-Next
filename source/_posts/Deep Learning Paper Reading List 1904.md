@@ -24,13 +24,27 @@ Subjects | Machine Learning, Computer Vision and Pattern Recognition
 [ICLR 2019 Schedule](https://iclr.cc/Conferences/2019/Schedule)
 [Pytorch Doc](https://pytorch.org/docs/stable/index.html)
 
-
 <!--more-->
 
-# Self-Attention Generative Adversarial Networks
-authors | arxiv | tag | code
+# Dynamic Few-Shot Visual Learning without Forgetting
+authors | arxiv | tag | comment | code
 --- |
-Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena | [https://arxiv.org/abs/1805.08318](https://arxiv.org/abs/1805.08318) | Generative Neural Network | [heykeetae/Self-Attention-GAN](https://github.com/heykeetae/Self-Attention-GAN)
+Spyros Gidaris, Nikos Komodakis | [https://arxiv.org/abs/1804.09458](https://arxiv.org/abs/1804.09458) | | CVPR 2018 | [FewShotWithoutForgetting](https://github.com/gidariss/FewShotWithoutForgetting)
+
+# Low-Shot Learning with Imprinted Weights
+authors | arxiv | tag | comment
+--- |
+Hang Qi, Matthew Brown, David G. Lowe | [https://arxiv.org/abs/1712.07136](https://arxiv.org/abs/1712.07136) | | CVPR 2018
+
+# Non-local Neural Networks
+authors | arxiv | tag | comment | code
+--- |
+Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He | [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971) | | CVPR 2018 | [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
+
+# Large-Scale Long-Tailed Recognition in an Open World
+authors | arxiv | tag | comment | project
+--- |
+Large-Scale Long-Tailed Recognition in an Open World | [https://arxiv.org/abs/1904.05160](https://arxiv.org/abs/1904.05160) | | CVPR 2019 oral | [project](https://liuziwei7.github.io/projects/LongTail.html)
 
 # Spectral Normalization for Generative Adversarial Networks
 authors | arxiv | tag | comment
