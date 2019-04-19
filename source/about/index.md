@@ -376,7 +376,8 @@ date: 2018-09-15 21:06:57
 			* Ariant
 				* [Hot Desert](https://www.youtube.com/watch?v=q9swmo6309U&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=142)
 			* Black Heaven
-				* [Promise of Heaven (instrumental)](https://www.youtube.com/watch?v=usGdjxNEf2E&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=438)
+				* [Promise of Heaven ( instrumental ver.)](https://www.youtube.com/watch?v=usGdjxNEf2E&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=438)
+			* [Catch Your Dreams! ( jp ver. )](https://www.youtube.com/watch?v=ZJJvowmQ7uQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=471)
 			* [Chryse Agit](https://www.youtube.com/watch?v=3neiOSwgp7A&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc)
 			* [Chryse Field](https://www.youtube.com/watch?v=axgX2QRdBII&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=2)
 			* [Edelstein](https://www.youtube.com/watch?v=Iayh6shDnwQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=13)
