@@ -1,19 +1,21 @@
 ---
 title: Deep Learning Paper Reading List 1904
 tags:
-  - Generative Adversarial Network
-  - Deep Learning
-  - Representation Learning
-  - Lipschitz Continuity
-  - Wasserstein Metric
-  - Mutual Information
-  - Unsupervised Learning
-  - Autoregressive Model
-  - Variational Inference
-  - Meta-Learning
-  - Unsupervised Learning
+	- Deep Learning
+	- Generative Adversarial Network
+	- Lipschitz Continuity
+	- Meta-Learning
+	- Mutual Information
+	- Representation Learning
+	- Unsupervised Learning
+	- Unsupervised Learning
+	- Variational Inference
+	- Wasserstein Metric
+	- Metric Learning
+	- Autoregressive Model
+	- Few Shot Learning
 categories:
-  - Reading Notes
+	- Reading Notes
 mathjax: false
 date: 2019-04-01 11:50:11
 ---
@@ -26,25 +28,41 @@ Subjects | Machine Learning, Computer Vision and Pattern Recognition
 
 <!--more-->
 
+# Which Training Methods for GANs do actually Converge?
+authors | arxiv | comment | tag | code
+--- |
+Lars Mescheder, Andreas Geiger, Sebastian Nowozin | [https://arxiv.org/abs/1801.04406](https://arxiv.org/abs/1801.04406) | ICML 2018 | Generative Adversarial Network | [LMescheder/GAN_stability](https://github.com/LMescheder/GAN_stability)
+
+# Semantic Image Synthesis with Spatially-Adaptive Normalization
+authors | arxiv | comment
+--- |
+Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu | [https://arxiv.org/abs/1903.07291](https://arxiv.org/abs/1903.07291) | CVPR 2019 oral
+
+
+# A Tutorial on Distance Metric Learning: Mathematical Foundations, Algorithms and Software
+authors | arxiv | tag
+--- |
+Juan Luis Suárez, Salvador García, Francisco Herrera | [https://arxiv.org/abs/1812.05944](https://arxiv.org/abs/1812.05944) | Metric Learning
+
 # Dynamic Few-Shot Visual Learning without Forgetting
 authors | arxiv | tag | comment | code
 --- |
-Spyros Gidaris, Nikos Komodakis | [https://arxiv.org/abs/1804.09458](https://arxiv.org/abs/1804.09458) | | CVPR 2018 | [FewShotWithoutForgetting](https://github.com/gidariss/FewShotWithoutForgetting)
+Spyros Gidaris, Nikos Komodakis | [https://arxiv.org/abs/1804.09458](https://arxiv.org/abs/1804.09458) | Few Shot Learning | CVPR 2018 | [gidariss/FewShotWithoutForgetting](https://github.com/gidariss/FewShotWithoutForgetting)
 
 # Low-Shot Learning with Imprinted Weights
-authors | arxiv | tag | comment
+authors | arxiv | comment
 --- |
-Hang Qi, Matthew Brown, David G. Lowe | [https://arxiv.org/abs/1712.07136](https://arxiv.org/abs/1712.07136) | | CVPR 2018
+Hang Qi, Matthew Brown, David G. Lowe | [https://arxiv.org/abs/1712.07136](https://arxiv.org/abs/1712.07136) | CVPR 2018
 
 # Non-local Neural Networks
-authors | arxiv | tag | comment | code
+authors | arxiv | comment | code
 --- |
-Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He | [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971) | | CVPR 2018 | [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
+Xiaolong Wang, Ross Girshick, Abhinav Gupta, Kaiming He | [https://arxiv.org/abs/1711.07971](https://arxiv.org/abs/1711.07971) | CVPR 2018 | [video-nonlocal-net](https://github.com/facebookresearch/video-nonlocal-net)
 
 # Large-Scale Long-Tailed Recognition in an Open World
 authors | arxiv | tag | comment | project
 --- |
-Large-Scale Long-Tailed Recognition in an Open World | [https://arxiv.org/abs/1904.05160](https://arxiv.org/abs/1904.05160) | | CVPR 2019 oral | [project](https://liuziwei7.github.io/projects/LongTail.html)
+Large-Scale Long-Tailed Recognition in an Open World | [https://arxiv.org/abs/1904.05160](https://arxiv.org/abs/1904.05160) | Generative Neural Network | CVPR 2019 oral | [project](https://liuziwei7.github.io/projects/LongTail.html)
 
 # Spectral Normalization for Generative Adversarial Networks
 authors | arxiv | tag | comment

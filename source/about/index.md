@@ -4,11 +4,13 @@ date: 2018-09-15 21:06:57
 ---
 
 * NCU CSIE
-
 * [Codeforces](http://codeforces.com/profile/Jiburiru)
+![](https://i.imgur.com/xOd1uKM.jpg)
 
-<a href="https://imgur.com/xOd1uKM"><img src="https://i.imgur.com/xOd1uKM.jpg" title="source: imgur.com" /></a>
-
+`
+集傲慢,怠惰,強欲於一身的男人
+吉普莉爾是我唯一的僕人
+19/04/15`
 
 # 以下紀錄喜愛
 
@@ -17,7 +19,7 @@ date: 2018-09-15 21:06:57
 	* 雪之下雪乃
 	* 橋本環奈
 	* 石原聰美
-	* 似鳥沙也加
+	* 似鳥沙也加 Sayaka Nitori [IG](https://www.instagram.com/uw.sayaka/?hl=zh-tw)
 
 >決定把動畫小說分開
 >順序按照更新當時的印象排序
@@ -108,7 +110,7 @@ date: 2018-09-15 21:06:57
 	* 樂團
 		* amazarashi
 			* [Speed To Masatsu](https://www.youtube.com/watch?v=8nmTs1p1tx4)
-		* 凛として時雨 (Ling Tosite Sigure)
+		* TK from 凛として時雨 / 凛として時雨 / Ling Tosite Sigure
 			* 24REVERSE
 			* [AM3:45](https://www.youtube.com/watch?v=LWmvOuX0g-U)
 			* High Energy Vacuum
@@ -117,6 +119,8 @@ date: 2018-09-15 21:06:57
 			* CRAZY感情STYLE
 			* [Sergio Echigo](https://www.youtube.com/watch?v=t46DPoRtzFY)
 			* Sadistic Summer
+			* [Unravel](https://www.youtube.com/watch?v=Cp5-0dZH55g)
+			
 		* Cö Shu Nie
 			* Asphyxia
 			* [PERSON](https://www.youtube.com/watch?v=-KUcydUw6kI)
@@ -315,15 +319,15 @@ date: 2018-09-15 21:06:57
 			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
 		
 	* 遊戲/動畫 OST/BGM
+		* Fairy Tail
+			* Salamander
+			* Mahou Taisen
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
 		* Made in Abyss
 			* [Hanezeve Caradhina](https://www.youtube.com/watch?v=KPxSS1zHWwQ)
 			* Underground River
 			* Swings and Roundabouts
-		* Fairy Tail
-			* Salamander
-			* Mahou Taisen
 		* Violet Evergarden: Automemories
 			* The Voice in My Heart
 			* Adamantine Dreams
@@ -351,7 +355,7 @@ date: 2018-09-15 21:06:57
 			* [The Final Song ~ Black Song, White Scales](https://www.youtube.com/watch?v=axT_RojfaRs)
 		* Fate/Stay Night
 			* [騎士王の誇り](https://www.youtube.com/watch?v=OixZKhcq1fQ)
-		* Tokyo Ghoul
+		* 東京喰種 / トーキョーグール / Tokyo Ghoul
 			* [Glassy Sky](https://www.youtube.com/watch?v=vvvvcpwFw5o)
 			* [On my Own](https://www.youtube.com/watch?v=dj4VoPO-2pE)
 			* [Wanderers](https://www.youtube.com/watch?v=qzkC-alTbeA)
@@ -369,14 +373,32 @@ date: 2018-09-15 21:06:57
 		* 約束のネバーランド
 			* [イザベラの唄](https://www.youtube.com/watch?v=rTJjtSP-ORc)
 		* Maple Story
-			* Edelstein
-				* [Underground Place](https://www.youtube.com/watch?v=SNuR31g7gqI&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=8)
 			* Ariant
 				* [Hot Desert](https://www.youtube.com/watch?v=q9swmo6309U&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=142)
+			* Black Heaven
+				* [Promise of Heaven (instrumental)](https://www.youtube.com/watch?v=usGdjxNEf2E&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=438)
+			* [Chryse Agit](https://www.youtube.com/watch?v=3neiOSwgp7A&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc)
+			* [Chryse Field](https://www.youtube.com/watch?v=axgX2QRdBII&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=2)
+			* [Edelstein](https://www.youtube.com/watch?v=Iayh6shDnwQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=13)
+				* [Underground Place](https://www.youtube.com/watch?v=SNuR31g7gqI&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=8)
+			* Ereve
+				* [Raindrop Flower](https://www.youtube.com/watch?v=DhUdOO9UNwY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=220)
+			* Kerning City
+				* [Bad Guys](https://www.youtube.com/watch?v=uv8QObpL2EY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=48)
+				* [Secret Flower](https://www.youtube.com/watch?v=C0xN8QcxqXk&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=212)
+			* Ludibrium
+				* [Fantastic Thinking](https://www.youtube.com/watch?v=49AZqVhXVeU&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=116)
+			* [Nautilus](https://www.youtube.com/watch?v=iZaVKkfuD6s&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=182)
+			* [Nett's Pyramid](https://www.youtube.com/watch?v=up7ugury9zc&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=181)
+			* Omega Sector
+				* [Let's March](https://www.youtube.com/watch?v=LxQt8EVhBOs&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=134)
+			* Perion
+				* [Nightmare](https://www.youtube.com/watch?v=9lwOsX763N0&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=179)
+			* Riena Strait
+				* [Glacier Adventure](https://www.youtube.com/watch?v=BjIJTO2SFAk&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=329)
 			* Temple of Time
 				* [Forgetfulness](https://www.youtube.com/watch?v=mPdotLdAe7k&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=105)
-			* [Chryse Field](https://www.youtube.com/watch?v=axgX2QRdBII&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=2)
-				
+			
 	* 作曲家
 		* 澤野弘之
 			* LiSA
@@ -389,7 +411,7 @@ date: 2018-09-15 21:06:57
 			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
 			* [Before my body is dry](https://www.youtube.com/watch?v=uc7EcuqVhPE)
 			* [2V-ALK](https://www.youtube.com/watch?v=O0--A2RplIg)
-			* 瑞葵 mizuki [twitter](https://twitter.com/mizukizuiaoi)
+			* 瑞葵 mizuki [Twitter](https://twitter.com/mizukizuiaoi)
 				* [ ｢Keep on keeping on｣ & ｢aLIEz｣ ](https://www.youtube.com/watch?v=vL7nL8cr8jQ)
 		* 高梨康治
 			* 追憶 めざめる たましい
