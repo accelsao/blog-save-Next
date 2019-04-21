@@ -6,6 +6,7 @@ tags:
 	- Lipschitz Continuity
 	- Meta-Learning
 	- Mutual Information
+	- Object Detection
 	- Representation Learning
 	- Unsupervised Learning
 	- Unsupervised Learning
@@ -27,6 +28,33 @@ Subjects | Machine Learning, Computer Vision and Pattern Recognition
 [Pytorch Doc](https://pytorch.org/docs/stable/index.html)
 
 <!--more-->
+
+# FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery
+authors | arxiv | tag | comment | code
+--- |
+Krishna Kumar Singh, Utkarsh Ojha, Yong Jae Lee | [https://arxiv.org/abs/1811.11155](https://arxiv.org/abs/1811.11155) | Generative Neural Network | CVPR 2019 Oral | [kkanshul/finegan](https://github.com/kkanshul/finegan)
+
+
+# Associative Embedding: End-to-End Learning for Joint Detection and Grouping
+authors | arxiv | tag
+--- |
+Alejandro Newell, Zhiao Huang, Jia Deng | [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
+
+
+# CornerNet-Lite: Efficient Keypoint Based Object Detection
+authors | arxiv | tag | code
+--- |
+Hei Law, Yun Teng, Olga Russakovsky, Jia Deng | [https://arxiv.org/abs/1904.08900](https://arxiv.org/abs/1904.08900) | Object Detection | [princeton-vl/CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite)
+
+# CornerNet: Detecting Objects as Paired Keypoints
+authors | arxiv | tag | code | comment
+--- |
+Hei Law, Jia Deng | [https://arxiv.org/abs/1808.01244](https://arxiv.org/abs/1808.01244) | Object Detection | [princeton-vl/CornerNet](https://github.com/princeton-vl/CornerNet) | ECCV 2018
+
+# CenterNet: Keypoint Triplets for Object Detection
+authors | arxiv | tag | code
+--- |
+Kaiwen Duan, Song Bai, Lingxi Xie, Honggang Qi, Qingming Huang, Qi Tian | [https://arxiv.org/abs/1904.08189](https://arxiv.org/abs/1904.08189) | Object Detection | [Duankaiwen/CenterNet](https://github.com/Duankaiwen/CenterNet)
 
 # Which Training Methods for GANs do actually Converge?
 authors | arxiv | comment | tag | code

@@ -320,8 +320,10 @@ date: 2018-09-15 21:06:57
 		
 	* 遊戲/動畫 OST/BGM
 		* Fairy Tail
-			* Salamander
+			* [Dragon Slayer Theme Ost](https://www.youtube.com/watch?v=r6Fm9E94D3Q&list=PLO_6KdzGnpVnY6OQbnulNN-lcYJdnkgEi&index=39)
 			* Mahou Taisen
+			* [Natsu's Theme Ost](https://www.youtube.com/watch?v=0lGzvsCc1G8&list=PLO_6KdzGnpVnY6OQbnulNN-lcYJdnkgEi&index=34)
+			* Salamander
 		* NieR: Automata OST
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
 		* Made in Abyss
@@ -373,32 +375,39 @@ date: 2018-09-15 21:06:57
 		* 約束のネバーランド
 			* [イザベラの唄](https://www.youtube.com/watch?v=rTJjtSP-ORc)
 		* Maple Story
-			* Ariant
+			* [Ariant](https://www.youtube.com/watch?v=w1RgDSoOajw&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=50)
 				* [Hot Desert](https://www.youtube.com/watch?v=q9swmo6309U&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=142)
 			* Black Heaven
-				* [Promise of Heaven ( instrumental ver.)](https://www.youtube.com/watch?v=usGdjxNEf2E&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=438)
+				* [Promise of Heaven ( instrumental ver. )](https://www.youtube.com/watch?v=usGdjxNEf2E&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=438)
 			* [Catch Your Dreams! ( jp ver. )](https://www.youtube.com/watch?v=ZJJvowmQ7uQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=471)
 			* [Chryse Agit](https://www.youtube.com/watch?v=3neiOSwgp7A&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc)
 			* [Chryse Field](https://www.youtube.com/watch?v=axgX2QRdBII&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=2)
 			* [Edelstein](https://www.youtube.com/watch?v=Iayh6shDnwQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=13)
 				* [Underground Place](https://www.youtube.com/watch?v=SNuR31g7gqI&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=8)
-			* Ereve
+			* 耶雷弗 / Ereve
+				* [皇后之路 / Queen's Garden](https://www.youtube.com/watch?v=3r9s43TG9yA)
 				* [Raindrop Flower](https://www.youtube.com/watch?v=DhUdOO9UNwY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=220)
+			* Floating Market
+				* [Thai Town](https://www.youtube.com/watch?v=2sJP_wp2pBg&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=193)
 			* Kerning City
 				* [Bad Guys](https://www.youtube.com/watch?v=uv8QObpL2EY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=48)
 				* [Secret Flower](https://www.youtube.com/watch?v=C0xN8QcxqXk&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=212)
 			* Ludibrium
 				* [Fantastic Thinking](https://www.youtube.com/watch?v=49AZqVhXVeU&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=116)
 			* [Nautilus](https://www.youtube.com/watch?v=iZaVKkfuD6s&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=182)
-			* [Nett's Pyramid](https://www.youtube.com/watch?v=up7ugury9zc&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=181)
+			* [Netts Pyramid](https://www.youtube.com/watch?v=up7ugury9zc&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=181)
+			* Ninja Castle
+				* [Castle Outside](https://www.youtube.com/watch?v=6yJ3_i6emNw&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=90)
 			* Omega Sector
-				* [Let's March](https://www.youtube.com/watch?v=LxQt8EVhBOs&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=134)
+				* [Lets March](https://www.youtube.com/watch?v=LxQt8EVhBOs&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=134)
 			* Perion
 				* [Nightmare](https://www.youtube.com/watch?v=9lwOsX763N0&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=179)
 			* Riena Strait
 				* [Glacier Adventure](https://www.youtube.com/watch?v=BjIJTO2SFAk&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=329)
-			* Temple of Time
+			* Temple of Time / 時間神殿
 				* [Forgetfulness](https://www.youtube.com/watch?v=mPdotLdAe7k&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=105)
+				* [Remembrance](https://www.youtube.com/watch?v=TpKE4mKFSZY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=219)
+				* [Repentance / 後悔之路](https://www.youtube.com/watch?v=3loq0xBsi7o)
 			
 	* 作曲家
 		* 澤野弘之
@@ -421,6 +430,11 @@ date: 2018-09-15 21:06:57
 		* 大嶋啓之
 			* [why, or why not (feat.片霧烈火)](https://www.youtube.com/watch?v=_1Ty88J3JQU)
 			
+* 經典名句
+	* 宮崎駿《千與千尋》
+		* 我不知道將去何方，但我已在路上
+	* 宮崎駿《貓的報恩》
+		* 生命可以隨心所欲，但不能隨波逐流
 			
 			
 	
