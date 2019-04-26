@@ -11,15 +11,10 @@ date: 2018-09-15 21:06:57
 集傲慢,怠惰,強欲於一身的男人
 吉普莉爾是我唯一的僕人
 19/04/15`
+`
+我要用AI讓這世界更加美好
+19/04/22`
 
-# 以下紀錄喜愛
-
-
-* ~~老婆~~
-	* 雪之下雪乃
-	* 橋本環奈
-	* 石原聰美
-	* 似鳥沙也加 Sayaka Nitori [IG](https://www.instagram.com/uw.sayaka/?hl=zh-tw)
 
 >決定把動畫小說分開
 >順序按照更新當時的印象排序
@@ -108,285 +103,244 @@ date: 2018-09-15 21:06:57
 	
 * Music列表
 	* 樂團
-		* amazarashi
+		* Amazarashi
 			* [Speed To Masatsu](https://www.youtube.com/watch?v=8nmTs1p1tx4)
-		* TK from 凛として時雨 / 凛として時雨 / Ling Tosite Sigure
-			* 24REVERSE
-			* [AM3:45](https://www.youtube.com/watch?v=LWmvOuX0g-U)
-			* High Energy Vacuum
-			* EneME
-			* Ten to ten
-			* CRAZY感情STYLE
-			* [Sergio Echigo](https://www.youtube.com/watch?v=t46DPoRtzFY)
-			* Sadistic Summer
-			* [Unravel](https://www.youtube.com/watch?v=Cp5-0dZH55g)
-			
-		* Cö Shu Nie
-			* Asphyxia
-			* [PERSON](https://www.youtube.com/watch?v=-KUcydUw6kI)
-			* [ö=Simple Is!](https://www.youtube.com/watch?v=exIWXjTtuGY)
-			* [Lamp](https://www.youtube.com/watch?v=0Qe7Nqx6SNE)
-		* Fear, and Loathing in Las Vegas
-			* Treasure in Your Hands
-		* ONE OK ROCK
-		* BAND-MAID
-		* Tricot
-		* Scenarioart
-			* Sayonara Moon Town
-			* ナナヒツジ
-		* PassCode
-			* Bite the bullet
-			* Ray
-		* 嘘とカメレオン
-			* されど奇術師は賽を振る
-		* ポルカドットスティングレイ
-			* [リスミー](https://www.youtube.com/watch?v=1z4RosaB-UQ)
-		* Supercell
-			* My Dearest
-		* Hyakkei 百景
-			* Okurimono おくりもの
-		* XX:me
-			* Escape
-		* MYTH & ROID
-			* HYDRA
-			* [VORACITY](https://www.youtube.com/watch?v=D-LXfVLL5Tc)
-			* [Frozen Rain](https://www.youtube.com/watch?v=E3EXAIzagnc)
-		* Hello Sleepwalkers
-			* 天地創造
-			* 月面歩行
-			* 日食
-			* 猿は木から何処へ落ちる
-			* 百鬼夜行
-		* Hello Nico
-			* 花
-		* OxT
-			* Silent Solitude
-		* 康士坦的變化球
-			* [美好的事可不可以發生在我身上](https://www.youtube.com/watch?v=UKmUMx2-ToQ)
-			* 擱淺的人
 		* Androp
 			* Memento mori(feat.Aimer)
-		* w-inds.
-			* Be As One
-		* [みうめ・メイリア・217]
-			* [Love Swing](https://www.youtube.com/watch?v=Wwyj6d5DGiA)
-			* [響喜乱舞](https://www.youtube.com/watch?v=SOTVTJNHa3w)
-		* GARNiDELiA
-			* Speed Star
-			* [Yakusoku](https://www.youtube.com/watch?v=VaUvLnruYzQ)
-			
-		* Vast & Hazy
-			* 歸屬 Eleanor
-			* [求救訊號 I'm Not OK](https://www.youtube.com/watch?v=stQ_IfKJBCU)
-		* Hyakkei 百景
-			* おくりもの(ALBUM)
+		* Angela
+			* [Angel](https://www.youtube.com/watch?v=-46yYx8_dAE)
 		* BABYMETAL
 			* KARATE
-		* 帝國交響楽団 
-			* [燃え落ちる誇り -Counter raid Another D](https://www.youtube.com/watch?v=sGYLIlCQWtw)
-		* Roselia
-			* Neo-Aspect
-		* fox capture pla
-			* [Butterfly Effect](https://www.youtube.com/watch?v=8cMhQ_teEoY)
-			* [疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
-		* Linked Horizon
-			* [暁の鎮魂歌](https://www.youtube.com/watch?v=NOn5eESkhQ8)
-		* ずっと真夜中でいいのに。
-			* [秒針を噛む](https://www.youtube.com/watch?v=GJI4Gv7NbmE)
-		* 水曜日のカンパネラ
-			* [シャクシャイン](https://www.youtube.com/watch?v=A1oxh8Z-2ko)
-		* Toe
-			* [Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k)
-		* 甜約翰 Sweet John
-			* [留給你的我從未 Those Things I Kept](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+		* BAND-MAID
+			* [Don't you tell ME](https://www.youtube.com/watch?v=tGXzhxXVimY)
+		* BiSH
+			* [My landscape](https://www.youtube.com/watch?v=--ombqA70cI)
 		* Broken By The Scream
 			* [サヨナラバースデー](https://www.youtube.com/watch?v=Q8qOH-f6doM)
 			* [恋は乙女の泣きどころ](https://www.youtube.com/watch?v=4Eum9rFdFQc)
-		* BiSH
-			* [My landscape](https://www.youtube.com/watch?v=--ombqA70cI)
-		* 顯然樂隊
-			* [低賤的人](https://www.youtube.com/watch?v=lFpS1gcJRgc)
-		* amazarashi
-			* [穴を掘っている](https://www.youtube.com/watch?v=B2HsdgVQ-cc)
-		* 大象體操
-			* [Finger](https://www.youtube.com/watch?v=kqR4yNYWxx4)
-		* I Mean Us
-			* [Søulмaтe](https://www.youtube.com/watch?v=AgrfgqV1lAs)
-		* ONE OK ROCK
-			* [Pierce](https://www.youtube.com/watch?v=sgbvcfo59NA)
-		* Angela
-			* [Angel](https://www.youtube.com/watch?v=-46yYx8_dAE)
-		* Mili	
-			* [Within](https://www.youtube.com/watch?v=3UJ_mERvw3A)
-			* [Camelia](https://www.youtube.com/watch?v=wOcCu31oi7Q)
-		* ウォルピスカーター
-			* [泥中に咲く](https://www.youtube.com/watch?v=40dJS_LC6S8)
-		* te' 
-			* [音の中の『痙攣的』な美は、観念を超え肉体に訪れる野生の戦慄](https://www.youtube.com/watch?v=GFpmJpVPVe4)
+		* Cö Shu Nie
+			* Asphyxia
+			* [Character](https://www.youtube.com/watch?v=u9qDEvusROk)
+			* [Lamp](https://www.youtube.com/watch?v=0Qe7Nqx6SNE)
+			* [PERSON](https://www.youtube.com/watch?v=-KUcydUw6kI)
+			* [ö=Simple Is!](https://www.youtube.com/watch?v=exIWXjTtuGY)
 		* FERN PLANET
 			* [ソルジャーガールズ](https://www.youtube.com/watch?v=EnZuLUHEpFs)
-		* The ROOTLESS
-			* [One day](https://www.youtube.com/watch?v=8QHmMwqY5Lc)
+		* Fear, and Loathing in Las Vegas
+			* Treasure in Your Hands
+		* GARNiDELiA
+			* Speed Star
+			* [Yakusoku](https://www.youtube.com/watch?v=VaUvLnruYzQ)
+		* Hello Nico
+			* 花
+		* Hello Sleepwalkers
+			* 天地創造
+			* 日食
+			* 月面歩行
+			* 猿は木から何処へ落ちる
+			* 百鬼夜行
+		* Hyakkei 百景
+			* おくりもの(ALBUM)
+		* I Mean Us
+			* [Søulмaтe](https://www.youtube.com/watch?v=AgrfgqV1lAs)
 		* Kalafina
 			* [Magia](https://www.youtube.com/watch?v=QwquipMpsiQ&list=RDEMHa53mGjYcI7NdILO3j0kLg&index=6)
+		* Linked Horizon
+			* [暁の鎮魂歌](https://www.youtube.com/watch?v=NOn5eESkhQ8)
+		* MY FIRST STORY 
+			* [不可逆リプレイス](https://www.youtube.com/watch?v=pRG7FJobkv4&list=RDEMUTy0k7jGt_H5Fc-OiyXFxg&start_radio=1)
+		* MYTH & ROID
+			* HYDRA
+			* [Frozen Rain](https://www.youtube.com/watch?v=E3EXAIzagnc)
+			* [VORACITY](https://www.youtube.com/watch?v=D-LXfVLL5Tc)
+		* Mili	
+			* [Camelia](https://www.youtube.com/watch?v=wOcCu31oi7Q)
+			* [Within](https://www.youtube.com/watch?v=3UJ_mERvw3A)
+		* ONE OK ROCK
+			* [Pierce](https://www.youtube.com/watch?v=sgbvcfo59NA)
+		* OxT
+			* Silent Solitude
+		* PassCode
+			* Bite the bullet
+			* Ray
+		* Roselia
+			* Neo-Aspect
+		* Scenarioart
+			* Sayonara Moon Town
+			* ナナヒツジ
+		* Supercell
+			* My Dearest
+		* TK from 凛として時雨 / 凛として時雨 / Ling Tosite Sigure
+			* 24REVERSE
+			* CRAZY感情STYLE
+			* EneME
+			* High Energy Vacuum
+			* Sadistic Summer
+			* Ten to ten
+			* [AM3:45](https://www.youtube.com/watch?v=LWmvOuX0g-U)
+			* [Sergio Echigo](https://www.youtube.com/watch?v=t46DPoRtzFY)
+			* [Unravel](https://www.youtube.com/watch?v=Cp5-0dZH55g)
+		* The ROOTLESS
+			* [One day](https://www.youtube.com/watch?v=8QHmMwqY5Lc)
+		* Toe
+			* [Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k)
+		* Tricot
+			* [ポークジンジャー](https://www.youtube.com/watch?v=h0Q_y54F070)
+		* Vast & Hazy
+			* [求救訊號 I'm Not OK](https://www.youtube.com/watch?v=stQ_IfKJBCU)
+			* 歸屬 Eleanor
+		* XX:me
+			* Escape
+		* [みうめ・メイリア・217]
+			* [Love Swing](https://www.youtube.com/watch?v=Wwyj6d5DGiA)
+			* [響喜乱舞](https://www.youtube.com/watch?v=SOTVTJNHa3w)
+		* amazarashi
+			* [穴を掘っている](https://www.youtube.com/watch?v=B2HsdgVQ-cc)
+		* fox capture pla
+			* [Butterfly Effect](https://www.youtube.com/watch?v=8cMhQ_teEoY)
+			* [疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
+		* te' 
+			* [音の中の『痙攣的』な美は、観念を超え肉体に訪れる野生の戦慄](https://www.youtube.com/watch?v=GFpmJpVPVe4)
+		* w-inds.
+			* Be As One
+		* ずっと真夜中でいいのに。
+			* [秒針を噛む](https://www.youtube.com/watch?v=GJI4Gv7NbmE)
+		* ウォルピスカーター
+			* [泥中に咲く](https://www.youtube.com/watch?v=40dJS_LC6S8)
+		* ポルカドットスティングレイ
+			* [リスミー](https://www.youtube.com/watch?v=1z4RosaB-UQ)
+		* 嘘とカメレオン
+			* されど奇術師は賽を振る
+		* 大象體操
+			* [Finger](https://www.youtube.com/watch?v=kqR4yNYWxx4)
+		* 帝國交響楽団 
+			* [燃え落ちる誇り -Counter raid Another D](https://www.youtube.com/watch?v=sGYLIlCQWtw)
+		* 康士坦的變化球
+			* [美好的事可不可以發生在我身上](https://www.youtube.com/watch?v=UKmUMx2-ToQ)
+			* 擱淺的人
+		* 水曜日のカンパネラ
+			* [シャクシャイン](https://www.youtube.com/watch?v=A1oxh8Z-2ko)
+		* 甜約翰 Sweet John
+			* [留給你的我從未 Those Things I Kept](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+		* 顯然樂隊
+			* [低賤的人](https://www.youtube.com/watch?v=lFpS1gcJRgc)
 	* 歌手
-		* Miwa
-			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
-		* YURiKA
-			* 鏡面の波
-		* LiSA
-			* The end of my world
-			* Catch the Moment
+		* ASCA
+			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
 		* Aimer
 			* Brave Shine
-			* 花の唄
-			* Ninelie
 			* Last Stardust
+			* Ninelie
 			* [Black Bird](https://www.youtube.com/watch?v=Svg5LG6VQV0)
-			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 			* [I beg you](https://www.youtube.com/watch?v=Zf3xNj39Eio)
 			* [i-mage](https://www.youtube.com/watch?v=P_D6l48mWSs)
-		* Sayuri
-			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)	
-			* [Sayuri x My First Story - Dawn](https://www.youtube.com/watch?v=hpoibyitXIg)
-			* [ME & CREED ＜nZkv＞](https://www.youtube.com/watch?v=sWQSbTdVrg4)
-		* 鈴木KONOMI
-			* Blow out
-		* Shakira
-			* Waka Waka
-		* Tia 
-			* Deal with the Devil 
-		* 中島美嘉
-			* [僕が死のうと思ったのは](https://www.youtube.com/watch?v=QL3T2Nzcqcs)
-			* Glamorous Sky 
-			* KISS OF DEATH
-		* 山崎まさよし
-			* [One more time,One more chance](https://www.youtube.com/watch?v=BqFftJDXii0)
-		* 秦基博
-			* Rain
-		* TRUE
-			* Sincerely
-		* Reol 
-			* サイサキ
-			* 宵々古今
-			* ギミアブレスタッナウ
-			* [ROXY](https://www.youtube.com/watch?v=cHNQFqKZm-g)
-		* 芝麻Mochi (翻唱歌手 歌聲似Aimer)
-			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
-		* 黒木渚
-			* [カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
-		* majiko/まじ娘 - [twitter](https://twitter.com/majakoja)
-			* [ひび割れた世界](https://www.youtube.com/watch?v=6rHySk9Kcuo)
-			* [君に最後の口づけを](https://www.youtube.com/watch?v=ojG9C6L61oA)
-			* [心做し (Live)](https://www.youtube.com/watch?v=QJie7dTvbjQ)
-			* [ノクチルカの夜](https://www.youtube.com/watch?v=-0Fv9H3h6Iw)
-			* [パラノイア](https://www.youtube.com/watch?v=_cnHxTaGrYQ)
+			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
+			* 花の唄
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
-		* 美波
-			* [ETERNAL BLUE](https://www.youtube.com/watch?v=tCGiR45p-pA)
-			* [ライラック](https://www.youtube.com/watch?v=GQ3V50XoLOM)
-			* [ホロネス](https://www.youtube.com/watch?v=HIRiduzNLzQ)
-			
-		* illion
-			* [BANKA](https://www.youtube.com/watch?v=uJViETJ4mKg)
-		* 米津玄師
-			* [Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+		* Eir Aoi
+			* [Kuroiuta](https://www.youtube.com/watch?v=nFyK-ajIAWU)
+		* JY
+			* [好きな人がいること](https://www.youtube.com/watch?v=NM_g3Ru83Ks)
+		* LiSA
+			* Catch the Moment
+			* The end of my world
+		* Mayn
+			* [Chase the World](https://www.youtube.com/watch?v=-oAwn46v5vM)
+			* [光ある場所へ](https://www.youtube.com/watch?v=rt3KE73BmQo)
 		* MISIA
 			* [逢いたくていま](https://www.youtube.com/watch?v=aiBPJwSRq58&list=RDMMbldyRH_XrOM&index=2)
-		* 高橋李依
-			* [Stay Alive](https://www.youtube.com/watch?v=QZK3st54Txg)
-		* 西野カナ
-			* [if](https://www.youtube.com/watch?v=04VteCjggco)
+		* Miwa
+			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
+		* ReoNa
+			* [虹の彼方に](https://www.youtube.com/watch?v=hTyDqz-mHgQ)
+		* Reol 
+			* [ROXY](https://www.youtube.com/watch?v=cHNQFqKZm-g)
+			* ギミアブレスタッナウ
+			* サイサキ
+			* 宵々古今
+		* Sayuri
+			* [ME & CREED ＜nZkv＞](https://www.youtube.com/watch?v=sWQSbTdVrg4)
+			* [Sayuri x My First Story - Dawn](https://www.youtube.com/watch?v=hpoibyitXIg)
+			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)	
+		* Shakira
+			* Waka Waka
+		* TRUE
+			* Sincerely
+		* Tia - [Twitter](https://twitter.com/Tia_ct)
+			* [Deal with the Devil](https://www.youtube.com/watch?v=9zRSEMjmCIU)
+		* Vickeblanka
+			* [Black Rover](https://www.youtube.com/watch?v=ElwWycMN8nw)
+		* YURiKA
+			* 鏡面の波
+		* illion
+			* [BANKA](https://www.youtube.com/watch?v=uJViETJ4mKg)
+		* majiko/まじ娘 - [twitter](https://twitter.com/majakoja)
+			* [ひび割れた世界](https://www.youtube.com/watch?v=6rHySk9Kcuo)
+			* [ノクチルカの夜](https://www.youtube.com/watch?v=-0Fv9H3h6Iw)
+			* [パラノイア](https://www.youtube.com/watch?v=_cnHxTaGrYQ)
+			* [君に最後の口づけを](https://www.youtube.com/watch?v=ojG9C6L61oA)
+			* [心做し (Live)](https://www.youtube.com/watch?v=QJie7dTvbjQ)
+		* そらる
+			* [銀の祈誓](https://www.youtube.com/watch?v=XvdWGVTDo34)	
+		* 中島美嘉
+			* Glamorous Sky 
+			* KISS OF DEATH
+			* [僕が死のうと思ったのは](https://www.youtube.com/watch?v=QL3T2Nzcqcs)
 		* 千菅春香
 			* [Pray ／ レイチェル(殺戮的天使 ED)](https://www.youtube.com/watch?v=4124q8T8_aE)
 		* 家入レオ
 			* Silly
-		* Vickeblanka
-			* [Black Rover](https://www.youtube.com/watch?v=ElwWycMN8nw)
-		* そらる
-			* [銀の祈誓](https://www.youtube.com/watch?v=XvdWGVTDo34)	
-		* JY
-			* [好きな人がいること](https://www.youtube.com/watch?v=NM_g3Ru83Ks)
-		* ReoNa
-			* [虹の彼方に](https://www.youtube.com/watch?v=hTyDqz-mHgQ)
+		* 山崎まさよし
+			* [One more time,One more chance](https://www.youtube.com/watch?v=BqFftJDXii0)
+		* 秦基博
+			* Rain
+		* 米津玄師
+			* [Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+		* 美波
+			* [ETERNAL BLUE](https://www.youtube.com/watch?v=tCGiR45p-pA)
+			* [ホロネス](https://www.youtube.com/watch?v=HIRiduzNLzQ)
+			* [ライラック](https://www.youtube.com/watch?v=GQ3V50XoLOM)
+		* 芝麻Mochi (翻唱歌手 歌聲似Aimer)
+			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
+		* 西野カナ
+			* [if](https://www.youtube.com/watch?v=04VteCjggco)
+		* 鈴木KONOMI
+			* Blow out
 		* 高橋優
 			* [aquarium](https://www.youtube.com/watch?v=qvd5QQMCfvM)
-		* Eir Aoi
-			* [Kuroiuta](https://www.youtube.com/watch?v=nFyK-ajIAWU)
-		* ASCA
-			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
-		
+		* 高橋李依
+			* [Stay Alive](https://www.youtube.com/watch?v=QZK3st54Txg)
+		* 黒木渚
+			* [カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
+
 	* 遊戲/動畫 OST/BGM
-		* Fairy Tail
-			* [Dragon Slayer Theme Ost](https://www.youtube.com/watch?v=r6Fm9E94D3Q&list=PLO_6KdzGnpVnY6OQbnulNN-lcYJdnkgEi&index=39)
-			* Mahou Taisen
-			* [Natsu's Theme Ost](https://www.youtube.com/watch?v=0lGzvsCc1G8&list=PLO_6KdzGnpVnY6OQbnulNN-lcYJdnkgEi&index=34)
-			* Salamander
-		* NieR: Automata OST
-			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
-		* Made in Abyss
-			* [Hanezeve Caradhina](https://www.youtube.com/watch?v=KPxSS1zHWwQ)
-			* Underground River
-			* Swings and Roundabouts
-		* Violet Evergarden: Automemories
-			* The Voice in My Heart
-			* Adamantine Dreams
-			* The Ultimate Price
-			* Torment
-			* Innocence
-			* The Storm
-			* In Remembrance
-			* Another Sunny Day
-			* Never Coming Back
-		* 進擊的巨人
-			* So ist es immer
-			* Call Your Name
-			* Great escape
-			* 心臓を捧げよ
-		* 四月は君の嘘
-			* 挫けそうになる私を支えてください
-			* ウソとホント
-			* 友人A君を私の伴奏者に任命します
-			* [私の嘘 .Piano](https://www.youtube.com/watch?v=PXa5ehb7po0)
-			* [愛の悲しみ](https://www.youtube.com/watch?v=JcZ6cjKcZKc)
-		* Drakengard 3
-			* [The Last Song](https://www.youtube.com/watch?v=Cgy7IbVRvek)
-			* [This Silence is Mine](https://www.youtube.com/watch?v=pQrQEmClpWc)
-			* [The Final Song ~ Black Song, White Scales](https://www.youtube.com/watch?v=axT_RojfaRs)
-		* Fate/Stay Night
-			* [騎士王の誇り](https://www.youtube.com/watch?v=OixZKhcq1fQ)
-		* 東京喰種 / トーキョーグール / Tokyo Ghoul
-			* [Glassy Sky](https://www.youtube.com/watch?v=vvvvcpwFw5o)
-			* [On my Own](https://www.youtube.com/watch?v=dj4VoPO-2pE)
-			* [Wanderers](https://www.youtube.com/watch?v=qzkC-alTbeA)
-			* [White Silence](https://www.youtube.com/watch?v=eX-CZnIW4bo)
-		* リズと青い鳥
-			* [[吹奏楽曲]リズと青い鳥 full](https://www.youtube.com/watch?v=brWiRDUgDYM)
-		* Rakuen
-			* [The Keepers](https://www.youtube.com/watch?v=ghxSq2tBf8w)
-		* Gris
-			* [Gris OST](https://www.youtube.com/watch?v=DBToMwdYBME&t=393s)
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
+		* Drakengard 3
+			* [The Final Song ~ Black Song, White Scales](https://www.youtube.com/watch?v=axT_RojfaRs)
+			* [The Last Song](https://www.youtube.com/watch?v=Cgy7IbVRvek)
+			* [This Silence is Mine](https://www.youtube.com/watch?v=pQrQEmClpWc)
+		* Fairy Tail
+			* Mahou Taisen
+			* Salamander
+			* [Dragon Slayer Theme Ost](https://www.youtube.com/watch?v=r6Fm9E94D3Q&list=PLO_6KdzGnpVnY6OQbnulNN-lcYJdnkgEi&index=39)
+			* [Natsu's Theme Ost](https://www.youtube.com/watch?v=0lGzvsCc1G8&list=PLO_6KdzGnpVnY6OQbnulNN-lcYJdnkgEi&index=34)
+			* [追憶 ~目覚める魂](https://www.youtube.com/watch?v=7oBJv5-WZ6Q)
+		* Fate/Stay Night
+			* [騎士王の誇り](https://www.youtube.com/watch?v=OixZKhcq1fQ)
 		* Fullmetal Alchemist
 			* [ALL OST](https://www.youtube.com/watch?v=CZPul4k9bUU)
-		* 約束のネバーランド
-			* [イザベラの唄](https://www.youtube.com/watch?v=rTJjtSP-ORc)
+		* Gris
+			* [Gris OST](https://www.youtube.com/watch?v=DBToMwdYBME&t=393s)
+		* Made in Abyss
+			* Swings and Roundabouts
+			* Underground River
+			* [Hanezeve Caradhina](https://www.youtube.com/watch?v=KPxSS1zHWwQ)
 		* Maple Story
-			* [Ariant](https://www.youtube.com/watch?v=w1RgDSoOajw&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=50)
-				* [Hot Desert](https://www.youtube.com/watch?v=q9swmo6309U&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=142)
 			* Black Heaven
 				* [Promise of Heaven ( instrumental ver. )](https://www.youtube.com/watch?v=usGdjxNEf2E&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=438)
-			* [Catch Your Dreams! ( jp ver. )](https://www.youtube.com/watch?v=ZJJvowmQ7uQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=471)
-			* [Chryse Agit](https://www.youtube.com/watch?v=3neiOSwgp7A&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc)
-			* [Chryse Field](https://www.youtube.com/watch?v=axgX2QRdBII&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=2)
-			* [Edelstein](https://www.youtube.com/watch?v=Iayh6shDnwQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=13)
-				* [Underground Place](https://www.youtube.com/watch?v=SNuR31g7gqI&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=8)
-			* 耶雷弗 / Ereve
-				* [皇后之路 / Queen's Garden](https://www.youtube.com/watch?v=3r9s43TG9yA)
-				* [Raindrop Flower](https://www.youtube.com/watch?v=DhUdOO9UNwY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=220)
 			* Floating Market
 				* [Thai Town](https://www.youtube.com/watch?v=2sJP_wp2pBg&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=193)
 			* Kerning City
@@ -394,8 +348,6 @@ date: 2018-09-15 21:06:57
 				* [Secret Flower](https://www.youtube.com/watch?v=C0xN8QcxqXk&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=212)
 			* Ludibrium
 				* [Fantastic Thinking](https://www.youtube.com/watch?v=49AZqVhXVeU&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=116)
-			* [Nautilus](https://www.youtube.com/watch?v=iZaVKkfuD6s&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=182)
-			* [Netts Pyramid](https://www.youtube.com/watch?v=up7ugury9zc&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=181)
 			* Ninja Castle
 				* [Castle Outside](https://www.youtube.com/watch?v=6yJ3_i6emNw&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=90)
 			* Omega Sector
@@ -408,19 +360,75 @@ date: 2018-09-15 21:06:57
 				* [Forgetfulness](https://www.youtube.com/watch?v=mPdotLdAe7k&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=105)
 				* [Remembrance](https://www.youtube.com/watch?v=TpKE4mKFSZY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=219)
 				* [Repentance / 後悔之路](https://www.youtube.com/watch?v=3loq0xBsi7o)
-			
+			* [Ariant](https://www.youtube.com/watch?v=w1RgDSoOajw&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=50)
+				* [Hot Desert](https://www.youtube.com/watch?v=q9swmo6309U&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=142)
+			* [Catch Your Dreams! ( jp ver. )](https://www.youtube.com/watch?v=ZJJvowmQ7uQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=471)
+			* [Chryse Agit](https://www.youtube.com/watch?v=3neiOSwgp7A&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc)
+			* [Chryse Field](https://www.youtube.com/watch?v=axgX2QRdBII&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=2)
+			* [Edelstein](https://www.youtube.com/watch?v=Iayh6shDnwQ&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=13)
+				* [Underground Place](https://www.youtube.com/watch?v=SNuR31g7gqI&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=8)
+			* [Nautilus](https://www.youtube.com/watch?v=iZaVKkfuD6s&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=182)
+			* [Netts Pyramid](https://www.youtube.com/watch?v=up7ugury9zc&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=181)
+			* 耶雷弗 / Ereve
+				* [Raindrop Flower](https://www.youtube.com/watch?v=DhUdOO9UNwY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=220)
+				* [皇后之路 / Queen's Garden](https://www.youtube.com/watch?v=3r9s43TG9yA)
+		* NieR: Automata OST
+			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
+		* Rakuen
+			* [The Keepers](https://www.youtube.com/watch?v=ghxSq2tBf8w)
+		* Violet Evergarden: Automemories
+			* Adamantine Dreams
+			* Another Sunny Day
+			* In Remembrance
+			* Innocence
+			* Never Coming Back
+			* The Storm
+			* The Ultimate Price
+			* The Voice in My Heart
+			* Torment
+		* リズと青い鳥
+			* [[吹奏楽曲]リズと青い鳥 full](https://www.youtube.com/watch?v=brWiRDUgDYM)
+		* 四月は君の嘘
+			* [愛の悲しみ](https://www.youtube.com/watch?v=JcZ6cjKcZKc)
+			* [私の嘘 .Piano](https://www.youtube.com/watch?v=PXa5ehb7po0)
+			* ウソとホント
+			* 友人A君を私の伴奏者に任命します
+			* 挫けそうになる私を支えてください
+		* 東京喰種 / トーキョーグール / Tokyo Ghoul
+			* [Glassy Sky](https://www.youtube.com/watch?v=vvvvcpwFw5o)
+			* [On my Own](https://www.youtube.com/watch?v=dj4VoPO-2pE)
+			* [Wanderers](https://www.youtube.com/watch?v=qzkC-alTbeA)
+			* [White Silence](https://www.youtube.com/watch?v=eX-CZnIW4bo)
+		* 約束のネバーランド
+			* [イザベラの唄](https://www.youtube.com/watch?v=rTJjtSP-ORc)
+		* 進擊的巨人
+			* Call Your Name
+			* Great escape
+			* So ist es immer
+			* 心臓を捧げよ
+		* 遊戲3人娘
+			* [インキャインパルス](https://www.youtube.com/watch?v=qE5mPz7e2OU)
+		* 屍鬼 / Shiki
+			* [Day and Night](https://www.youtube.com/watch?v=w6DlthZnUjY)
+			* [Eau de Vie](https://www.youtube.com/watch?v=gmAca9b_Q7A)
+		* 黄昏乙女×アムネジア / 黃昏乙女×失憶幽靈
+			* [レクイエム - 柊奈緒](https://www.youtube.com/watch?v=IyM872CxpNc)
+			* [CHOIR JAIL - 鈴木このみ](https://www.youtube.com/watch?v=e5kHIAnUTYY)
+		* アクセル・ワールド / 加速世界 / Accel World [website](http://www.accel-world.net/index.php)
+			* 大嶋啓之
+				* [ブラッド・ヒストリー / Blood History](https://www.youtube.com/watch?v=7Ww0IJgUTDw)
 	* 作曲家
 		* 澤野弘之
+			* Aesthetic
 			* LiSA
 				* [Narrative](https://www.youtube.com/watch?v=9NUMZrxSAxM)
-			* 小林未郁 [Official Website](http://miccabose.com/) [Twitter](https://twitter.com/miccabose)
-				* [｢βios｣｢Before my body is dry｣](https://www.youtube.com/watch?v=yCgpL7wDDds)
-				* [Bauklötze](https://www.youtube.com/watch?v=LXZOhU3YQnA)
 			* This is a fight to change the world
-			* Aesthetic
-			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
-			* [Before my body is dry](https://www.youtube.com/watch?v=uc7EcuqVhPE)
 			* [2V-ALK](https://www.youtube.com/watch?v=O0--A2RplIg)
+			* [Before my body is dry](https://www.youtube.com/watch?v=uc7EcuqVhPE)
+			* [Perfect Time](https://www.youtube.com/watch?v=3uaUJdqa-7s)
+			* 小林未郁 [Official Website](http://miccabose.com/) [Twitter](https://twitter.com/miccabose)
+				* [Bauklötze](https://www.youtube.com/watch?v=LXZOhU3YQnA)
+				* [｢βios｣｢Before my body is dry｣](https://www.youtube.com/watch?v=yCgpL7wDDds)
 			* 瑞葵 mizuki [Twitter](https://twitter.com/mizukizuiaoi)
 				* [ ｢Keep on keeping on｣ & ｢aLIEz｣ ](https://www.youtube.com/watch?v=vL7nL8cr8jQ)
 		* 高梨康治

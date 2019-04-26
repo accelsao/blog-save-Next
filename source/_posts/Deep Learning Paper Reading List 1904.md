@@ -1,20 +1,23 @@
 ---
 title: Deep Learning Paper Reading List 1904
 tags:
+	- Autoregressive Model
 	- Deep Learning
+	- Disentangled Representations
+	- Few Shot Learning
 	- Generative Adversarial Network
 	- Lipschitz Continuity
 	- Meta-Learning
+	- Metric Learning
 	- Mutual Information
 	- Object Detection
 	- Representation Learning
 	- Unsupervised Learning
 	- Unsupervised Learning
+	- Variational Autoencoders
 	- Variational Inference
+	- Visual Concepts
 	- Wasserstein Metric
-	- Metric Learning
-	- Autoregressive Model
-	- Few Shot Learning
 categories:
 	- Reading Notes
 mathjax: false
@@ -29,16 +32,38 @@ Subjects | Machine Learning, Computer Vision and Pattern Recognition
 
 <!--more-->
 
+# SCAN: Learning Hierarchical Compositional Visual Concepts
+authors | arxiv | tag
+--- |
+Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matko Bosnjak, Murray Shanahan, Matthew Botvinick, Demis Hassabis, Alexander Lerchner | [https://arxiv.org/abs/1707.03389](https://arxiv.org/abs/1707.03389) | Visual Concepts
+
+# Isolating Sources of Disentanglement in VAEs
+authors | arxiv | tag
+--- |
+Ricky T. Q. Chen, Xuechen Li, Roger Grosse, David Duvenaud | [https://arxiv.org/abs/1802.04942](https://arxiv.org/abs/1802.04942) | Variational Autoencoder, Disentangled Representations
+
+# Tutorial on Variational Autoencoders
+authors | arxiv | tag
+--- |
+Carl Doersch | [https://arxiv.org/abs/1606.05908](https://arxiv.org/abs/1606.05908) | Variational Autoencoders
+
+# Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
+authors | arxiv | blog
+--- |
+Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem | [https://arxiv.org/abs/1811.12359](https://arxiv.org/abs/1811.12359) | [google ai](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
+
+# Generating Long Sequences with Sparse Transformers
+authors | blog
+--- |
+Rewon Child, Scott Gray, Alec Radford, Ilya Sutskever | [Generative Modeling with Sparse Transformers](https://openai.com/blog/sparse-transformer/)
+
+
 # FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery
 authors | arxiv | tag | comment | code
 --- |
 Krishna Kumar Singh, Utkarsh Ojha, Yong Jae Lee | [https://arxiv.org/abs/1811.11155](https://arxiv.org/abs/1811.11155) | Generative Neural Network | CVPR 2019 Oral | [kkanshul/finegan](https://github.com/kkanshul/finegan)
-
-
-# Associative Embedding: End-to-End Learning for Joint Detection and Grouping
-authors | arxiv | tag
---- |
-Alejandro Newell, Zhiao Huang, Jia Deng | [https://arxiv.org/abs/1611.05424](https://arxiv.org/abs/1611.05424)
+## Notes
+![](https://i.imgur.com/13iWyQn.png)
 
 
 # CornerNet-Lite: Efficient Keypoint Based Object Detection
@@ -136,9 +161,10 @@ Jacob Menick, Nal Kalchbrenner | [https://arxiv.org/abs/1812.01608](https://arxi
 This paper shows autogression model can generate high fidelity images
 
 # Wasserstein Dependency Measure for Representation Learning
-authors | Sherjil Ozair, Corey Lynch, Yoshua Bengio, Aaron van den Oord, Sergey Levine, Pierre Sermanet
-arxiv | [https://arxiv.org/abs/1903.11780](https://arxiv.org/abs/1903.11780)
-tag | Representation Learning, Lipschitz Continuity, Wasserstein Metric, Mutual Information
+authors | arxiv | tag
+--- |
+Sherjil Ozair, Corey Lynch, Yoshua Bengio, Aaron van den Oord, Sergey Levine, Pierre Sermanet | [https://arxiv.org/abs/1903.11780](https://arxiv.org/abs/1903.11780) | Representation Learning, Lipschitz Continuity, Wasserstein Metric, Mutual Information
+
 
 # Superposition of many models into one
 authors | Brian Cheung, Alex Terekhov, Yubei Chen, Pulkit Agrawal, Bruno Olshausen
