@@ -7,13 +7,11 @@ date: 2018-09-15 21:06:57
 * [Codeforces](http://codeforces.com/profile/Jiburiru)
 ![](https://i.imgur.com/xOd1uKM.jpg)
 
-`
-集傲慢,怠惰,強欲於一身的男人
+
+`集傲慢,怠惰,強欲於一身的男人
 吉普莉爾是我唯一的僕人
 19/04/15`
-`
-我要用AI讓這世界更加美好
-19/04/22`
+`solve intelligence, use it to make the world a better place 19/04/27`
 
 
 >決定把動畫小說分開
@@ -118,12 +116,14 @@ date: 2018-09-15 21:06:57
 		* Broken By The Scream
 			* [サヨナラバースデー](https://www.youtube.com/watch?v=Q8qOH-f6doM)
 			* [恋は乙女の泣きどころ](https://www.youtube.com/watch?v=4Eum9rFdFQc)
-		* Cö Shu Nie
-			* Asphyxia
+		* Cö shu Nie
+			* [Asphyxia](https://www.youtube.com/watch?v=ZB9UvUJL_lE)
+			* [asphyxia（ piano ver. ）](https://www.youtube.com/watch?v=SFBOasS8CGY)
 			* [Character](https://www.youtube.com/watch?v=u9qDEvusROk)
 			* [Lamp](https://www.youtube.com/watch?v=0Qe7Nqx6SNE)
 			* [PERSON](https://www.youtube.com/watch?v=-KUcydUw6kI)
 			* [ö=Simple Is!](https://www.youtube.com/watch?v=exIWXjTtuGY)
+			* [絶体絶命](https://www.youtube.com/watch?v=6WNk9yMNovs)
 		* FERN PLANET
 			* [ソルジャーガールズ](https://www.youtube.com/watch?v=EnZuLUHEpFs)
 		* Fear, and Loathing in Las Vegas
@@ -152,6 +152,7 @@ date: 2018-09-15 21:06:57
 		* MYTH & ROID
 			* HYDRA
 			* [Frozen Rain](https://www.youtube.com/watch?v=E3EXAIzagnc)
+			* [Paradisus - Paradoxum](https://www.youtube.com/watch?v=gDHlG4KA0AQ)
 			* [VORACITY](https://www.youtube.com/watch?v=D-LXfVLL5Tc)
 		* Mili	
 			* [Camelia](https://www.youtube.com/watch?v=wOcCu31oi7Q)
@@ -224,6 +225,10 @@ date: 2018-09-15 21:06:57
 			* [留給你的我從未 Those Things I Kept](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
 		* 顯然樂隊
 			* [低賤的人](https://www.youtube.com/watch?v=lFpS1gcJRgc)
+		* in NO hurry to shout;
+			* [Spiral](https://www.youtube.com/watch?v=bACJEdcIP2A)
+		* EGOIST
+			* [Ghost of a smile](https://www.youtube.com/watch?v=V0VIrpvPvkk)
 	* 歌手
 		* ASCA
 			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
@@ -260,10 +265,11 @@ date: 2018-09-15 21:06:57
 			* ギミアブレスタッナウ
 			* サイサキ
 			* 宵々古今
-		* Sayuri
+		* 酸欠少女さユり / Sayuri [website](http://sayuri-web.com/s/y08/?ima=0641)
 			* [ME & CREED ＜nZkv＞](https://www.youtube.com/watch?v=sWQSbTdVrg4)
 			* [Sayuri x My First Story - Dawn](https://www.youtube.com/watch?v=hpoibyitXIg)
-			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)	
+			* [光と闇](https://www.youtube.com/watch?v=MU3E8awOaGU)
+			* [月の花束](https://www.youtube.com/watch?v=j6OhJ9fN44w)
 		* Shakira
 			* Waka Waka
 		* TRUE
@@ -314,7 +320,8 @@ date: 2018-09-15 21:06:57
 			* [Stay Alive](https://www.youtube.com/watch?v=QZK3st54Txg)
 		* 黒木渚
 			* [カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
-
+		* Anly
+			* [カラノココロ](https://www.youtube.com/watch?v=K8kjo96CJmg)
 	* 遊戲/動畫 OST/BGM
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
@@ -432,11 +439,14 @@ date: 2018-09-15 21:06:57
 			* 瑞葵 mizuki [Twitter](https://twitter.com/mizukizuiaoi)
 				* [ ｢Keep on keeping on｣ & ｢aLIEz｣ ](https://www.youtube.com/watch?v=vL7nL8cr8jQ)
 		* 高梨康治
-			* 追憶 めざめる たましい
+			* [追憶 ～めざめる魂～](https://www.youtube.com/watch?v=RpnRhiInopA)
 		* 木村弓
 			* [いのちの名前](https://www.youtube.com/watch?v=LCbLK2fG2eM)
 		* 大嶋啓之
 			* [why, or why not (feat.片霧烈火)](https://www.youtube.com/watch?v=_1Ty88J3JQU)
+		* [林ゆうき](https://twitter.com/hayayu1231)
+			* デス・パレード
+				* [Moonlit Night](https://www.youtube.com/watch?v=ewBOcdz29Sw&list=WL&index=7&t=0s)
 			
 * 經典名句
 	* 宮崎駿《千與千尋》

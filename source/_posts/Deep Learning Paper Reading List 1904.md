@@ -8,6 +8,7 @@ tags:
 	- Generative Adversarial Network
 	- Lipschitz Continuity
 	- Meta-Learning
+	- Meta-reinforcement Learning
 	- Metric Learning
 	- Mutual Information
 	- Object Detection
@@ -25,12 +26,29 @@ date: 2019-04-01 11:50:11
 ---
 
 SOTA, 思路, 實驗, Open Problems
-Subjects | Machine Learning, Computer Vision and Pattern Recognition
+Subjects | `Machine Learning` `Computer Vision and Pattern Recognition`
 
+[DeepMind Research](https://deepmind.com/research/publications/)
 [ICLR 2019 Schedule](https://iclr.cc/Conferences/2019/Schedule)
 [Pytorch Doc](https://pytorch.org/docs/stable/index.html)
 
 <!--more-->
+
+# Causal Reasoning from Meta-reinforcement Learning
+authors | arxiv | tag | comment
+--- |
+Ishita Dasgupta, Jane Wang, Silvia Chiappa, Jovana Mitrovic, Pedro Ortega, David Raposo, Edward Hughes, Peter Battaglia, Matthew Botvinick, Zeb Kurth-Nelson | [https://arxiv.org/abs/1901.08162](https://arxiv.org/abs/1901.08162) | Meta-reinforcement Learning | DeepMind
+
+# Variational Inference with Normalizing Flows
+authors | arxiv | tag | comment
+--- |
+Danilo Jimenez Rezende, Shakir Mohamed | [https://arxiv.org/abs/1505.05770](https://arxiv.org/abs/1505.05770) | Variational Inference | ICML 2015
+
+# Advances in Variational Inference
+authors | arxiv | tag
+--- |
+Cheng Zhang, Judith Butepage, Hedvig Kjellstrom, Stephan Mandt | [https://arxiv.org/abs/1711.05597](https://arxiv.org/abs/1711.05597) | Variational Inference
+
 
 # SCAN: Learning Hierarchical Compositional Visual Concepts
 authors | arxiv | tag

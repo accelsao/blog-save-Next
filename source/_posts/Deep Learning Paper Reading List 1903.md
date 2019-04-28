@@ -13,7 +13,7 @@ tags:
   - Deep Learning
   - Representation Learning
 categories:
-  - Learning Notes
+  - Reading Notes
 mathjax: false
 date: 2019-03-25 11:53:13
 ---
