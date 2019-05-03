@@ -1,19 +1,20 @@
 ---
-title: Deep Learning Paper Reading List 1903
+title: Machine Learning Paper Reading List 1903
 tags:
-  - Computer Vision
-  - Deep Reinforcement Learning
-  - Unsupervised Learning
-  - CVPR 2019
-  - ICLR 2019
-  - Weakly-Supervised Learning
-  - 3D Human Pose Estimation
-  - Self-supervised Learning
-  - Generative Adversarial Network
-  - Deep Learning
-  - Representation Learning
+	- Computer Vision
+	- Deep Reinforcement Learning
+	- Unsupervised Learning
+	- CVPR 2019
+	- ICLR 2019
+	- Weakly-Supervised Learning
+	- 3D Human Pose Estimation
+	- Self-supervised Learning
+	- Generative Adversarial Network
+	- Deep Learning
+	- Representation Learning
 categories:
-  - Reading Notes
+	- Machine Learning
+	- Reading Notes
 mathjax: false
 date: 2019-03-25 11:53:13
 ---

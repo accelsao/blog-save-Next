@@ -1,5 +1,5 @@
 ---
-title: Deep Learning Paper Reading List 1904
+title: Machine Learning Paper Reading List 1904
 tags:
 	- Autoregressive Model
 	- Deep Learning
@@ -20,6 +20,7 @@ tags:
 	- Visual Concepts
 	- Wasserstein Metric
 categories:
+	- Machine Learning
 	- Reading Notes
 mathjax: false
 date: 2019-04-01 11:50:11
@@ -33,6 +34,12 @@ Subjects | `Machine Learning` `Computer Vision and Pattern Recognition`
 [Pytorch Doc](https://pytorch.org/docs/stable/index.html)
 
 <!--more-->
+
+
+# Variational Inference: A Review for Statisticians
+authors | arxiv | tag
+--- |
+David M. Blei, Alp Kucukelbir, Jon D. McAuliffe | [https://arxiv.org/abs/1601.00670](https://arxiv.org/abs/1601.00670) | Variational Inference
 
 # Causal Reasoning from Meta-reinforcement Learning
 authors | arxiv | tag | comment
