@@ -143,8 +143,8 @@ date: 2018-09-15 21:06:57
 			* 月面歩行
 			* 猿は木から何処へ落ちる
 			* 百鬼夜行
-		* Hyakkei 百景
-			* おくりもの(ALBUM)
+		* 高円寺百景 / Koenji Hyakkei
+			* [おくりもの - Album](https://www.youtube.com/watch?v=LKM3iLzvVKE)
 		* I Mean Us
 			* [Søulмaтe](https://www.youtube.com/watch?v=AgrfgqV1lAs)
 		* Kalafina
@@ -328,7 +328,7 @@ date: 2018-09-15 21:06:57
 			* [カルデラ](https://www.youtube.com/watch?v=cXeo2yn22z0)
 		* Anly
 			* [カラノココロ](https://www.youtube.com/watch?v=K8kjo96CJmg)
-	* 遊戲/動畫 OST/BGM
+	* 遊戲/動畫/電影 OST/BGM
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
 		* Drakengard 3
@@ -430,6 +430,8 @@ date: 2018-09-15 21:06:57
 		* アクセル・ワールド / 加速世界 / Accel World [website](http://www.accel-world.net/index.php)
 			* 大嶋啓之
 				* [ブラッド・ヒストリー / Blood History](https://www.youtube.com/watch?v=7Ww0IJgUTDw)
+		* 悲慘世界
+			* [Do you hear the people sing?](https://www.youtube.com/watch?v=47E2tfK5QAg)
 	* 作曲家
 		* 澤野弘之
 			* Aesthetic

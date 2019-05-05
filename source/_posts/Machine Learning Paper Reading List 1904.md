@@ -35,7 +35,6 @@ Subjects | `Machine Learning` `Computer Vision and Pattern Recognition`
 
 <!--more-->
 
-
 # Variational Inference: A Review for Statisticians
 authors | arxiv | tag
 --- |

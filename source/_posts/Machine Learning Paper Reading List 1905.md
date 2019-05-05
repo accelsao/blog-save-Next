@@ -4,8 +4,9 @@ tags:
 	- Machine Learning
 	- Gaussian Processes
 	- Neural Processes
-	- Kernel
+	- Kernel Methods
 	- Variational Inference
+	- Optimal Transport
 categories:
 	- Machine Learning
 	- Reading Notes
@@ -13,10 +14,21 @@ mathjax: false
 date: 2019-05-01 15:35:04
 ---
 
-Subjects | [cs.LG](https://arxiv.org/list/cs.LG/recent)
+Subjects | [`cs.LG`](https://arxiv.org/list/cs.LG/recent), `stat.ML`
 
 <!--more-->
 
+
+# Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
+authors | arxiv | blog
+--- |
+Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Ratsch, Sylvain Gelly, Bernhard Scholkopf, Olivier Bachem | [https://arxiv.org/abs/1811.12359](https://arxiv.org/abs/1811.12359) | [google ai](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
+
+
+# Computational Optimal Transport
+authors | arxiv | tag
+--- |
+Gabriel Peyre, Marco Cuturi | [https://arxiv.org/abs/1803.00567](https://arxiv.org/abs/1803.00567) | Optimal Transport
 
 # Advances in Variational Inference
 authors | arxiv | tag
@@ -42,4 +54,4 @@ Marta Garnelo, Jonathan Schwarz, Dan Rosenbaum, Fabio Viola, Danilo J. Rezende, 
 # Gaussian Processes and Kernel Methods: A Review on Connections and Equivalences
 authors | arxiv | tag
 --- |
-Motonobu Kanagawa, Philipp Hennig, Dino Sejdinovic, Bharath K Sriperumbudur | [https://arxiv.org/abs/1807.02582](https://arxiv.org/abs/1807.02582) | Gaussian Processes, Kernel
+Motonobu Kanagawa, Philipp Hennig, Dino Sejdinovic, Bharath K Sriperumbudur | [https://arxiv.org/abs/1807.02582](https://arxiv.org/abs/1807.02582) | Gaussian Processes, Kernel Methods
