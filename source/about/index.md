@@ -34,7 +34,13 @@ date: 2018-09-15 21:06:57
 		```
 	* 言葉之庭
 	* 你的名子
-	* 進擊的巨人 
+	* 進擊的巨人
+		```
+			不平凡不好嗎? 能夠健康生在這世上, 就已經是奇蹟了
+			對於世界真相的追求 VS 快樂生活在牆內的人
+			無論是哪種生活, 只不過是其中一種選擇
+			我 -- 選擇牆外 19/05/10
+		```
 	* 命運石之門
 		```
 			第三季看到棄 19/04/14
@@ -77,9 +83,16 @@ date: 2018-09-15 21:06:57
 	* Re:ゼロから始める異世界生活 [小説を読もう！](https://ncode.syosetu.com/n2267be/)
 		* 作者: 鼠色猫/長月達平
 		```
-			看了第11,12卷第4章後排名直接竄升第一 這邊的心境,情緒,情報量帶來的衝擊非一言可語 直接震撼腦隨阿 19/03/29
+			看了第11,12卷第4章後排名直接竄升第一
+			這邊的心境, 情緒, 情報量帶來的衝擊非一言可語 直接震撼腦隨阿 19/03/29
+			看完了第4章 要說遺憾的話可能還是小丑的轉變讓我覺得違和, 還以為會經歷更深刻的契機才會使它轉變
+			後面收尾的穩穩的 雖然略為可惜, 但居然征服了傲嬌小蘿莉, 這讓我比較驚訝呢 19/05/10
 		```
 	* 果然我的青春戀愛喜劇搞錯了
+		```
+			不斷的傷害自己, 用最爛的方法來解決問題的比企谷
+			果然, 我還是無法理解你的溫柔呢 19/05/10
+		```
 	* 遊戲人生
 	* 歡迎來到實力至上主義教室
 	* 龍王的工作
@@ -100,6 +113,15 @@ date: 2018-09-15 21:06:57
 	* 逃避雖可恥但有用
 	* 寬鬆世代又怎樣
 	* 99.9 -刑事専門弁護士-
+	
+* 日本電影
+	* 小偷家族
+		```
+			家庭一定要由血緣關係的人組成? 可以選擇的家庭是不是會比較幸福?
+			也許只要有愛, 只要願意選擇就可以
+			雖然最後信代認為他們無法取代祥太的父母, 但在祥太心中, 治已經是父親了
+			雖然現在家已經沒了, 無論如何, 那段一起生活的時光依然無比真實 19/05/10
+		```
 
 > 音樂不排序
 	
@@ -173,10 +195,13 @@ date: 2018-09-15 21:06:57
 		* Scenarioart
 			* Sayonara Moon Town
 			* ナナヒツジ
-		* supercell
+		* Supercell
 			* [My Dearest](https://www.youtube.com/watch?v=nIrYjzHAEp0)
 		* TK from 凛として時雨 / 凛として時雨 / Ling Tosite Sigure
-			* 24REVERSE
+			```
+				TK的歌真是對味 加分 19/05/10
+			```
+			* [24REVERSE](https://www.youtube.com/watch?v=6tRJJW-tCjo)
 			* CRAZY感情STYLE
 			* EneME
 			* High Energy Vacuum
@@ -247,6 +272,7 @@ date: 2018-09-15 21:06:57
 			* [i-mage](https://www.youtube.com/watch?v=P_D6l48mWSs)
 			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 			* 花の唄
+			* [us ft.TK from Ling Tosite Sigure](https://www.youtube.com/watch?v=mCVHmS1HNCI)
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
@@ -385,11 +411,17 @@ date: 2018-09-15 21:06:57
 			* 耶雷弗 / Ereve
 				* [Raindrop Flower](https://www.youtube.com/watch?v=DhUdOO9UNwY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=220)
 				* [皇后之路 / Queen's Garden](https://www.youtube.com/watch?v=3r9s43TG9yA)
-		* NieR: Automata OST
+		* NieR: Automata
+			```
+				不管什麼時候聽都覺得超級讚的 +1 19/05/10
+			```
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
+			* [The Weight of the World](https://www.youtube.com/watch?v=Egn_VNVKzI4)
+			* [Vague Hope](https://www.youtube.com/watch?v=BknOTzSCQhI)
 		* Rakuen
 			* [The Keepers](https://www.youtube.com/watch?v=ghxSq2tBf8w)
 		* Violet Evergarden: Automemories
+			* [FULL OST Disc 1~2](https://www.youtube.com/watch?v=aJgalN12n9c)
 			* Adamantine Dreams
 			* Another Sunny Day
 			* In Remembrance
@@ -455,6 +487,10 @@ date: 2018-09-15 21:06:57
 		* [林ゆうき](https://twitter.com/hayayu1231)
 			* デス・パレード
 				* [Moonlit Night](https://www.youtube.com/watch?v=ewBOcdz29Sw&list=WL&index=7&t=0s)
+		* Yiruma / 李閏珉
+			* [River Flows in You](https://www.youtube.com/watch?v=7maJOI3QMu0)
+	* Others
+		* [Classical Music](https://www.youtube.com/watch?v=mIYzp5rcTvU)
 			
 * 經典名句
 	* 忘了出處

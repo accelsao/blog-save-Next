@@ -7,17 +7,41 @@ tags:
 	- Kernel Methods
 	- Variational Inference
 	- Optimal Transport
+	- Bayesian Neural Networks
+	- Self-Supervised Learning
 categories:
 	- Machine Learning
-	- Reading Notes
 mathjax: false
 date: 2019-05-01 15:35:04
 ---
 
-Subjects | [`cs.LG`](https://arxiv.org/list/cs.LG/recent), `stat.ML`
+Subjects | `cs.LG`, `stat.ML`, `cs.CV`
 
 <!--more-->
 
+# TO READ
+[Convolution is outer product](https://arxiv.org/abs/1905.01289)
+[Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
+
+# Few-Shot Unsupervised Image-to-Image Translation
+Arxiv | Blog
+--- |
+[https://arxiv.org/abs/1905.01723](https://arxiv.org/abs/1905.01723) | [nvlabs-FUNIT](https://nvlabs.github.io/FUNIT/)
+
+# Adversarial Examples Are Not Bugs, They Are Features
+Arxiv | Blog
+--- |
+[https://arxiv.org/abs/1905.02175](https://arxiv.org/abs/1905.02175) | [blog](http://gradientscience.org/adv/)
+
+# Scaling and Benchmarking Self-Supervised Visual Representation Learning
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1905.01235](https://arxiv.org/abs/1905.01235) | Self-Supervised Learning
+
+# Functional Variational Bayesian Neural Networks
+Arxiv | OpenReview | Tag
+--- |
+[https://arxiv.org/abs/1903.05779](https://arxiv.org/abs/1903.05779) | [ICLR 2019](https://openreview.net/forum?id=rkxacs0qY7) | Bayesian Neural Networks
 
 # Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
 authors | arxiv | blog
