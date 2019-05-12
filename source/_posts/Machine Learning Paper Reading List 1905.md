@@ -9,6 +9,10 @@ tags:
 	- Optimal Transport
 	- Bayesian Neural Networks
 	- Self-Supervised Learning
+	- Disentangled Representations
+	- VAE
+	- Bayesian Optimization
+	- Gaussian Processes
 categories:
 	- Machine Learning
 mathjax: false
@@ -17,16 +21,60 @@ date: 2019-05-01 15:35:04
 
 Subjects | `cs.LG`, `stat.ML`, `cs.CV`
 
+[ICML Accepted Papers](https://icml.cc/Conferences/2019/AcceptedPapersInitial)
+
 <!--more-->
 
 # TO READ
-[Convolution is outer product](https://arxiv.org/abs/1905.01289)
-[Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
+MLAPP Ch.12
+PCA vs ICA
+VAE 的各種變化 應用
+Gaussian Processes 更廣泛的應用 或和其他方法的比較
+Disentangled Representations可深入了解
+Kernel
+
+
+
+# Bayesian Optimization using Deep Gaussian Processes
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1905.03350](https://arxiv.org/abs/1905.03350) | Bayesian Optimization, Gaussian Processes
+
+# Isolating Sources of Disentanglement in VAEs
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1802.04942](https://arxiv.org/abs/1802.04942) | VAE,  Disentangled Representations
+
+# Gaussian Differential Privacy
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1905.02383](https://arxiv.org/abs/1905.02383) | ?
+
+# Does Data Augmentation Lead to Positive Margin?
+Arxiv | Tags
+--- |
+https://arxiv.org/abs/1905.03177 | ?
+
+# Meta-learning of Sequential Strategies
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1905.03030](https://arxiv.org/abs/1905.03030) | ?
+
+# MixMatch: A Holistic Approach to Semi-Supervised Learning
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1905.02249](https://arxiv.org/abs/1905.02249) | ?
+
+# Disentangling Factors of Variation Using Few Labels
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1905.01258](https://arxiv.org/abs/1905.01258) | ?
 
 # Few-Shot Unsupervised Image-to-Image Translation
 Arxiv | Blog
 --- |
 [https://arxiv.org/abs/1905.01723](https://arxiv.org/abs/1905.01723) | [nvlabs-FUNIT](https://nvlabs.github.io/FUNIT/)
+
 
 # Adversarial Examples Are Not Bugs, They Are Features
 Arxiv | Blog
