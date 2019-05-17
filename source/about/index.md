@@ -7,12 +7,15 @@ date: 2018-09-15 21:06:57
 * [Codeforces](http://codeforces.com/profile/Jiburiru)
 ![](https://i.imgur.com/xOd1uKM.jpg)
 
-
-`集傲慢,怠惰,強欲於一身的男人
-吉普莉爾是我唯一的僕人
-19/04/15`
-`solve intelligence, use it to make the world a better place 19/04/27`
-
+自介 - 最後更新: 19/05/17
+```
+喜歡: Machine Learning, Math Rock
+討厭: 下雨天 
+人設: 集傲慢, 怠惰, 強欲於一身的男人
+僕人: 吉普莉爾
+老婆: 雪之下雪乃 
+夢想: solve intelligence, use it to make the world a better place
+```
 
 >決定把動畫小說分開
 >順序按照更新當時的印象排序
@@ -20,45 +23,41 @@ date: 2018-09-15 21:06:57
 * 動畫/動畫電影
 	* 《我想吃掉你的胰臟》(君の膵臓をたべたい)
 	* 《莉茲與青鳥》
-		```
-			以*吹響吧！上低音號*為原作的動畫電影 講述希美和霙的故事
-			製作人員大部分是**聲之形**的人員
-
-			先來吹一下京都動畫(+10分) 太神啦~~
-			還有山田尚子(再+10分) 天才監督 開追她的作品
-			既然會寫一個單獨的post 不用說也知道這部是我心中的神作
-
-			這部作品之**細膩**讓我驚嘆不已 前面大概快7分鐘吧 只有霙走到學校階梯 等待著希美的過程 中間沒有任何對話 只有不同視角的畫面
-			不需有太多的對話(台詞) 而是用不同的畫面來描述 我很喜歡
-			後面兩人的告白 從近距離慢慢的拉遠 在模糊或者轉到其他東西上 描繪的距離感表達了角色之間的**距離**
-
-			隨著字幕的**disjoint** 說明著兩人的關係 和結尾的 **~~dis~~joint**做了對比 也是我以前不曾見過的手法 (再+10分)
-
-			和開頭的不同 彼此的心 相交在一起
-		```
+		
+		>以**吹響吧！上低音號**為原作的動畫電影 講述希美和霙的故事
+		製作人員大部分是**聲之形**的人員
+		先來吹一下京都動畫(+10分) 太神啦~~
+		還有山田尚子(再+10分) 天才監督 開追她的作品
+		既然會寫一個單獨的post 不用說也知道這部是我心中的神作
+		這部作品之**細膩**讓我驚嘆不已 前面大概快7分鐘吧 只有霙走到學校階梯 等待著希美的過程 中間沒有任何對話 只有不同視角的畫面
+		不需有太多的對話(台詞) 而是用不同的畫面來描述 我很喜歡
+		後面兩人的告白 從近距離慢慢的拉遠 在模糊或者轉到其他東西上 描繪的距離感表達了角色之間的**距離**
+		隨著字幕的**disjoint** 說明著兩人的關係 和結尾的 **~~dis~~joint**做了對比 也是我以前不曾見過的手法 (再+10分)
+		和開頭的不同 彼此的心 相交在一起
+		
 	* 《比宇宙更遠的地方》
-		```
-			催淚 + 勵志 19/04/14
-			微百合(? 19/05/12
-		```
+		
+		>催淚 + 勵志 19/04/14
+		微百合(?) 19/05/12
+		
 	* [Re:ゼロから始める異世界生活](http://re-zero-anime.jp/)
-		```
-			15神回, 18愛的告白 19/04/14
-		```
+		
+		>15神回, 18愛的告白 19/04/14
+		
 	* 樂園追放 -Expelled from Paradise-
 	* 約定的夢幻島
-		```
-			逃出農場, 平平收尾 19/04/14
-		```
+	
+		>逃出農場, 平平收尾 19/04/14
+		
 	* 言葉之庭
 	* 你的名子
 	* 進擊的巨人
-		```
-			不平凡不好嗎? 能夠健康生在這世上, 就已經是奇蹟了
-			對於世界真相的追求 VS 快樂生活在牆內的人
-			無論是哪種生活, 只不過是其中一種選擇
-			我 -- 選擇牆外 19/05/10
-		```
+		
+		>不平凡不好嗎? 能夠健康生在這世上, 就已經是奇蹟了
+		對於世界真相的追求 VS 快樂生活在牆內的人
+		無論是哪種生活, 只不過是其中一種選擇
+		我 -- 選擇牆外 19/05/10
+	
 	* 命運石之門
 		```
 			第三季看到棄 19/04/14
@@ -257,6 +256,9 @@ date: 2018-09-15 21:06:57
 			* [One day](https://www.youtube.com/watch?v=8QHmMwqY5Lc)
 		* Toe
 			* [Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k)
+			* [Because I Hear You](https://www.youtube.com/watch?v=bMIYVJpOHsw)
+			* [Mukougishi ga miru yume](https://www.youtube.com/watch?v=WuTKoLJS_jo)
+			* [孤独の発明](https://www.youtube.com/watch?v=TR_GMdQZzsg)
 		* Tricot
 			* [ポークジンジャー](https://www.youtube.com/watch?v=h0Q_y54F070)
 		* Vast & Hazy
@@ -298,9 +300,11 @@ date: 2018-09-15 21:06:57
 			* [Spiral](https://www.youtube.com/watch?v=bACJEdcIP2A)
 		* EGOIST
 			* [Ghost of a smile](https://www.youtube.com/watch?v=V0VIrpvPvkk)
+			* [The Everlasting Guilty Crown](https://www.youtube.com/watch?v=cV2LfNl5eO8)
 		* fox capture plan
 			* [Butterfly Effect](https://www.youtube.com/watch?v=8cMhQ_teEoY)
 			* [疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
+			* [衝動の粒子](https://www.youtube.com/watch?v=Zww88qOSpZs)
 		* MAN WITH A MISSION
 			* [Dead End in Tokyo](https://www.youtube.com/watch?v=JjIiK9VcIsA)
 		* チリヌルヲワカ
@@ -391,8 +395,9 @@ date: 2018-09-15 21:06:57
 			* [僕が死のうと思ったのは - 芝麻Mochi](https://www.youtube.com/watch?v=0HTAKT-JIaA)
 		* 西野カナ
 			* [if](https://www.youtube.com/watch?v=04VteCjggco)
-		* 鈴木KONOMI
+		* 鈴木KONOMI / 鈴木木乃美
 			* Blow out
+			* [THERE IS A REASON](https://www.youtube.com/watch?v=wrpRv1pyV6I)
 		* 高橋優
 			* [aquarium](https://www.youtube.com/watch?v=qvd5QQMCfvM)
 		* 高橋李依
@@ -403,7 +408,8 @@ date: 2018-09-15 21:06:57
 			* [カラノココロ](https://www.youtube.com/watch?v=K8kjo96CJmg)
 		* ELISA
 			* [EONIAN / イオニアン / 樂園追放 -Expelled from Paradise- Theme Song](https://www.youtube.com/watch?v=wPMF94vb0JI)
-		
+		* 日笠陽子
+			* [美麗殘忍的世界](https://www.youtube.com/watch?v=2gkCGjuuwP4)
 	* 遊戲/動畫/電影 OST/BGM
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
@@ -462,12 +468,12 @@ date: 2018-09-15 21:06:57
 				* [Raindrop Flower](https://www.youtube.com/watch?v=DhUdOO9UNwY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=220)
 				* [皇后之路 / Queen's Garden](https://www.youtube.com/watch?v=3r9s43TG9yA)
 		* NieR: Automata
-			```
-				不管什麼時候聽都覺得超級讚的 +1 19/05/10
-			```
 			* [Kainé Salvation Orchestral](https://www.youtube.com/watch?v=a2-7Jh6FsL4)
 			* [The Weight of the World](https://www.youtube.com/watch?v=Egn_VNVKzI4)
 			* [Vague Hope](https://www.youtube.com/watch?v=BknOTzSCQhI)
+			```
+				不管什麼時候聽都覺得超級讚的 +1 19/05/10
+			```
 		* Rakuen
 			* [The Keepers](https://www.youtube.com/watch?v=ghxSq2tBf8w)
 		* Violet Evergarden: Automemories
@@ -514,6 +520,9 @@ date: 2018-09-15 21:06:57
 				* [ブラッド・ヒストリー / Blood History](https://www.youtube.com/watch?v=7Ww0IJgUTDw)
 		* 悲慘世界
 			* [Do you hear the people sing?](https://www.youtube.com/watch?v=47E2tfK5QAg)
+		* 歧路旅人 / 八方旅人 / Octopath Traveler
+			* [Album](https://www.youtube.com/watch?v=a_Js6ML2MMU)
+			* [FULL OST](https://www.youtube.com/watch?v=ubo9syfcDjI)
 	* 作曲家
 		* 澤野弘之
 			* Aesthetic
@@ -541,7 +550,10 @@ date: 2018-09-15 21:06:57
 			* [River Flows in You](https://www.youtube.com/watch?v=7maJOI3QMu0)
 	* Others
 		* [Classical Music](https://www.youtube.com/watch?v=mIYzp5rcTvU)
-			
+		* [Sad Romance (Violin Version)](https://www.youtube.com/watch?v=aFZ7bBaYpcw)
+		* HAMOTSUKIN BEST～Original Disc～
+			* 水晶に映る姫君 歌: 霜月はるか、茶太、片霧烈火
+		
 * 經典名句
 	* 忘了出處
 		* 即便失去了一切，至少還有未來

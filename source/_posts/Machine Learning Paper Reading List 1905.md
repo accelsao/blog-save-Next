@@ -26,14 +26,25 @@ Subjects | `cs.LG`, `stat.ML`, `cs.CV`
 <!--more-->
 
 # TO READ
-MLAPP Ch.12
-PCA vs ICA
-VAE 的各種變化 應用
-Gaussian Processes 更廣泛的應用 或和其他方法的比較
-Disentangled Representations可深入了解
-Kernel
+Bayesian DL
+Meta-learning
+Disentangled Representations
 
 
+Probabilistic Model-Agnostic Meta-Learning
+Meta-Learning Probabilistic Inference for Prediction
+Bayesian Model-Agnostic Meta-Learning
+Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables
+Meta-learning of Sequential Strategies
+MixMatch: A Holistic Approach to Semi-Supervised Learning
+Meta-Learning with Differentiable Convex Optimization
+[Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/abs/1804.00222)
+[A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811)
+
+# Disentangling by Factorising
+Arxiv | Tags
+--- |
+[https://arxiv.org/abs/1802.05983](https://arxiv.org/abs/1802.05983) | Disentangled Representations
 
 # Bayesian Optimization using Deep Gaussian Processes
 Arxiv | Tags
