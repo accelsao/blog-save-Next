@@ -19,37 +19,49 @@ mathjax: false
 date: 2019-05-01 15:35:04
 ---
 
-Subjects | `cs.LG`, `stat.ML`, `cs.CV`
+Subjects | `cs.LG` `stat.ML` `cs.CV`
 
-[ICML Accepted Papers](https://icml.cc/Conferences/2019/AcceptedPapersInitial)
+Conference | [ICML Accepted Papers](https://icml.cc/Conferences/2019/AcceptedPapersInitial)
 
 <!--more-->
 
 # TO READ
+
+## Topics
 Bayesian DL
 Meta-learning
 Disentangled Representations
+Variational Inference
 
-
+## Paers
 Probabilistic Model-Agnostic Meta-Learning
 Meta-Learning Probabilistic Inference for Prediction
 Bayesian Model-Agnostic Meta-Learning
 Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables
-Meta-learning of Sequential Strategies
-MixMatch: A Holistic Approach to Semi-Supervised Learning
 Meta-Learning with Differentiable Convex Optimization
+On Variational Bounds of Mutual Information
 [Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/abs/1804.00222)
 [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811)
+[Unsupervised Data Augmentation](https://arxiv.org/abs/1904.12848)
+[Meta-learning of Sequential Strategies](https://arxiv.org/abs/1905.03030)
+[Disentangling by Factorising](https://arxiv.org/abs/1802.05983)
+[Bayesian Optimization using Deep Gaussian Processes](https://arxiv.org/abs/1905.03350)
+[Advances in Variational Inference](https://arxiv.org/abs/1711.05597)
+[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
+[Kernel Implicit Variational Inference](https://arxiv.org/abs/1705.10119)
+[On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922v1)
 
-# Disentangling by Factorising
-Arxiv | Tags
---- |
-[https://arxiv.org/abs/1802.05983](https://arxiv.org/abs/1802.05983) | Disentangled Representations
+# [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
+`Optimal Transport`
+## Notes
+None
 
-# Bayesian Optimization using Deep Gaussian Processes
-Arxiv | Tags
---- |
-[https://arxiv.org/abs/1905.03350](https://arxiv.org/abs/1905.03350) | Bayesian Optimization, Gaussian Processes
+# [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249)
+`Semi-supervised learning`
+## Notes
+A **holistic** approach to incorporates Consistency Regularization, Entropy Minimization and Traditional Regularization
+mixing labels and unlabels examples by MIXUP
+
 
 # Isolating Sources of Disentanglement in VAEs
 Arxiv | Tags
@@ -70,11 +82,6 @@ https://arxiv.org/abs/1905.03177 | ?
 Arxiv | Tags
 --- |
 [https://arxiv.org/abs/1905.03030](https://arxiv.org/abs/1905.03030) | ?
-
-# MixMatch: A Holistic Approach to Semi-Supervised Learning
-Arxiv | Tags
---- |
-[https://arxiv.org/abs/1905.02249](https://arxiv.org/abs/1905.02249) | ?
 
 # Disentangling Factors of Variation Using Few Labels
 Arxiv | Tags
@@ -106,17 +113,6 @@ Arxiv | OpenReview | Tag
 authors | arxiv | blog
 --- |
 Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Ratsch, Sylvain Gelly, Bernhard Scholkopf, Olivier Bachem | [https://arxiv.org/abs/1811.12359](https://arxiv.org/abs/1811.12359) | [google ai](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
-
-
-# Computational Optimal Transport
-authors | arxiv | tag
---- |
-Gabriel Peyre, Marco Cuturi | [https://arxiv.org/abs/1803.00567](https://arxiv.org/abs/1803.00567) | Optimal Transport
-
-# Advances in Variational Inference
-authors | arxiv | tag
---- |
-Cheng Zhang, Judith Butepage, Hedvig Kjellstrom, Stephan Mandt | [https://arxiv.org/abs/1711.05597](https://arxiv.org/abs/1711.05597) | Variational Inference
 
 
 # Representation Learning with Contrastive Predictive Coding

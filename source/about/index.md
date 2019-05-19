@@ -3,8 +3,7 @@ title: About
 date: 2018-09-15 21:06:57
 ---
 
-* NCU CSIE
-* [Codeforces](http://codeforces.com/profile/Jiburiru)
+
 ![](https://i.imgur.com/xOd1uKM.jpg)
 
 自介 - 最後更新: 19/05/17
@@ -19,7 +18,7 @@ date: 2018-09-15 21:06:57
 
 >決定把動畫小說分開
 >順序按照更新當時的印象排序
-	
+
 * 動畫/動畫電影
 	* 《我想吃掉你的胰臟》(君の膵臓をたべたい)
 	* 《莉茲與青鳥》
@@ -311,6 +310,12 @@ date: 2018-09-15 21:06:57
 			* [トライアングル](https://www.youtube.com/watch?v=B209fXATcjo)
 		* Annina
 			* [対象ａ](https://www.youtube.com/watch?v=5ptnDFsmSGk)
+		* MASS OF THE FERMENTING DREGS
+			* [New Order](https://www.youtube.com/watch?v=amDRAO9Ey30)
+		* bohemianvoodoo
+			* [Adria Blue](https://www.youtube.com/watch?v=gjDrEdEzfQc)
+		* toconoma
+			* [relive](https://www.youtube.com/watch?v=XLvp2HzCtOo)
 	* 歌手
 		* ASCA
 			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
