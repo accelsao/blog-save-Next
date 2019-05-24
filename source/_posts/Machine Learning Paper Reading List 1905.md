@@ -21,7 +21,8 @@ date: 2019-05-01 15:35:04
 
 Subjects | `cs.LG` `stat.ML` `cs.CV`
 
-Conference | [ICML Accepted Papers](https://icml.cc/Conferences/2019/AcceptedPapersInitial)
+Conference | [ICML 2019](https://icml.cc/Conferences/2019/AcceptedPapersInitial), [CVPR 2019](http://cvpr2019.thecvf.com/program/main_conference#program_schedule)
+WorkShop | [Self-Supervised Learning ICML 2019](https://sites.google.com/view/self-supervised-icml2019)
 
 <!--more-->
 
@@ -33,7 +34,12 @@ Meta-learning
 Disentangled Representations
 Variational Inference
 
-## Paers
+## Papers
+[Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/abs/1811.02827)
+[Wasserstein Dependency Measure for Representation Learning](https://arxiv.org/abs/1903.11780)
+[Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
+[Shake-Shake regularization](https://arxiv.org/abs/1705.07485)
+
 Probabilistic Model-Agnostic Meta-Learning
 Meta-Learning Probabilistic Inference for Prediction
 Bayesian Model-Agnostic Meta-Learning
@@ -50,6 +56,12 @@ On Variational Bounds of Mutual Information
 [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)
 [Kernel Implicit Variational Inference](https://arxiv.org/abs/1705.10119)
 [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922v1)
+[MINE: Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062)
+[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)
+
+## Project
+[google-research/mixmatch](https://github.com/google-research/mixmatch/blob/master/mixup.py)
+[zju3dv/pvnet](https://github.com/zju3dv/pvnet)
 
 # [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
 `Optimal Transport`
@@ -82,11 +94,6 @@ https://arxiv.org/abs/1905.03177 | ?
 Arxiv | Tags
 --- |
 [https://arxiv.org/abs/1905.03030](https://arxiv.org/abs/1905.03030) | ?
-
-# Disentangling Factors of Variation Using Few Labels
-Arxiv | Tags
---- |
-[https://arxiv.org/abs/1905.01258](https://arxiv.org/abs/1905.01258) | ?
 
 # Few-Shot Unsupervised Image-to-Image Translation
 Arxiv | Blog
