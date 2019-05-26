@@ -23,6 +23,7 @@ Subjects | `cs.LG` `stat.ML` `cs.CV`
 
 Conference | [ICML 2019](https://icml.cc/Conferences/2019/AcceptedPapersInitial), [CVPR 2019](http://cvpr2019.thecvf.com/program/main_conference#program_schedule)
 WorkShop | [Self-Supervised Learning ICML 2019](https://sites.google.com/view/self-supervised-icml2019)
+Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.berkeley.edu/~cbfinn/_files/dissertation.pdf)
 
 <!--more-->
 
@@ -35,6 +36,10 @@ Disentangled Representations
 Variational Inference
 
 ## Papers
+[Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
+[Learning to Convolve: A Generalized Weight-Tying Approach](https://arxiv.org/abs/1905.04663)
+[Gauge Equivariant Convolutional Networks and the Icosahedral CNN](https://arxiv.org/abs/1902.04615)
+[Stein Point Markov Chain Monte Carlo](https://arxiv.org/abs/1905.03673)
 [Wasserstein variational gradient descent: From semi-discrete optimal transport to ensemble variational inference](https://arxiv.org/abs/1811.02827)
 [Wasserstein Dependency Measure for Representation Learning](https://arxiv.org/abs/1903.11780)
 [Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
