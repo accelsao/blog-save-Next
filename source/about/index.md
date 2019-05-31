@@ -51,6 +51,10 @@ date: 2018-09-15 21:06:57
 		和開頭的不同 彼此的心 相交在一起
 	* 《言葉之庭》
 	* 《你的名子》
+	* 《藍色恐懼》
+	
+		>今敏經典鉅作
+		
 	* 《樂園追放 -Expelled from Paradise-》
 	* 《攻殻機動隊 GHOST IN THE SHELL》
 	* 《千年女優》
@@ -59,27 +63,27 @@ date: 2018-09-15 21:06:57
 	
 * 動畫
 		
-	* 《比宇宙更遠的地方》
+	*《比宇宙更遠的地方》
 		
 		>催淚 + 勵志 19/04/14
 		微百合(?) 19/05/12
 		
-	* [Re:ゼロから始める異世界生活](http://re-zero-anime.jp/)
+	* [《Re:ゼロから始める異世界生活》](http://re-zero-anime.jp/)
 		
 		>15神回, 18愛的告白 19/04/14
-		
-	* 約定的夢幻島
 	
-		>逃出農場, 平平收尾 19/04/14
-		
-	* 進擊的巨人
+	*《進擊的巨人》
 		
 		>不平凡不好嗎? 能夠健康生在這世上, 就已經是奇蹟了
 		對於世界真相的追求 VS 快樂生活在牆內的人
 		無論是哪種生活, 只不過是其中一種選擇
-		我 -- 選擇牆外 19/05/10
+		我 -- 選擇牆外 19/05/10	
 	
-	* 命運石之門
+	*《約定的夢幻島》
+	
+		>逃出農場, 平平收尾 19/04/14
+	
+	*《命運石之門 》
 	* 為美好的世界獻上祝福！
 	
 		>少數喜歡的搞笑番 19/04/14
@@ -571,8 +575,7 @@ date: 2018-09-15 21:06:57
 		* 大嶋啓之
 			* [why, or why not (feat.片霧烈火)](https://www.youtube.com/watch?v=_1Ty88J3JQU)
 		* [林ゆうき](https://twitter.com/hayayu1231)
-			* デス・パレード
-				* [Moonlit Night](https://www.youtube.com/watch?v=ewBOcdz29Sw&list=WL&index=7&t=0s)
+			* [Moonlit Night](https://www.youtube.com/watch?v=ewBOcdz29Sw)
 		* Yiruma / 李閏珉
 			* [River Flows in You](https://www.youtube.com/watch?v=7maJOI3QMu0)
 	* Others

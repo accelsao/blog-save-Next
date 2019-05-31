@@ -10,8 +10,33 @@ mathjax: true
 date: 2019-05-25 22:02:06
 ---
 
-解題心得(未完)
+解題心得
 <!--more-->
+
+# Problem
+給一字串S, 包含`a-z and *`
+和兩字串a, b
+S的`*`可以替換成任意`a-z`
+F(a,b)函數計算 a在b字串中出現的次數
+F(ab, abaab) = 2
+F(a, abaab) = 3
+求最大化F(a,S)-F(b,S)
+
+# Solution
+這題用DP處理
+首先我們先計算a, b字串中
+定義: nxt[i][j] = 前i個字串 + ('a'+j)之後的kmp函數
+kmp函數=max{j} a[0~j-1] = a[len-j~len]
+
+定義: dp[i][j][k] = 考慮S到第i個 and a已經計算了0~j-1, b已經計算了0~k-1
+轉移方程式:
+c = S[i] or '*'
+j = 0~len_a
+k = 0~len_b
+na = a_nxt[j][c]
+nb = b_nxt[k][c]
+dp[i][na][nb] = dp[i-1][j][k] + (na==n) - (nb==m)
+
 
 # Code
 ```cpp
