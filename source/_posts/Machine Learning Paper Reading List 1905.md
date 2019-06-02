@@ -1,7 +1,6 @@
 ---
 title: Machine Learning Paper Reading List 1905
 tags:
-	- Machine Learning
 	- Gaussian Processes
 	- Neural Processes
 	- Kernel Methods
@@ -40,7 +39,7 @@ Variational Inference
 [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](https://arxiv.org/abs/1902.04615)
 [Stein Points](https://arxiv.org/abs/1803.10161)
 [Stein Point Markov Chain Monte Carlo](https://arxiv.org/abs/1905.03673)
-[A Contrastive Divergence for Combining Variational Inference and MCMC]https://arxiv.org/abs/1905.04062()
+[A Contrastive Divergence for Combining Variational Inference and MCMC](https://arxiv.org/abs/1905.04062)
 [Unsupervised Learning by Competing Hidden Units](https://arxiv.org/abs/1806.10181)
 [Correlated Variational Auto-Encoders](https://arxiv.org/abs/1905.05335)
 [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272)
