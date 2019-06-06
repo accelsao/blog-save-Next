@@ -71,6 +71,8 @@ date: 2018-09-15 21:06:57
 		
 		>再怎麼說, 我真正愛的是追逐他的旅程 19/05/23
 	
+	* 《東京教父》
+	
 * 動畫	
 	* 《比宇宙更遠的地方》
 		
@@ -152,7 +154,11 @@ date: 2018-09-15 21:06:57
 	* 在地下城尋求邂逅是否搞錯了什麼
 	* 為美好的世界獻上祝福！
 	* 来自新世界
-	* 刀劍神域(前部分)
+	* 加速世界
+	
+		> 七王會議上把blackvise的真身扒下皮, 開始了殲滅作戰 結果又被移到無限制中立世界 所以我說那個惠到底發生甚麼事情了... 19/06/05
+		
+	* 刀劍神域
 
 		>Underworld前半不錯,後半狗屎 19/03/29
 
@@ -352,6 +358,8 @@ date: 2018-09-15 21:06:57
 			* [After Dark](https://www.youtube.com/watch?v=J_IsnEZcl4E)
 			* [Rewrite](https://www.youtube.com/watch?v=ZmeudwRMrsU)
 		* 揺らぎ [揺らぎofficial](https://yuragiyurajapan.jimdo.com/) [揺らぎtwitter](https://twitter.com/_yuragi_yura)
+		* Linked Horizon
+			* [暁の鎮魂歌](https://www.youtube.com/watch?v=Y5UC3aTW6co)
 	* 歌手
 		* ASCA
 			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
@@ -594,7 +602,7 @@ date: 2018-09-15 21:06:57
 	* Others
 		* [Classical Music](https://www.youtube.com/watch?v=mIYzp5rcTvU)
 		* [Sad Romance (Violin Version)](https://www.youtube.com/watch?v=aFZ7bBaYpcw)
-		* HAMOTSUKIN BEST～Original Disc～
+		* [HAMOTSUKIN BEST～Original Disc～](https://www.youtube.com/watch?v=PlEKXtYb_c4)【全曲試聴】
 			* 水晶に映る姫君 歌: 霜月はるか、茶太、片霧烈火
 		
 * 經典名句

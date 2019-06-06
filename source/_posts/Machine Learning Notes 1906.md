@@ -1,7 +1,8 @@
 ---
 title: Machine Learning Notes 1906
 tags:
-  - null
+  - Meta-Learning
+  - Representation Learning
 categories:
   - Machine Learning
 mathjax: false
@@ -18,17 +19,37 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 # TO READ
 
 ## Topics
+`Meta-Learning`
+`Geometric deep learning on graphs and manifolds`
 
 ## Papers
+[Geometric deep learning: going beyond Euclidean data](https://arxiv.org/abs/1611.08097)
+[Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
+[On Training Recurrent Neural Networks for Lifelong Learning](https://arxiv.org/abs/1811.07017)
+[Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections](https://arxiv.org/abs/1905.13195)
+[Online Meta-Learning](https://arxiv.org/abs/1902.08438)
 [Advances in Variational Inference](https://arxiv.org/abs/1711.05597)
 [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922)
 
 ## Projects
+[dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch)
+[y2l/mini-imagenet-tools](https://github.com/y2l/mini-imagenet-tools)
+
 
 # Notes
 
+## [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+一個簡單暴力的 meta-learning 方法
+
+## [Geometric Losses for Distributional Learning](https://arxiv.org/abs/1905.06005)
+公式很吃力 需補數學
+
+## [Meta-Learning Representations for Continual Learning](https://arxiv.org/abs/1905.12588)
+[khurramjaved96/mrcl](https://github.com/Khurramjaved96/mrcl)
+
+
 ## [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
-1. The disantanglement scores of unsupervised models are heavily influenced by randomness(random seed) and the choice of the hyperparameter(regularization strength).
+The disantanglement scores of unsupervised models are heavily influenced by randomness(random seed) and the choice of the hyperparameter(regularization strength).
 The objective function appears to have less impact.
 
 
