@@ -1,11 +1,11 @@
 ---
-title: Variational Inference
+title: Introduction to Networks
 tags:
   - null
 categories:
   - null
 mathjax: false
-date: 2019-04-27 14:46:03
+date: 2019-06-08 09:50:31
 ---
 
 

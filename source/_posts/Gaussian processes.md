@@ -4,8 +4,6 @@ tags:
   - Gaussian processes
 categories:
   - Machine Learning
-  - Machine Learning A Probabilistic Perspective
-  - Reading Notes
 mathjax: true
 date: 2019-05-01 09:06:13
 ---

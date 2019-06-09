@@ -1,11 +1,11 @@
 ---
 title: Hackerrank - Playing With Characters
 tags:
-- C
-- Hackerrank
+	- C
+	- Hackerrank
 categories:
-- Programming language
-  
+	- Programming Language
+
 mathjax: true
 date: 2018-09-18 20:50:25
 ---

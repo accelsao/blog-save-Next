@@ -25,7 +25,6 @@ date: 2019-04-20 15:16:05
 ## Main Difference
 Threads run in shared memory space, while processes run in seperate memory space
 
-
 # Ch.8
 
 ## QA

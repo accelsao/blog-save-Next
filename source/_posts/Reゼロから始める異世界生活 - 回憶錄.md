@@ -3,7 +3,7 @@ title: Reゼロから始める異世界生活 - 回憶錄
 tags:
   - Reゼロから始める異世界生活
 categories:
-  - Novel
+  - 輕小說
 mathjax: false
 date: 2019-03-31 21:02:17
 ---
