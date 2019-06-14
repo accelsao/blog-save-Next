@@ -376,15 +376,16 @@ date: 2018-09-15 21:06:57
 		* ASCA
 			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
 		* Aimer
-			* Brave Shine
-			* Last Stardust
-			* Ninelie
 			* [Black Bird](https://www.youtube.com/watch?v=Svg5LG6VQV0)
+			* Brave Shine
+			* [Falling Alone ft. Taka from ONE OK ROCK](https://www.youtube.com/watch?v=HFge59EL2yU)
 			* [I beg you](https://www.youtube.com/watch?v=Zf3xNj39Eio)
 			* [i-mage](https://www.youtube.com/watch?v=P_D6l48mWSs)
+			* Last Stardust
+			* Ninelie
+			* [us ft.TK from Ling Tosite Sigure](https://www.youtube.com/watch?v=mCVHmS1HNCI)
 			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 			* 花の唄
-			* [us ft.TK from Ling Tosite Sigure](https://www.youtube.com/watch?v=mCVHmS1HNCI)
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
@@ -565,7 +566,7 @@ date: 2018-09-15 21:06:57
 		* 約束のネバーランド
 			* [イザベラの唄](https://www.youtube.com/watch?v=rTJjtSP-ORc)
 		* 進擊的巨人
-			* Call Your Name
+			* [Call Your Name](https://www.youtube.com/watch?v=pFoc5XKkIIw)
 			* Great escape
 			* So ist es immer
 			* 心臓を捧げよ

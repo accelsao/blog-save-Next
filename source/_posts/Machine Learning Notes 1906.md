@@ -1,8 +1,10 @@
 ---
 title: Machine Learning Notes 1906
 tags:
-  - Meta-Learning
+  - Meta Learning
   - Representation Learning
+  - Variational Autoencoders
+  - Geometric Deep Learning
 categories:
   - Machine Learning
 mathjax: true
@@ -18,24 +20,34 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 # TO READ
 
 ## Topics
+[`2-satisfiability`](https://en.wikipedia.org/wiki/2-satisfiability)
+`Disentangled Representation Learning`
+`Gaussian Process`
+`Variational Autoencoders`
 [`Jacobi's formula`](https://en.wikipedia.org/wiki/Jacobi's_formula)
 [`Taylor series`](https://en.wikipedia.org/wiki/Taylor_series)
 `Geometric deep learning on graphs and manifolds`
 `Meta-Learning`
 
+
 ## Papers
-[Residual Flows for Invertible Generative Modeling](https://arxiv.org/abs/1906.02735)
+[Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/abs/1903.03571)
+[Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
+[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+[Geometric Losses for Distributional Learning](https://arxiv.org/abs/1905.06005)
 [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
-[Hamiltonian descent for composite objectives](https://arxiv.org/abs/1906.02608)
+[Disentangled State Space Representations](https://arxiv.org/abs/1906.03255)
+[DeepMDP: Learning Continuous Latent Space Models for Representation Learning](https://arxiv.org/abs/1906.02736)
+[Residual Flows for Invertible Generative Modeling](https://arxiv.org/abs/1906.02735)
 [Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes](https://arxiv.org/abs/1810.05148)
 [Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
-[On Training Recurrent Neural Networks for Lifelong Learning](https://arxiv.org/abs/1811.07017)
 [Modeling Uncertainty by Learning a Hierarchy of Deep Neural Connections](https://arxiv.org/abs/1905.13195)
 [Online Meta-Learning](https://arxiv.org/abs/1902.08438)
 [Advances in Variational Inference](https://arxiv.org/abs/1711.05597)
 [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922)
 
 ## Projects
+[khurramjaved96/mrcl](https://github.com/Khurramjaved96/mrcl)
 [dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch)
 [y2l/mini-imagenet-tools](https://github.com/y2l/mini-imagenet-tools)
 
@@ -46,7 +58,15 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 
 # Notes
 
+## [Functional Regularisation for Continual Learning](https://arxiv.org/abs/1901.11356)
+
+(i) Apply data distillation and variational sparse GP inference in sequential fashion for function space regularisation in CL
+
+Q1. why sample to weight space
+
 ## [Invertible Residual Networks](https://arxiv.org/abs/1811.00995)
+
+### Formula Derivatives
 Proof. \\(ln(1-x) = -\sum^{\infty}_{n=1}\frac{x^n}{n}\\)
 $$
 \frac{d}{dx}ln(1-x) = \frac{-1}{ln(1-x)} \\
@@ -73,19 +93,22 @@ using large conditioning stacks in top-level prior instead of self-attention due
 ![](https://i.imgur.com/KsT8jxq.png)
 ![](https://i.imgur.com/geOYOHJ.png)
 
-## [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
-一個簡單暴力的 meta-learning 方法
-
-## [Geometric Losses for Distributional Learning](https://arxiv.org/abs/1905.06005)
-公式很吃力 需補數學
-
 ## [Meta-Learning Representations for Continual Learning](https://arxiv.org/abs/1905.12588)
 Q1. TLN 具體是什麼
-[khurramjaved96/mrcl](https://github.com/Khurramjaved96/mrcl)
 
 ## [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359)
-The disantanglement scores of unsupervised models are heavily influenced by randomness(random seed) and the choice of the hyperparameter(regularization strength).
-The objective function appears to have less impact.
+`ICML 2019 Best Paper`
+
+(i) A factorising aggregated posterior does not seem to necessarily imply that the dimensions in the representation are uncorrelated.
+(ii) Random seeds and hyperparameters seem to matter more than model but tunning seem to require supervision.
+(iii) We didnt observe that increased disentanglement implies a decreased sample complexity of learning downstream tasks.
+
+Theorem 1 show that unsupervised distentanglement learning is fundamentally impossible for arbitrary generative models.
+
+Q1. factorized prior? non-factorized prior?
+Q2. why Theorem 1 shows that we need inductive biases on data set? (詳見 B Proof of Theorem 1)
+
+
 
 
 

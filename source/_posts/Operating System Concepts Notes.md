@@ -71,3 +71,15 @@ a. 一開始是 columns change, size 200 所以 i 跑2個才會發生一次 page
 b. 一開始 row change 所以 row 跑2個 其實就跑過 200 size 得到1次 page fault
 (100 / 2) * 100(j的部分) = 5000
 
+
+# 名詞解釋
+1. Starvation
+一個process wait infinitely without receiving resoure
+2. Paged Segmentation
+divide segments into pages
+
+
+
+# 參考
+[OS - Ch8 記憶體管理 Memory Management](https://mropengate.blogspot.com/2015/01/operating-system-ch8-memory-management.html)
+[[試題] 103下 郭大維 作業系統 期末考+解答](https://www.ptt.cc/bbs/NTU-Exam/M.1437210714.A.B8A.html)
