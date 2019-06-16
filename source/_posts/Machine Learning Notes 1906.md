@@ -20,6 +20,7 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 # TO READ
 
 ## Topics
+`Gaussian Process Regression`
 [`2-satisfiability`](https://en.wikipedia.org/wiki/2-satisfiability)
 `Disentangled Representation Learning`
 `Gaussian Process`
@@ -29,14 +30,11 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 `Geometric deep learning on graphs and manifolds`
 `Meta-Learning`
 
-
 ## Papers
-[Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/abs/1903.03571)
 [Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
 [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 [Geometric Losses for Distributional Learning](https://arxiv.org/abs/1905.06005)
 [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691)
-[Disentangled State Space Representations](https://arxiv.org/abs/1906.03255)
 [DeepMDP: Learning Continuous Latent Space Models for Representation Learning](https://arxiv.org/abs/1906.02736)
 [Residual Flows for Invertible Generative Modeling](https://arxiv.org/abs/1906.02735)
 [Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes](https://arxiv.org/abs/1810.05148)
@@ -57,6 +55,24 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 [Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl/accepted-papers?authuser=0)
 
 # Notes
+
+## [Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/abs/1903.03571)
+Use upper bounds of KL divergence that depend on the quality of Nysrom approximation to the data covarience matrix.
+It proves that the greater the smoothness of functions in the prior and the greater the concentration of observations in input space, the sparser an approximation can be made.
+
+## [Disentangled State Space Representations](https://arxiv.org/abs/1906.03255)
+
+![](https://i.imgur.com/SLdUOsz.png)
+
+A Lower bound derivation
+KL term 是否有誤? 應該為negative term吧
+$$
+KL(q(S|X)||p_{0}(S)) = \int_{S}q(S|X)log\frac{p_{0}(S)}{q(S|X)}
+$$
+
+## [Self-Supervised Exploration via Disagreement](https://arxiv.org/abs/1906.04161)
+
+![](https://i.imgur.com/rijTjKh.png)
 
 ## [Functional Regularisation for Continual Learning](https://arxiv.org/abs/1901.11356)
 

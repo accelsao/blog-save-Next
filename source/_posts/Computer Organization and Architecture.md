@@ -37,3 +37,12 @@ Miss = 0.02 * [64 + 64 * 0.3] * 0.05 ( memory 搬一個 block 到 cache 64  + cp
 
 
 還有一題 5.1.4 = 8*8000 / 4(A) + 8 / 4(B) 這樣嗎?
+
+
+
+Single  Cycle
+CPI = 1
+clock cycle rate = long
+Multi
+CPI = small
+

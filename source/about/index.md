@@ -67,6 +67,8 @@ date: 2018-09-15 21:06:57
 	
 		>今敏經典鉅作
 		
+	* 《聲之形》
+	* 《命運石之門 負荷領域的既視感》
 	* 《樂園追放》
 	* 《攻殼機動隊 GHOST IN THE SHELL》
 	* 《千年女優》
@@ -106,6 +108,7 @@ date: 2018-09-15 21:06:57
 		>少數喜歡的搞笑番 19/04/14
 		
 	* 《NO GAME NO LIFE 遊戲人生》
+	* 《關於我轉生變成史萊姆這檔事》
 	* 《吹響吧！上低音號 S2》
 	* 《吹響吧！上低音號～歡迎加入北宇治高中吹奏樂部～》
 	* 《Princess Principal》
@@ -132,6 +135,9 @@ date: 2018-09-15 21:06:57
 	* 《ACCA13區監察課》
 	* 《東京殘響》
 	* 《死亡遊行》
+	* 《暮蟬悲鳴時解》
+	* 《暮蟬悲鳴時》
+	* 《七大罪 聖戰的預兆》
 * 小說
 	* 住野夜
 		* 《又做了，相同的夢》
@@ -241,6 +247,7 @@ date: 2018-09-15 21:06:57
 			* [ö=Simple Is!](https://www.youtube.com/watch?v=exIWXjTtuGY)
 			* [絶体絶命](https://www.youtube.com/watch?v=6WNk9yMNovs)
 			* [Flashback / フラッシュバック](https://www.youtube.com/watch?v=RM-o5lFpVxs)
+			* [Supercell](https://www.youtube.com/watch?v=T4hLmQUb5pg)
 		* FERN PLANET
 			* [ソルジャーガールズ](https://www.youtube.com/watch?v=EnZuLUHEpFs)
 		* Fear, and Loathing in Las Vegas
@@ -375,6 +382,7 @@ date: 2018-09-15 21:06:57
 	* 歌手
 		* ASCA
 			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)
+			* [RESISTER](https://www.youtube.com/watch?v=CX7LehcedOg)
 		* Aimer
 			* [Black Bird](https://www.youtube.com/watch?v=Svg5LG6VQV0)
 			* Brave Shine
@@ -473,6 +481,8 @@ date: 2018-09-15 21:06:57
 			* [EONIAN / イオニアン / 樂園追放 -Expelled from Paradise- Theme Song](https://www.youtube.com/watch?v=wPMF94vb0JI)
 		* 日笠陽子
 			* [美麗殘忍的世界](https://www.youtube.com/watch?v=2gkCGjuuwP4)
+		* JUNNA
+			* [Here](https://www.youtube.com/watch?v=yq6VhQGz-no) `魔法使新娘 OP`
 	* 遊戲/動畫/電影 OST/BGM
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
