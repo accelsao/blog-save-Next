@@ -20,6 +20,10 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 # TO READ
 
 ## Topics
+`Lebesgue measures`
+[`Importance sampling`](https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf)
+[`Hölder's inequality`](https://en.wikipedia.org/wiki/H%C3%B6lder%27s_inequality)
+[`Markov's inequality`](https://en.wikipedia.org/wiki/Markov%27s_inequality)
 `Gaussian Process Regression`
 [`2-satisfiability`](https://en.wikipedia.org/wiki/2-satisfiability)
 `Disentangled Representation Learning`
@@ -31,6 +35,10 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 `Meta-Learning`
 
 ## Papers
+[Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723)
+`Towards a Definition of Disentangled Representations`
+[Reweighted Expectation Maximization](https://arxiv.org/abs/1906.05850)
+[Functional Regularisation for Continual Learning](https://arxiv.org/abs/1901.11356)
 [Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
 [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
 [Geometric Losses for Distributional Learning](https://arxiv.org/abs/1905.06005)
@@ -45,6 +53,9 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922)
 
 ## Projects
+[NVlabs/FUNIT](https://github.com/nvlabs/FUNIT/)
+完成 maml baseline
+完成 continual learning baseline
 [khurramjaved96/mrcl](https://github.com/Khurramjaved96/mrcl)
 [dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch)
 [y2l/mini-imagenet-tools](https://github.com/y2l/mini-imagenet-tools)
@@ -55,6 +66,9 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 [Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl/accepted-papers?authuser=0)
 
 # Notes
+
+## [Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network](https://arxiv.org/abs/1808.03314)
+The detail math in RNN and LSTM.
 
 ## [Rates of Convergence for Sparse Variational Gaussian Process Regression](https://arxiv.org/abs/1903.03571)
 Use upper bounds of KL divergence that depend on the quality of Nysrom approximation to the data covarience matrix.

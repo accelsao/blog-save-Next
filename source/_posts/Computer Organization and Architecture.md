@@ -40,9 +40,19 @@ Miss = 0.02 * [64 + 64 * 0.3] * 0.05 ( memory 搬一個 block 到 cache 64  + cp
 
 
 
-Single  Cycle
-CPI = 1
-clock cycle rate = long
-Multi
-CPI = small
+| Single - Cycle | Multi - Cycle |
+--- |
+CPI | 1 | > 1
+Clock Time | long | short
+Clock Rate | short | long
+Throughout(單位時間完成工作量) | less | more
+
+![](https://i.imgur.com/ua5gKRq.png)
+![](https://i.imgur.com/hbqp36A.png)
+
+TLB
+![](https://i.imgur.com/sTpR7QC.png)
+
+
+
 

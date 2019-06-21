@@ -295,6 +295,9 @@ date: 2018-09-15 21:06:57
 			* ナナヒツジ
 		* Supercell
 			* [My Dearest](https://www.youtube.com/watch?v=nIrYjzHAEp0)
+			* [私へ](https://www.youtube.com/watch?v=xgsaGUlKJng)
+			* [Sayonara Memories](https://www.youtube.com/watch?v=QiVkKYw8Iao)
+			* [Utakata Hanabi](https://www.youtube.com/watch?v=4KkLuRFtuCc)
 		* TK from 凛として時雨 / 凛として時雨 / Ling Tosite Sigure
 
 			>TK的歌真是對味 加分 19/05/10
@@ -320,6 +323,8 @@ date: 2018-09-15 21:06:57
 		* Vast & Hazy
 			* [求救訊號 I'm Not OK](https://www.youtube.com/watch?v=stQ_IfKJBCU)
 			* 歸屬 Eleanor
+			* [拾起 Move On](https://www.youtube.com/watch?v=pBQK-Lwt1sA)
+			* [【yet,】](https://www.youtube.com/watch?v=v-7ygGWkU8A)
 		* XX:me
 			* Escape
 		* [みうめ・メイリア・217]
@@ -394,6 +399,7 @@ date: 2018-09-15 21:06:57
 			* [us ft.TK from Ling Tosite Sigure](https://www.youtube.com/watch?v=mCVHmS1HNCI)
 			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 			* 花の唄
+			* [STAND-ALONE](https://www.youtube.com/watch?v=PJtRYr0LA1o)
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
