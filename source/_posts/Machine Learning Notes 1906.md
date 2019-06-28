@@ -5,6 +5,7 @@ tags:
   - Representation Learning
   - Variational Autoencoders
   - Geometric Deep Learning
+  - stochastic processes
 categories:
   - Machine Learning
 mathjax: true
@@ -12,7 +13,7 @@ date: 2019-06-02 07:03:21
 ---
 
 Subjects | `cs.LG` `stat.ML` `cs.CV`
-Conference | [ICML 2019 Oral](https://icml.cc/Conferences/2019/Schedule?type=Oral), [CVPR 2019](http://cvpr2019.thecvf.com/program/main_conference#program_schedule)
+Conference | [ICML 2019 Oral](https://icml.cc/Conferences/2019/Schedule?type=Oral), [CVPR 2019](http://cvpr2019.thecvf.com/program/main_conference)
 Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.berkeley.edu/~cbfinn/_files/dissertation.pdf)
 
 <!--more-->
@@ -20,6 +21,9 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 # TO READ
 
 ## Topics
+`stochastic processes`
+`Hermitian adjoint`
+`Legendre transformation`
 `Lebesgue measures`
 [`Importance sampling`](https://statweb.stanford.edu/~owen/mc/Ch-var-is.pdf)
 [`Hölder's inequality`](https://en.wikipedia.org/wiki/H%C3%B6lder%27s_inequality)
@@ -35,8 +39,15 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 `Meta-Learning`
 
 ## Papers
+`ANODE: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs`
+`Neural ODEs`
+`On Statistical Optimality of Variational Bayes`
+[Gauge Equivariant Convolutional Networks and the Icosahedral CNN](https://arxiv.org/abs/1902.04615)
+[Reparameterizing Distributions on Lie Groups](https://arxiv.org/abs/1903.02958)
+[A Theory of Fermat Paths for Non-Line-of-Sight Shape Reconstruction](http://imaging.cs.cmu.edu/fermat_paths/assets/cvpr2019.pdf) `CVPR 2019 Best Paper`
+[Towards a Definition of Disentangled Representations](https://arxiv.org/abs/1812.02230)
+[Wasserstein Reinforcement Learning](https://arxiv.org/abs/1906.04349)
 [Few-Shot Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1905.01723)
-`Towards a Definition of Disentangled Representations`
 [Reweighted Expectation Maximization](https://arxiv.org/abs/1906.05850)
 [Functional Regularisation for Continual Learning](https://arxiv.org/abs/1901.11356)
 [Disentangling Factors of Variation Using Few Labels](https://arxiv.org/abs/1905.01258)
@@ -53,19 +64,36 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922)
 
 ## Projects
-[NVlabs/FUNIT](https://github.com/nvlabs/FUNIT/)
-完成 maml baseline
-完成 continual learning baseline
-[khurramjaved96/mrcl](https://github.com/Khurramjaved96/mrcl)
 [dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch)
+[NVlabs/FUNIT](https://github.com/nvlabs/FUNIT/)
+[khurramjaved96/mrcl](https://github.com/Khurramjaved96/mrcl)
 [y2l/mini-imagenet-tools](https://github.com/y2l/mini-imagenet-tools)
 
-## WorkShop
+## WorkShop & Tutorial
+[PDE-constrained optimization and the adjoint method](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf)
+[A Primer on PAC-Bayesian Learning](https://bguedj.github.io/icml2019/index.html)
+[Variational Bayes and beyond: Bayesian inference for big data](http://www.tamarabroderick.com/tutorial_2018_icml.html)
+[GrandBallroom_Dec4_1_A Primer on Optimal Transport](https://vimeo.com/248504509)
+[Gaussian Processes - Neil Lawrence's Talks](http://inverseprobability.com/talks/notes/gaussian-processes.html)
+[Meta-Learning: from Few-Shot Learning to Rapid  Reinforcement Learning - ICML 2019 Tutorial](https://sites.google.com/view/icml19metalearning)
 [The 2nd Learning from Limited Labeled Data (LLD) Workshop](https://lld-workshop.github.io/)
 [Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2019/accepted-papers?authuser=0)
 [Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl/accepted-papers?authuser=0)
 
 # Notes
+
+## [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111)
+
+
+## [Automated Scalable Bayesian Inference via Hilbert Coresets](https://arxiv.org/abs/1710.05053)
+![](https://i.imgur.com/fdoLeep.png)
+
+## A Conceptual Introduction to Hamiltonian Monte Carlo
+為了保持在typical set, 加入momentum的概念是HMC的主要概念 kinetic energy+ potential energy
+
+## [The Functional Neural Process](https://arxiv.org/abs/1906.08324)
+exchangable stochastic processes
+![](https://i.imgur.com/oBVRZQL.png)
 
 ## [Fundamentals of Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM) Network](https://arxiv.org/abs/1808.03314)
 The detail math in RNN and LSTM.

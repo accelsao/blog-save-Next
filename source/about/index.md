@@ -77,7 +77,7 @@ date: 2018-09-15 21:06:57
 	
 	* 《東京教父》
 	
-* 動畫	
+* 動畫	(未滿12集 or OVA就不列入)
 	* 《比宇宙更遠的地方》
 		
 		>催淚又勵志 19/04/14
@@ -137,7 +137,6 @@ date: 2018-09-15 21:06:57
 	* 《死亡遊行》
 	* 《暮蟬悲鳴時解》
 	* 《暮蟬悲鳴時》
-	* 《七大罪 聖戰的預兆》
 * 小說
 	* 住野夜
 		* 《又做了，相同的夢》
@@ -148,23 +147,20 @@ date: 2018-09-15 21:06:57
 		* 《夢幻花》
 		* 《誰殺了她》
 * 輕小說	
-	* 《歡迎來到實力至上主義教室》
+	* 《果然我的青春戀愛喜劇搞錯了》作者: 渡航
+
+		>不斷的傷害自己, 用最爛的方法來解決問題的比企谷 果然, 我還是無法理解你的溫柔呢 19/05/10
+		>第八卷看到一半 矛盾開始產生 彼此想法開始有落差 葉山和比企谷衝突這段我怎麼忘了阿 我還是覺得比企谷你是在自我犧牲 快醒醒吧你明明清楚的只是不想否定自己的過去 19/06/21
+
+	* 《歡迎來到實力至上主義教室》作者: 衣笠彰梧
 	
-		>第十捲神捲!!! 最後的結果A班和D班都猜錯了, 尤其是D班居然沒想到跟B班利害一致, 十分完美的留住了龍園
-		看完這捲直接在我心作踏上第一名輕小寶座 19/05/31
+		>第十捲神捲!!! 最後的結果A班和D班都猜錯了, 尤其是D班居然沒想到跟B班利害一致, 十分完美的留住了龍園 看完這捲直接在我心作踏上第一名輕小寶座 19/05/31
 		
 	* 《Re:ゼロから始める異世界生活》 作者：長月達平
 
-			>看了第11,12卷第4章後排名直接竄升第一
-			這邊的心境, 情緒, 情報量帶來的衝擊非一言可語 直接震撼腦隨阿 19/03/29
-			看完了第4章 要說遺憾的話可能還是小丑的轉變讓我覺得違和, 還以為會經歷更深刻的契機才會使它轉變
-			後面收尾的穩穩的 雖然略為可惜, 但居然征服了傲嬌小蘿莉, 這讓我比較驚訝呢 19/05/10
+		>看了第11,12卷第4章後排名直接竄升第一 這邊的心境, 情緒, 情報量帶來的衝擊非一言可語 直接震撼腦隨阿 19/03/29
+		看完了第4章 要說遺憾的話可能還是小丑的轉變讓我覺得違和, 還以為會經歷更深刻的契機才會使它轉變 後面收尾的穩穩的 雖然略為可惜, 但居然征服了傲嬌小蘿莉, 這讓我比較驚訝呢 19/05/10
 			
-	* 《果然我的青春戀愛喜劇搞錯了》
-
-		>不斷的傷害自己, 用最爛的方法來解決問題的比企谷
-		果然, 我還是無法理解你的溫柔呢 19/05/10
-
 	* 《遊戲人生No game No life》 作者：榎宮佑
 	* 《龍王的工作》
 	* 《OVERLORD》
@@ -313,11 +309,16 @@ date: 2018-09-15 21:06:57
 			* [Unravel](https://www.youtube.com/watch?v=Cp5-0dZH55g)
 		* The ROOTLESS
 			* [One day](https://www.youtube.com/watch?v=8QHmMwqY5Lc)
-		* Toe
+		* Toe / toe
+			* Album
+				* [the book about my idle plot on a vague anxiety](https://www.youtube.com/watch?v=8VCCkymXplE)
 			* [Goodbye](https://www.youtube.com/watch?v=e0RWnzd_b_k)
 			* [Because I Hear You](https://www.youtube.com/watch?v=bMIYVJpOHsw)
 			* [Mukougishi ga miru yume](https://www.youtube.com/watch?v=WuTKoLJS_jo)
 			* [孤独の発明](https://www.youtube.com/watch?v=TR_GMdQZzsg)
+			* [The Latest Number](https://www.youtube.com/watch?v=EC0BvUaD_Rk)
+			* [tremolo+delay](https://www.youtube.com/watch?v=lbaNydZmx7o)
+			
 		* Tricot
 			* [ポークジンジャー](https://www.youtube.com/watch?v=h0Q_y54F070)
 		* Vast & Hazy
@@ -326,7 +327,7 @@ date: 2018-09-15 21:06:57
 			* [拾起 Move On](https://www.youtube.com/watch?v=pBQK-Lwt1sA)
 			* [【yet,】](https://www.youtube.com/watch?v=v-7ygGWkU8A)
 		* XX:me
-			* Escape
+			* [Escape](https://www.youtube.com/watch?v=H4IXYKMCpfM) `DARLING in the FRANXX - ED`
 		* [みうめ・メイリア・217]
 			* [Love Swing](https://www.youtube.com/watch?v=Wwyj6d5DGiA)
 			* [響喜乱舞](https://www.youtube.com/watch?v=SOTVTJNHa3w)
@@ -400,6 +401,7 @@ date: 2018-09-15 21:06:57
 			* [カタオモイ](https://www.youtube.com/watch?v=zSOJk7ggJts)
 			* 花の唄
 			* [STAND-ALONE](https://www.youtube.com/watch?v=PJtRYr0LA1o)
+			* [悲しみはオーロラに](https://www.youtube.com/watch?v=-f2vcJToADo)
 		* DAOKO 
 			* [かけてあげる](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 			* [さみしいかみさま](https://www.youtube.com/watch?v=cHcD1LcmxfA)
@@ -489,6 +491,8 @@ date: 2018-09-15 21:06:57
 			* [美麗殘忍的世界](https://www.youtube.com/watch?v=2gkCGjuuwP4)
 		* JUNNA
 			* [Here](https://www.youtube.com/watch?v=yq6VhQGz-no) `魔法使新娘 OP`
+		* 菅原紗由理
+			* [キミに赠る歌](https://www.youtube.com/watch?v=I-gtcv9KWLU)
 	* 遊戲/動畫/電影 OST/BGM
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
