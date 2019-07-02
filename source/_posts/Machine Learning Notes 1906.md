@@ -21,6 +21,7 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 # TO READ
 
 ## Topics
+`Uncertainty in Deep Learning`
 `stochastic processes`
 `Hermitian adjoint`
 `Legendre transformation`
@@ -64,12 +65,17 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922)
 
 ## Projects
+[autonomousvision/occupancy_networks](https://github.com/autonomousvision/occupancy_networks)
+[hjwdzh/TextureNet](https://github.com/hjwdzh/TextureNet)
+[google/TensorNetwork](https://github.com/google/TensorNetwork)
+[google/mannequinchallenge](https://github.com/google/mannequinchallenge)
 [dragen1860/MAML-Pytorch](https://github.com/dragen1860/MAML-Pytorch)
 [NVlabs/FUNIT](https://github.com/nvlabs/FUNIT/)
 [khurramjaved96/mrcl](https://github.com/Khurramjaved96/mrcl)
 [y2l/mini-imagenet-tools](https://github.com/y2l/mini-imagenet-tools)
 
 ## WorkShop & Tutorial
+[Hand-waving and interpretive dance: an introductory course on tensor networks](https://iopscience.iop.org/article/10.1088/1751-8121/aa6dc3)
 [PDE-constrained optimization and the adjoint method](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf)
 [A Primer on PAC-Bayesian Learning](https://bguedj.github.io/icml2019/index.html)
 [Variational Bayes and beyond: Bayesian inference for big data](http://www.tamarabroderick.com/tutorial_2018_icml.html)
@@ -83,6 +89,13 @@ Meta-Learning 綜述 | [Learning to Learn with Gradients](http://people.eecs.ber
 # Notes
 
 ## [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111)
+
+network is based on [`Single-Image Depth Perception in the Wild`](https://arxiv.org/abs/1604.03901)
+![](https://i.imgur.com/3sc2KtZ.png)
+如下圖 hourglass結構 回傳predict depth map and confidence map
+
+### 參考
+[MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://arxiv.org/abs/1804.00607)
 
 
 ## [Automated Scalable Bayesian Inference via Hilbert Coresets](https://arxiv.org/abs/1710.05053)

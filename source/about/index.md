@@ -112,6 +112,7 @@ date: 2018-09-15 21:06:57
 	* 《吹響吧！上低音號 S2》
 	* 《吹響吧！上低音號～歡迎加入北宇治高中吹奏樂部～》
 	* 《Princess Principal》
+	* 《七大罪 戒律的復活》
 	* 《狂賭之淵 xx》
 	* 《狂賭之淵》
 		
@@ -121,6 +122,7 @@ date: 2018-09-15 21:06:57
 	* 《全部成為F》
 	* 《寶石之國》
 	* 《來自深淵》
+	* 《我的英雄学院 第二季》
 	* 《我的英雄學院》
 	* 《五等分的新娘》
 	
@@ -420,6 +422,8 @@ date: 2018-09-15 21:06:57
 			* [逢いたくていま](https://www.youtube.com/watch?v=aiBPJwSRq58&list=RDMMbldyRH_XrOM&index=2)
 		* Miwa
 			* [片想い](https://www.youtube.com/watch?v=RAcInyl2bYM)
+		* Miyuna / みゆな
+			* [僕と君のララバイ](https://www.youtube.com/watch?v=GH7cWANydnQ)
 		* ReoNa
 			* [虹の彼方に](https://www.youtube.com/watch?v=hTyDqz-mHgQ)
 		* Reol 
@@ -516,9 +520,11 @@ date: 2018-09-15 21:06:57
 			* Swings and Roundabouts
 			* Underground River
 			* [Hanezeve Caradhina](https://www.youtube.com/watch?v=KPxSS1zHWwQ)
-		* Maple Story
+		* Maple Story BGM
 			* Black Heaven
 				* [Promise of Heaven ( instrumental ver. )](https://www.youtube.com/watch?v=usGdjxNEf2E&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=438)
+			* [Cygnus Garden](https://www.youtube.com/watch?v=Y3RCDa6qo6w)
+			* [Dancing with the Moon](https://www.youtube.com/watch?v=E7wxS2y6h6M)
 			* Floating Market
 				* [Thai Town](https://www.youtube.com/watch?v=2sJP_wp2pBg&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=193)
 			* Kerning City
@@ -547,7 +553,7 @@ date: 2018-09-15 21:06:57
 				* [Underground Place](https://www.youtube.com/watch?v=SNuR31g7gqI&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=8)
 			* [Nautilus](https://www.youtube.com/watch?v=iZaVKkfuD6s&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=182)
 			* [Netts Pyramid](https://www.youtube.com/watch?v=up7ugury9zc&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=181)
-			* 耶雷弗 / Ereve
+			* Ereve
 				* [Raindrop Flower](https://www.youtube.com/watch?v=DhUdOO9UNwY&list=PLARr36qkoiWauQAldeOiIxQvuTAI3KLIc&index=220)
 				* [皇后之路 / Queen's Garden](https://www.youtube.com/watch?v=3r9s43TG9yA)
 		* NieR: Automata
