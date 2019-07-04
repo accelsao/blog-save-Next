@@ -1,26 +1,24 @@
 ﻿---
 title: CS Academy - Firestarter
 tags:
-  - CS Academy
-  - Graphs
-  - Shortest Path
+  - graphs
 categories:
-  - Competitive Programming
+  - CS Academy
+mathjax: true
 date: 2018-07-06 10:30:28
 ---
 
-
+解題心得
+19/07/03 好題回顧 但還是忘了怎麼處理一邊多個火點
+<!--more-->
 
 # Problem
-
 給你有權圖G,N個點,M條邊
 然後Q筆更新
 給你T,A,B,X
 代表時間T的時候 ,在AB邊上在距離A X單位的地方會開始燒
 問你什麼時候這張圖會被燒完
 火會往所有相鄰處燒 燒的速度1/s
-
-<!--more-->
 
 # Constraints and Notes
 * \\(1\leq N \leq 10^{5}\\)
@@ -32,8 +30,6 @@ date: 2018-07-06 10:30:28
 * 圖是相連的
 * 圖沒有重邊或是自環
 * Q筆更新出現的邊保證一定屬於那M條邊
-
-
 
 # Solution
 這題還蠻有意思的 雖然code蠻長的
@@ -191,5 +187,107 @@ int main(){Accel
 		}
 	}
    	cout<<fixed<<setprecision(1)<<ans<<endl;
+}
+```
+
+19/07/03
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+#define F first
+#define S second
+typedef long long ll;
+const int N = 2e5+10;
+const int M = 1e9 + 7;
+const int inf = 1234567890;
+const ll INF = 1e18;
+
+int n,m,q;
+vector<pair<ll, int>> g[N];
+int len[N];
+int _tm[N];//time
+int u[N];
+int v[N];
+ll dis[N];
+map<pair<int,int>, int>edge_id;
+vector<pair<int,int>> f[N];//fire edge
+int main(){
+	ios::sync_with_stdio(0),cin.tie(0),cout.tie(0);
+	cin>>n>>m>>q;
+	int d;
+	for(int i=0;i<m;i++){
+		cin>>u[i]>>v[i]>>len[i];
+		if(u[i]>v[i])swap(u[i],v[i]);
+		edge_id[{u[i], v[i]}]=i;
+		edge_id[{v[i], u[i]}]=i;
+	}
+	int a, b;
+	for(int i=1;i<=q;i++){
+		cin>>_tm[i+n]>>a>>b>>d;
+		int id=edge_id[{a, b}];
+		if(a>b){
+			swap(a,b);
+			d=len[id]-d;
+		}
+		f[id].push_back({d, i+n});
+	}
+	for(int i=0;i<m;i++){
+		
+		if(f[i].size()==0){
+			g[u[i]].push_back({len[i], v[i]});
+			g[v[i]].push_back({len[i], u[i]});
+		}
+		else{
+			sort(f[i].begin(), f[i].end());
+			for(const auto& e:f[i]){
+				g[0].push_back({_tm[e.S], e.S});
+			}
+			for(int j=0;j+1<f[i].size();j++){
+				g[f[i][j].S].push_back({f[i][j+1].F-f[i][j].F, f[i][j+1].S});
+				g[f[i][j+1].S].push_back({f[i][j+1].F-f[i][j].F, f[i][j].S});
+			}
+			g[u[i]].push_back({f[i][0].F, f[i][0].S});
+			g[f[i][0].S].push_back({f[i][0].F, u[i]});
+			
+			g[v[i]].push_back({len[i]-f[i].back().F, f[i].back().S});
+			g[f[i].back().S].push_back({len[i]-f[i].back().F, v[i]});
+			
+		}
+	}
+	priority_queue<pair<ll, int>>Q;
+	Q.push({0, 0});
+	for(int i=1;i<=n+q;i++)dis[i]=INF;
+	dis[0]=0;
+	while(Q.size()){
+		int u=Q.top().S;
+		ll d=-Q.top().F;Q.pop();
+		if(dis[u]<d)continue;
+		for(const auto& e:g[u]){
+			int v=e.S;
+			ll _d=e.F;
+//			printf("%d %d %lld\n", u, v, _d);
+			if(dis[v]>dis[u]+_d){
+				dis[v]=dis[u]+_d;
+				Q.push({-dis[v], v});
+			}
+		}
+	}
+//	for(int i=0;i<=n+q;i++)
+//		printf("dis%d: %lld\n", i, dis[i]);
+	
+	double ans=0;
+	for(int u=1;u<=n+q;u++){
+		for(const auto& e:g[u]){
+			int v=e.S;
+			ll d=e.F;
+			if(v==0)continue;
+			double max_d=1.0*max(dis[u], dis[v]);
+			ans=max(ans, max_d);
+			ll dif=d - abs(dis[u]-dis[v]);
+			ans=max(ans, max_d + 0.5*dif);
+		}
+	}
+	printf("%lf\n", ans);
 }
 ```

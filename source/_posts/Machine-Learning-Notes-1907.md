@@ -1,10 +1,10 @@
 ---
 title: Machine Learning Notes 1907
 tags:
-  - Gradient Estimator
   - Monte Carlo
   - Neural Processes
   - Varience Reduction
+  - PAC-Bayes
 categories:
   - Machine Learning
 mathjax: false
@@ -12,13 +12,15 @@ date: 2019-07-01 09:43:44
 ---
 
 Subjects | `cs.LG` `stat.ML` `cs.CV` `math.OC`
-Paper with Code | [CVPR 2019](https://paperswithcode.com/conference/cvpr-2019-6)
 <!--more-->
 
 # Topics
+`PAC-Bayes`
+`Variance reduction`
 `Importance sampling`
 
 # Papers
+[The Functional Neural Process](https://arxiv.org/abs/1906.08324)
 [Sequential Neural Processes](https://arxiv.org/abs/1906.10264)
 [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)
 
@@ -28,8 +30,14 @@ Paper with Code | [CVPR 2019](https://paperswithcode.com/conference/cvpr-2019-6)
 # WorkShop
 
 # Tutorial
+[A Primer on PAC-Bayesian Learning](https://bguedj.github.io/icml2019/index.html)
 
 # Notes
+
+## [Neural Processes](https://arxiv.org/abs/1807.01622)
+![](https://i.imgur.com/7PRPpv7.png)
+### Futere works
+can we scale NPs up to higher dimensional problem with low computational complexity and data driven representation
 
 ## [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652)
 1. score-function estimator

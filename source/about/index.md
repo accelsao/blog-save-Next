@@ -86,6 +86,7 @@ date: 2018-09-15 21:06:57
 	* [《Re:ゼロから始める異世界生活》](http://re-zero-anime.jp/)
 		
 		>15神回, 18愛的告白 19/04/14
+	* 《進擊的巨人 S3》
 	* 《進擊的巨人 S2》
 		
 		>不平凡不好嗎? 能夠健康生在這世上, 就已經是奇蹟了
@@ -387,6 +388,8 @@ date: 2018-09-15 21:06:57
 		* 揺らぎ [揺らぎofficial](https://yuragiyurajapan.jimdo.com/) [揺らぎtwitter](https://twitter.com/_yuragi_yura)
 		* Linked Horizon
 			* [暁の鎮魂歌](https://www.youtube.com/watch?v=Y5UC3aTW6co)
+		* Covet
+			* [Effloresce(2018 Album)](https://www.youtube.com/watch?v=_zwLaIAEYVQ)
 	* 歌手
 		* ASCA
 			* [Unti-L](https://www.youtube.com/watch?v=Ty1RDA1ipaU)

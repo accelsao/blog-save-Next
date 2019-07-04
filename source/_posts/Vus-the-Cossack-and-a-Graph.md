@@ -11,12 +11,8 @@ mathjax: true
 date: 2019-07-01 16:01:54
 ---
 
-解題心得(未完)
-TODO:
-這個[Code](https://codeforces.com/contest/1186/submission/56222130) 好像更為簡潔
+解題心得
 直接爆寫4hr 但還沒完全理解
-問題1: 如何處理散落的component
-用0和某一點建邊 但我不確定是否通用 雖然AC了
 <!--more-->
 
 # Notes
@@ -44,6 +40,7 @@ TODO:
 輸出結果會剛好形成 0-u連接兩個邊的情況
 
 # Code
+1. 實際和0建邊後 形成Euler Cycle再依序選擇邊
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
@@ -145,4 +142,72 @@ int main(){
 	
 }
 ```
-
+2. 不和0建邊 直接輪流選邊 從odd degree開始 再與剩下的開始 Code較短但較久
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+ 
+#define F first
+#define S second
+typedef long long ll;
+const int N = 2e6+10;
+const int M = 1e9 + 7;
+const int inf = 1234567890;
+const ll INF = 1e18;
+ 
+int n,m;
+vector<int> ans;
+vector<pair<int,int>> edge;
+set<int> edge_set[N];
+void dfs(int u, int edge_id=-1, int chs=0){
+	if(edge_id!=-1){	
+		if(chs){
+			ans.push_back(edge_id);
+		}
+		edge_set[u].erase(edge_id);
+		
+		if(edge_set[u].size()==0){
+			if(!chs){
+				ans.push_back(edge_id);
+			}
+			return ;
+		}
+	}
+	
+	auto e=edge_set[u].begin();
+	int id=*e;
+	int _u=edge[id].F;
+	int _v=edge[id].S;
+	// who dont know which is real u, xor them to get v
+	edge_set[u].erase(e);
+	dfs(_u^_v^u, id, chs^1);//xor to delete u in order to get v
+	return ;
+}
+int main(){
+	ios::sync_with_stdio(0),cin.tie(0),cout.tie(0);
+	cin>>n>>m;
+	int u,v;
+	edge.resize(m);
+	for(int i=0;i<m;i++){
+		cin>>edge[i].F>>edge[i].S;
+		edge_set[edge[i].F].insert(i);
+		edge_set[edge[i].S].insert(i);
+	}
+	for(int i=1;i<=n;i++){
+		if(edge_set[i].size()%2){
+			dfs(i);
+		}
+	}
+	for(int i=1;i<=n;i++){
+		if(edge_set[i].size()){
+			dfs(i);
+		}
+	}
+	
+	cout<<ans.size()<<endl;
+	for(const auto& e:ans){
+		printf("%d %d\n",edge[e].F, edge[e].S);
+	}
+	
+}
+```
