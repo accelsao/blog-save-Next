@@ -20,6 +20,9 @@ Subjects | `cs.LG` `stat.ML` `cs.CV` `math.OC`
 `Importance sampling`
 
 # Papers
+[Group Equivariant Convolutional Networks](https://arxiv.org/abs/1602.07576)
+[Spherical CNNs](https://arxiv.org/abs/1801.10130)
+[Gauge Equivariant Convolutional Networks and the Icosahedral CNN](https://arxiv.org/abs/1902.04615)
 [The Functional Neural Process](https://arxiv.org/abs/1906.08324)
 [Sequential Neural Processes](https://arxiv.org/abs/1906.10264)
 [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291)

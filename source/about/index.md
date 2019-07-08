@@ -100,6 +100,10 @@ date: 2018-09-15 21:06:57
 	
 	* 《命運石之門》
 	* 《為美好的世界獻上祝福！ S2》
+	* 《我的英雄学院 S3》
+	
+		>短時間飆完, 沒看過這麼熱血的作品, 有感動到爆的瞬間, 有熱血到燃的場景, 有歡樂無比的日常 1,2,3的劇情節奏掌握越來越流暢 最愛八百萬了, 又正又聰明! 她的個性也是很有可能成為No1. 話說S4要校外活動了 看起來就挺刺激的畢竟我猜綠谷是給Sir帶 19/07/07
+		
 	* 《約定的夢幻島》
 	
 		>逃出農場, 平平收尾 19/04/14
@@ -123,7 +127,7 @@ date: 2018-09-15 21:06:57
 	* 《全部成為F》
 	* 《寶石之國》
 	* 《來自深淵》
-	* 《我的英雄学院 第二季》
+	* 《我的英雄学院 S2》
 	* 《我的英雄學院》
 	* 《五等分的新娘》
 	
@@ -500,6 +504,8 @@ date: 2018-09-15 21:06:57
 			* [Here](https://www.youtube.com/watch?v=yq6VhQGz-no) `魔法使新娘 OP`
 		* 菅原紗由理
 			* [キミに赠る歌](https://www.youtube.com/watch?v=I-gtcv9KWLU)
+		* 結城アイラ
+			* [Believe in...](https://www.youtube.com/watch?v=nb7zWFvNYrQ)
 	* 遊戲/動畫/電影 OST/BGM
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)
@@ -647,6 +653,8 @@ date: 2018-09-15 21:06:57
 		* [Sad Romance (Violin Version)](https://www.youtube.com/watch?v=aFZ7bBaYpcw)
 		* [HAMOTSUKIN BEST～Original Disc～](https://www.youtube.com/watch?v=PlEKXtYb_c4)【全曲試聴】
 			* 水晶に映る姫君 歌: 霜月はるか、茶太、片霧烈火
+		* V.K克
+			* [光 無盡墜落的美麗 Endless Falling Lights](https://www.youtube.com/watch?v=IxX78L9jihw)
 		
 * 經典名句
 	* 忘了出處
