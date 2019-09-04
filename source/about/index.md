@@ -506,6 +506,10 @@ date: 2018-09-15 21:06:57
 			* [キミに赠る歌](https://www.youtube.com/watch?v=I-gtcv9KWLU)
 		* 結城アイラ
 			* [Believe in...](https://www.youtube.com/watch?v=nb7zWFvNYrQ)
+		* コレサワ
+			* [恋人失格](https://www.youtube.com/watch?v=3EIHuC5e21k)
+		* KizunaAI
+			* [恋人失格/covered by キズナアイ](https://www.youtube.com/watch?v=BsLyJ6MTVys)
 	* 遊戲/動畫/電影 OST/BGM
 		* CLANN
 			* [Seelie](https://www.youtube.com/watch?v=jn6UB-jLblM)

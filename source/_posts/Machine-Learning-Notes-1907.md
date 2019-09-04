@@ -1,7 +1,9 @@
 ---
 title: Machine Learning Notes 1907
 tags:
+  - Gaussian Processes
   - Monte Carlo
+  - Meta Learning
   - Neural Processes
   - Varience Reduction
   - PAC-Bayes
@@ -11,15 +13,20 @@ mathjax: false
 date: 2019-07-01 09:43:44
 ---
 
-Subjects | `cs.LG` `stat.ML` `cs.CV` `math.OC`
+Subjects | `cs.CL` `cs.CV` `cs.LG` `stat.ML` `math.OC`
 <!--more-->
 
 # Topics
+`Monte Carlo`
+`Gaussian process`
+`Meta Learning`
+`Online Learning`
 `PAC-Bayes`
-`Variance reduction`
-`Importance sampling`
 
 # Papers
+[Task Agnostic Continual Learning via Meta Learning](https://arxiv.org/abs/1906.05201)
+[Large Memory Layers with Product Keys](https://arxiv.org/abs/1907.05242)
+[Large Scale Adversarial Representation Learning](https://arxiv.org/abs/1907.02544)
 [Group Equivariant Convolutional Networks](https://arxiv.org/abs/1602.07576)
 [Spherical CNNs](https://arxiv.org/abs/1801.10130)
 [Gauge Equivariant Convolutional Networks and the Icosahedral CNN](https://arxiv.org/abs/1902.04615)
@@ -31,9 +38,12 @@ Subjects | `cs.LG` `stat.ML` `cs.CV` `math.OC`
 [NVlabs/SPADE](https://github.com/NVlabs/SPADE)
 
 # WorkShop
+[Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl/home?authuser=0)
 
 # Tutorial
 [A Primer on PAC-Bayesian Learning](https://bguedj.github.io/icml2019/index.html)
+[Lecture Notes on Bayesian Nonparametrics](http://stat.columbia.edu/~porbanz/papers/porbanz_BNP_draft.pdf)
+[Monte Carlo theory, methods and examples](https://statweb.stanford.edu/~owen/mc/)
 
 # Notes
 
